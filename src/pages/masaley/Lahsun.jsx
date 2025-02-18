@@ -6,16 +6,14 @@ function Lahsun() {
       <>
         <meta httpEquiv="Content-Type" content="text/html; charset=UTF-8" />
         <title>Lahusun</title>
+        <div className="flex justify-between my-10">
         <center>
-          <h3 className="h3class">
-            <strong>लहसुन</strong>
-          </h3>
+          <h1 className="h3class text-3xl ml-[35vw] font-semibold">लहसुन</h1>
         </center>
-        <div style={{ float: "right" }}>
-          <a className="peechey" href="Link.do?method=maslonkikheti">
-            पीछे जाएँ
-          </a>
+        <div style={{ float: 'right' }}>
+          <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded" href="/masale">पीछे जाएँ</a>
         </div>
+      </div>
         <p>
           {" "}
           लहसुन का प्रयोग अचार, चटनी, केचअप आदि संसाधित पदार्थों को बनाने में
@@ -181,9 +179,8 @@ function Lahsun() {
           <br />
         </p>
         <div style={{ float: "right" }}>
-          <a className="peechey" href="Link.do?method=maslonkikheti">
-            पीछे जाएँ
-          </a>
+        <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded" href="/masale">पीछे जाएँ</a>
+
         </div>
         <p />
       </>

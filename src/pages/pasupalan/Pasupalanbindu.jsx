@@ -6,7 +6,7 @@ export default function Pasupalanbindu() {
         <>
   <meta httpEquiv="Content-Type" content="text/html; charset=UTF-8" />
   <title>JSP Page</title>
-  <p>
+  <p className='text-3xl font-bold mb-5 '>
     पशु पालन के प्रमुख बिन्दु
     <br />
   </p>

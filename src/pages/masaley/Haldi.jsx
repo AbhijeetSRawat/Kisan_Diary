@@ -6,15 +6,12 @@ function Haldi() {
       <>
         <p />
         <center>
-          <h3 className="h3class">
-            <strong>हल्दी</strong>
-          </h3>
-        </center>{" "}
-        <div style={{ float: "right" }}>
-          <a className="peechey" href="Link.do?method=maslonkikheti">
-            पीछे जाएँ
-          </a>
+          <h1 className="h3class text-3xl mb-5 font-semibold">हल्दी</h1>
+        </center>
+        <div style={{ float: 'right' }}>
+          <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded" href="/masale">पीछे जाएँ</a>
         </div>
+        
         <p>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;हल्दी के उबालकर सूखे व पालिस किए
           गए प्रकन्द को मसाले की तरह उपयोग करते हैं। हल्दी की बहुत कम मात्रा ही

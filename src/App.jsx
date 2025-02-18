@@ -26,6 +26,14 @@ import Pasuahar from './pages/pasupalan/Pasuahar';
 import Pasubimari from './pages/pasupalan/Pasubimari';
 import Kukutpalan from './pages/pasupalan/Kukutpalan';
 import Matsya from './pages/pasupalan/Matsya';
+import Pasuhealth from './pages/pasupalan/Pasuhealth';
+import Pasupalanbindu from './pages/pasupalan/Pasupalanbindu';
+import Matsyapalan from './pages/pasupalan/Matsyapalan';
+import Dhaniya from './pages/masaley/Dhaniya';
+import Methi from './pages/masaley/Methi';
+import Lahsun from './pages/masaley/Lahsun';
+import Haldi from './pages/masaley/Haldi';
+import Adrak from './pages/masaley/Adrak';
 const App = () => {
   return (
     <div style={{ display: "flex", flexDirection: "column" }}>
@@ -81,7 +89,9 @@ const App = () => {
                 <Route path='/masale' element={<Masale/>}/>
                 <Route path='/pyaj' element={<Pyaj/>}/>
                 <Route path='/dhaan' element={<Chawal/>}/>
-                
+                <Route path='/pashuprabandhan' element={<Pasuhealth/>}/>
+                <Route path='/pramukhbindu' element={<Pasupalanbindu/>}/>
+                <Route path='/matsyapalan' element={<Matsyapalan/>}/>
                 <Route path='/makka' element={<Macca/>}/>
                 <Route path='/jo' element={<Jo/>}/>
                 <Route path='/pashu' element={<PashuPalan/>}/>
@@ -89,6 +99,11 @@ const App = () => {
                 <Route path='/pasubimari' element={<Pasubimari/>}/>
                 <Route path='/kukkut' element={<Kukutpalan/>}/>
                 <Route path='/matsya' element={<Matsya/>}/>
+                <Route path='/dhaniya' element={<Dhaniya/>}/>
+                <Route path='/methi' element={<Methi/>}/>
+                <Route path='/lehsun' element={<Lahsun/>}/>
+                <Route path='/haldi' element={<Haldi/>}/>
+                <Route path='/adrak' element={<Adrak/>}/>
 
                 <Route path='*' element={<div> Not Found</div>} />
             </Routes>
