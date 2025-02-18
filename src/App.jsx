@@ -1,19 +1,11 @@
-<<<<<<< HEAD
+
 import React from 'react';
 import logo from './assets/imgages/logo1.jpg'
 import joinedImages from './assets/imgages/joinedimages.jpg'
 import { Routes } from 'react-router-dom';
 import SideBar from './components/SideBar';
 const App = () => {
-=======
 
-import { Route, Routes } from 'react-router-dom'
-import Gehun from './pages/gehun'
-import arhar from './pages/dal/'
-
-
-export default function App() {
->>>>>>> 35c629108a849be3b545576e1aecc438820dbbce
   return (
     <div style={{ display: 'flex', flexDirection: 'column', }}>
       {/* Header */}
