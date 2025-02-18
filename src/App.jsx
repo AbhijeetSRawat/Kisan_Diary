@@ -1,3 +1,21 @@
+<<<<<<< HEAD
+//<<<<<<< HEAD
+
+import { Route, Routes } from 'react-router-dom'
+import Gehun from './pages/gehun'
+import { Cheena } from './pages/motaanaz/Cheena'
+import { Gahat } from './pages/motaanaz/Gahat'
+import { Jhangora } from './pages/motaanaz/Jhangora'
+import { Kakun } from './pages/motaanaz/Kakun'
+import {Kutki} from './pages/motaanaz/Kutki'
+import { Ramdana } from './pages/motaanaz/Ramdana'
+
+
+// } from './pages/motaanaz/Kuttu'
+export default function App() {
+
+=======
+>>>>>>> 065d4d7324e636f57d59308e7d95194942fe5350
 import React from 'react';
 import logo from './assets/imgages/logo1.jpg'
 import joinedImages from './assets/imgages/joinedimages.jpg'
@@ -62,6 +80,10 @@ import Til from './pages/til/Til';
 import Surajmukhi from './pages/til/Surajmukhi';
 import Soyabeen from './pages/til/Soyabeen';
 const App = () => {
+<<<<<<< HEAD
+//>>>>>>> b7670bb6ccf28a6ac60565848412bde74ebd9ade
+=======
+>>>>>>> 065d4d7324e636f57d59308e7d95194942fe5350
   return (
     <div style={{ display: "flex", flexDirection: "column" }}>
       {/* Header */}

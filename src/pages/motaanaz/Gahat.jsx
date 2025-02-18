@@ -1,5 +1,5 @@
 import React from 'react'
-
+import gahatimage from "../../assets/imgages/gahat.jpg"
 export const Gahat = () => {
   return (
     <div>
@@ -22,7 +22,7 @@ export const Gahat = () => {
   <p>
     <strong className="strongclass">उन्नत किस्में</strong>
     <br />
-    <img src="../imgages/gahat.jpg" width={765} height={178} />
+    <img src={gahatimage} width={765} height={178} />
   </p>
   <p>
     <strong className="strongclass">बुवाई का समय</strong>

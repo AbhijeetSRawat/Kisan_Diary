@@ -9,8 +9,7 @@ export const Madua = () => {
   return (
     <div>
         <>
-  &lt;%-- Document : madua Created on : 26 Aug, 2015, 4:55:48 PM Author : gov
-  --%&gt; &lt;%@page contentType="text/html" pageEncoding="UTF-8"%&gt;
+ 
   <meta httpEquiv="Content-Type" content="text/html; charset=UTF-8" />
   <title>JSP Page</title>
   <style
