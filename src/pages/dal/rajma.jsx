@@ -3,15 +3,16 @@ import React from 'react'
 function Rajma() {
   return (
     <div>
+        
         <>
-  <center>
-    <h3 className="h3class"> राजमा </h3>
-  </center>
-  <div style={{ float: "right" }}>
-    <a className="peechey" href="Link.do?method=dalhanifaslein">
-      पीछे जाएँ
-    </a>
-  </div>
+        <div className="flex justify-between my-10">
+      <center>
+        <h1 className="h3class text-3xl ml-[35vw] font-semibold">राजमा</h1>
+      </center>
+      <div style={{ float: 'right' }}>
+        <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" href="/DalhaniFasle">पीछे जाएँ</a>
+      </div>
+      </div>
   <p>
     <br />
     <strong className="strongclass">उन्नत किस्में </strong>
@@ -123,7 +124,7 @@ function Rajma() {
     सघन पद्धतियाॅ अपनाकर 12-15 कुन्तल/हैक्टर उपज प्राप्त की जा सकती है।
   </p>
   <div style={{ float: "right" }}>
-    <a className="peechey" href="Link.do?method=dalhanifaslein">
+    <a  className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded-sm" href="/DalhaniFasle">
       पीछे जाएँ
     </a>
   </div>

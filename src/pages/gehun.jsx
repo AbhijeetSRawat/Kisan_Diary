@@ -6,16 +6,18 @@ import table4 from "../assets/imgages/tables/table4.jpg";
 import table5 from "../assets/imgages/tables/table5.jpg";
 import table6 from "../assets/imgages/tables/table6.jpg";
 import table7 from "../assets/imgages/tables/table7.jpg";
-import { Link } from "react-router-dom";
+
 
 export default function Gehun() {
   return (
     <div>
+      <div className="flex justify-between my-10">
       <center>
-        <h1 className="h3class">गेहूँ</h1>
+        <h1 className="h3class text-3xl ml-[35vw] font-semibold">गेहूँ</h1>
       </center>
       <div style={{ float: 'right' }}>
-        <a className="peechey" href="Link.do?method=khadyanfasley">पीछे जाएँ</a>
+        <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" href="/KhadyanFasle">पीछे जाएँ</a>
+      </div>
       </div>
 
       <b>डा. जे.पी. जायसवाल, डा. स्वाती, डा. अनिल कुमार, डा. राजीव कुमार, एवं डा. दीपशिखा</b>

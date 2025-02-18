@@ -3,15 +3,16 @@ import React from 'react'
 export default function Matar() {
   return (
     <div>
+      <div className="flex justify-between my-10">
+      <center>
+        <h1 className="h3class text-3xl ml-[35vw] font-semibold">मटर</h1>
+      </center>
+      <div style={{ float: 'right' }}>
+        <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" href="/DalhaniFasle">पीछे जाएँ</a>
+      </div>
+      </div>
+        <></>
         <>
-  <center>
-    <h3 className="h3class">मटर</h3>
-  </center>
-  <div style={{ float: "right" }}>
-    <a className="peechey" href="Link.do?method=dalhanifaslein">
-      पीछे जाएँ{" "}
-    </a>
-  </div>
   <p>
     {" "}
     &nbsp;&nbsp;&nbsp;&nbsp;मटर की फसल दाल के लिए उगायी जाती है। सूखी मटर को
@@ -216,7 +217,7 @@ export default function Matar() {
     उपज प्राप्त की जा सकती है।
   </p>
   <div style={{ float: "right" }}>
-    <a className="peechey" href="Link.do?method=dalhanifaslein">
+    <a  className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded-sm" href="/DalhaniFasle">
       पीछे जाएँ{" "}
     </a>
   </div>
