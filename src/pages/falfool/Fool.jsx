@@ -1553,7 +1553,7 @@ export default function Fool() {
               <span
                 style={{ fontFamily: '"Kruti Dev 010"', fontSize: "14.0pt" }}
               >
-                ruk foxyu
+                तना विगलन
               </span>
             </strong>
             <strong>
@@ -1627,11 +1627,11 @@ export default function Fool() {
             }}
           >
             <span style={{ fontFamily: '"Kruti Dev 010"', fontSize: "14.0pt" }}>
-              ;g chekjh <em>bjohfu;k</em> Lih”kht {"}"}kjk gksrh gS
+            यह बीमारी ढमउझइरवीनियाढध्मउझ स्पीशीज क्ष्ष्द्वष्द्वारा होती है
             </span>
             <span style={{ fontFamily: '"Kruti Dev 010"', fontSize: "14.0pt" }}>
               {" "}
-              ftles iq’idyh dkys Hkwjsa /kCcsa ij dj lw[k tkrh gSA
+              जिसमे पुष्पकली काले भूरें धब्बें पर कर सूख जाती है।
             </span>
             <span style={{ fontFamily: '"Kruti Dev 010"', fontSize: "14.0pt" }}>
               {" "}
@@ -1661,8 +1661,8 @@ export default function Fool() {
             }}
           >
             <span style={{ fontFamily: '"Kruti Dev 010"', fontSize: "14.0pt" }}>
-              bldh jksdFkke ds fy, jksx xzLr ikSa/kksa dks m[kkM+ dj u’V dj nsuk
-              pkfg,A bl chekjh ds jksdFkke ds fy;s LVsªekbflu{" "}
+            इसकी रोकथाम के लिए रोग ग्रस्त पौंधों को उखाड़ कर नष्ट कर देना
+            चाहिए। इस बीमारी के रोकथाम के लिये स्टेªमाइसिनक्ष्ष् ष्द्व
             </span>
             <span
               style={{
@@ -1674,7 +1674,7 @@ export default function Fool() {
             </span>
             <span style={{ fontFamily: '"Kruti Dev 010"', fontSize: "14.0pt" }}>
               {" "}
-              dk iz;ksx djuk pkfg,A
+              का प्रयोग करना चाहिए।
             </span>
           </p>
         </td>
@@ -1703,7 +1703,7 @@ export default function Fool() {
               <span
                 style={{ fontFamily: '"Kruti Dev 010"', fontSize: "14.0pt" }}
               >
-                iq’i dfydk lM+u jksx
+                पुष्प कलिका सड़न रोग
               </span>
             </strong>
           </p>
@@ -1734,7 +1734,7 @@ export default function Fool() {
               <span
                 style={{ fontFamily: '"Kruti Dev 010"', fontSize: "14.0pt" }}
               >
-                izeq[k dhV
+               प्रमुख कीट
               </span>
             </strong>
           </p>
@@ -1802,9 +1802,9 @@ export default function Fool() {
             }}
           >
             <span style={{ fontFamily: '"Kruti Dev 010"', fontSize: "14.0pt" }}>
-              ;g gjs jax ds NksVs&amp;NksVs dhV &gt;q.M esa ubZ “kk[kkvksa o Qwy
-              dh dyh ij ik;s tkrs gSa tks jl pwldj ikS/kksa dks gkfu igq¡pkrs
-              gSaA
+            माहू तथा थ्रिप्स की रोकथाम के लिए रोगोर अथवा मेटासिटाक्स को
+              1.75 से 2.0 मिली0 प्रति ली0 की दर से पानी में घोल बनाकर छिड़काव
+              करना चाहिए।
             </span>
             <span style={{ fontFamily: '"Kruti Dev 010"', fontSize: "14.0pt" }}>
               {" "}
@@ -1833,9 +1833,9 @@ export default function Fool() {
             }}
           >
             <span style={{ fontFamily: '"Kruti Dev 010"', fontSize: "14.0pt" }}>
-              ekgw rFkk fFkzIl dh jksdFkke ds fy, jksxksj vFkok esVkflVkDl dks
-              1-75 ls 2-0 feyh0 izfr yh0 dh nj ls ikuh esa ?kksy cukdj fNM+dko
-              djuk pkfg,A
+            माहू तथा थ्रिप्स की रोकथाम के लिए रोगोर अथवा मेटासिटाक्स को
+              1.75 से 2.0 मिली0 प्रति ली0 की दर से पानी में घोल बनाकर छिड़काव
+              करना चाहिए।
             </span>
           </p>
         </td>
@@ -1864,7 +1864,7 @@ export default function Fool() {
               <span
                 style={{ fontFamily: '"Kruti Dev 010"', fontSize: "14.0pt" }}
               >
-                ekgw vFkok isik
+                माहू अथवा पेपा
               </span>
             </strong>
           </p>
