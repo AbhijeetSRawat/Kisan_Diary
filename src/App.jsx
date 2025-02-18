@@ -1,13 +1,3 @@
-import React from "react";
-import logo from "./assets/imgages/logo1.jpg";
-import joinedImages from "./assets/imgages/joinedimages.jpg";
-import { Route, Routes } from "react-router-dom";
-import SideBar from "./components/SideBar";
-import Chapter1 from "./pages/chapter1";
-import Homepage from "./pages/Homepage";
-
-<<<<<<< HEAD
-=======
 import React from 'react';
 import logo from './assets/imgages/logo1.jpg'
 import joinedImages from './assets/imgages/joinedimages.jpg'
@@ -25,7 +15,6 @@ import Urd from './pages/Dal/urd';
 import Moong from './pages/Dal/moong';
 import Rajma from './pages/Dal/rajma';
 import Arhar from './pages/Dal/arhar';
->>>>>>> 0f0b1b21d2f6e6897a165c0bef90458e71fe5432
 const App = () => {
   return (
     <div style={{ display: "flex", flexDirection: "column" }}>
@@ -66,11 +55,6 @@ const App = () => {
         <main style={{ flex: 1, padding: "24px" }}>
           <div style={{ marginBottom: "16px" }}>
             <Routes>
-<<<<<<< HEAD
-              <Route path="/" element={<Homepage />} />
-              <Route path="/chapter1" element={<Chapter1 />} />
-              <Route path="*" element={<div> Not Found</div>} />
-=======
                 <Route path='/' element={<Homepage/>}/>
                 <Route path='/chapter1' element={<Chapter1/>}/>
                 <Route path='/KhadyanFasle' element={<KhadyanFasle/>}/>
@@ -84,7 +68,6 @@ const App = () => {
                 <Route path='/rajma' element={<Rajma/>}/>
                 <Route path='/arhar' element={<Arhar/>}/>
                 <Route path='*' element={<div> Not Found</div>} />
->>>>>>> 0f0b1b21d2f6e6897a165c0bef90458e71fe5432
             </Routes>
           </div>
           <div
