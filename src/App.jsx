@@ -53,6 +53,14 @@ import Leechi from './pages/falfool/Leechi';
 import Amrud from './pages/falfool/Amrud';
 import Exportfool from './pages/falfool/Exportfool';
 import Ganna from './pages/Ganna';
+import Tilhanifasle from './components/Tilhanifasle';
+import Lahi from './pages/til/Lahi';
+import Rai from './pages/til/Rai';
+import Peelisarson from './pages/til/Peelisarson';
+import Moongfali from './pages/til/Moongfali';
+import Til from './pages/til/Til';
+import Surajmukhi from './pages/til/Surajmukhi';
+import Soyabeen from './pages/til/Soyabeen';
 const App = () => {
   return (
     <div style={{ display: "flex", flexDirection: "column" }}>
@@ -141,6 +149,15 @@ const App = () => {
                 <Route path='/amroodkiunnat' element={<Amrud/>}/>
                 <Route path='/pushputpadan' element={<Fool/>}/>
                 <Route path='/ganna' element={<Ganna/>}/>
+                <Route path='/tilhanifasle' element={<Tilhanifasle/>}/>
+                <Route path='/lahi' element={<Lahi/>}/>
+                <Route path='/rai' element={<Rai/>}/>
+                <Route path='/peelisarso' element={<Peelisarson/>}/>
+                <Route path='/moongfali' element={<Moongfali/>}/>
+                <Route path='/til' element={<Til/>}/>
+                <Route path='/soorajmukhi' element={<Surajmukhi/>}/>
+                <Route path='/soyabeen' element={<Soyabeen/>}/>
+
 
 
 

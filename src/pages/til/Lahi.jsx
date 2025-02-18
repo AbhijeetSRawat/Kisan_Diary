@@ -1,6 +1,6 @@
 import React from 'react'
 import table1 from "../../assets/imgages/tables/table_lahi_1.jpg"
-export default function lahi() {
+export default function Lahi() {
   return (
     <div>
         <>
