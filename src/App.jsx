@@ -1,18 +1,3 @@
-<<<<<<< HEAD
-
-import { Route, Routes } from 'react-router-dom'
-import Gehun from './pages/gehun'
-import { Cheena } from './pages/motaanaz/Cheena'
-import { Gahat } from './pages/motaanaz/Gahat'
-import { Jhangora } from './pages/motaanaz/Jhangora'
-import { Kakun } from './pages/motaanaz/Kakun'
-import {Kutki} from './pages/motaanaz/Kutki'
-import { Ramdana } from './pages/motaanaz/Ramdana'
-
-
-// } from './pages/motaanaz/Kuttu'
-export default function App() {
-=======
 import React from 'react';
 import logo from './assets/imgages/logo1.jpg'
 import joinedImages from './assets/imgages/joinedimages.jpg'
@@ -42,7 +27,6 @@ import Pasubimari from './pages/pasupalan/Pasubimari';
 import Kukutpalan from './pages/pasupalan/Kukutpalan';
 import Matsya from './pages/pasupalan/Matsya';
 const App = () => {
->>>>>>> b7670bb6ccf28a6ac60565848412bde74ebd9ade
   return (
     <div style={{ display: "flex", flexDirection: "column" }}>
       {/* Header */}
@@ -74,14 +58,6 @@ const App = () => {
       </header>
       <img src={joinedImages} alt="images" />
 
-<<<<<<< HEAD
-        </nav>
-        <Routes>
-            <Route path='/' element={<Gehun/>}/>
-            <Route path='*' element="page not found"/>
-           
-        </Routes>
-=======
       <div style={{ display: "flex", flex: 1 }}>
         {/* Sidebar */}
         <SideBar className="h-[70vh]" />
@@ -90,7 +66,7 @@ const App = () => {
         <main className='bg-slate-300' style={{ flex: 1, padding: "24px" }}>
           <div className=' bg-white  border-4 p-5  rounded-lg' style={{ marginBottom: "16px" }}>
             <Routes>
-                <Route path='/' element={<Homepage/>}/>
+                <Route path='/' element={<Abt/>}/>
                 <Route path='/chapter1' element={<Chapter1/>}/>
                 <Route path='/KhadyanFasle' element={<KhadyanFasle/>}/>
                 <Route path='/DalhaniFasle' element={<DalhaniFasle/>}/>
@@ -105,7 +81,7 @@ const App = () => {
                 <Route path='/masale' element={<Masale/>}/>
                 <Route path='/pyaj' element={<Pyaj/>}/>
                 <Route path='/dhaan' element={<Chawal/>}/>
-                <Route path='/ekjhalak' element={<Abt/>}/>
+                
                 <Route path='/makka' element={<Macca/>}/>
                 <Route path='/jo' element={<Jo/>}/>
                 <Route path='/pashu' element={<PashuPalan/>}/>
@@ -119,7 +95,6 @@ const App = () => {
           </div>
          
         </main>
->>>>>>> b7670bb6ccf28a6ac60565848412bde74ebd9ade
       </div>
     </div>
   );
