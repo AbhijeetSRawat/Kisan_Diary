@@ -6,9 +6,9 @@ export default function KhadyanFasle() {
     <div>
         <ul className='flex flex-col gap-3'>
         <li><Link className='text-2xl text-blue-900 ' to="/gehun"> 1.गेहूँ</Link></li>
-        <li><Link className='text-2xl text-blue-900 ' to="/gehun"> 2.</Link></li>
-        <li><Link className='text-2xl text-blue-900 ' to="/gehun"> 3.</Link></li>
-        <li><Link className='text-2xl text-blue-900 ' to="/gehun"> 4.</Link></li>
+        <li><Link className='text-2xl text-blue-900 ' to="/dhaan"> 2.धान</Link></li>
+        <li><Link className='text-2xl text-blue-900 ' to="/jo"> 3.जौ</Link></li>
+        <li><Link className='text-2xl text-blue-900 ' to="/makka"> 4.मक्का</Link></li>
         </ul>
     </div>
   )

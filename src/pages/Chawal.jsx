@@ -6,17 +6,14 @@ export default function Chawal() {
   return (
     <div>
         <>
-  &lt;%@page contentType="text/html" pageEncoding="UTF-8"%&gt;
-  <meta charSet="utf-8" />
-  <title>Untitled Document</title>
-  <center>
-    <h1 className="h3class">धान</h1>
-  </center>{" "}
-  <div style={{ float: "right" }}>
-    <a className="peechey" href="Link.do?method=khadyanfasley">
-      पीछे जाएँ
-    </a>
-  </div>
+        <div className="flex justify-between my-10">
+      <center>
+        <h1 className="h3class text-3xl ml-[35vw] font-semibold">धान</h1>
+      </center>
+      <div style={{ float: 'right' }}>
+        <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" href="/KhadyanFasle">पीछे जाएँ</a>
+      </div>
+      </div>
   <br />
   <div align="right">
     <a className="peechey" href="./pdfs/Dhan Ki kheti, 2014.pdf">
@@ -509,9 +506,8 @@ export default function Chawal() {
   <br />
   <p>संपर्क सूत्र: 8755790584</p>
   <div style={{ float: "right" }}>
-    <a className="peechey" href="Link.do?method=khadyanfasley">
-      पीछे जाएँ
-    </a>
+  <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" href="/KhadyanFasle">पीछे जाएँ</a>
+
   </div>
   <p />
 </>

@@ -17,6 +17,10 @@ import Rajma from './pages/Dal/rajma';
 import Arhar from './pages/Dal/arhar';
 import Masale from './components/Masale';
 import Pyaj from './pages/masaley/Pyaj';
+import Chawal from './pages/Chawal';
+import Abt from './pages/abt';
+import Macca from './pages/macca';
+import Jo from './pages/jo';
 const App = () => {
   return (
     <div style={{ display: "flex", flexDirection: "column" }}>
@@ -71,6 +75,11 @@ const App = () => {
                 <Route path='/arhar' element={<Arhar/>}/>
                 <Route path='/masale' element={<Masale/>}/>
                 <Route path='/pyaj' element={<Pyaj/>}/>
+                <Route path='/dhaan' element={<Chawal/>}/>
+                <Route path='/ekjhalak' element={<Abt/>}/>
+                <Route path='/makka' element={<Macca/>}/>
+                <Route path='/jo' element={<Jo/>}/>
+
                 <Route path='*' element={<div> Not Found</div>} />
             </Routes>
           </div>

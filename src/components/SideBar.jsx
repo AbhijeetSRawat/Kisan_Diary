@@ -8,9 +8,11 @@ export default function SideBar() {
           <ul style={{ listStyle: 'none', padding: 0 }}>
             <li className='flex flex-col gap-5'>
               <Link className='bg-black text-white rounded-md h-[40px] flex justify-center items-center hover:bg-white hover:text-black' to="/chapter1" >उत्तराखंड एक दृष्टि </Link>
+              <Link className='bg-black text-white rounded-md h-[70px] flex justify-center items-center pl-3 hover:bg-white hover:text-black' to="/ekjhalak">पन्तनगर विश्वविद्यालय - एक झलक</Link>
               <Link className='bg-black text-white rounded-md h-[40px] flex justify-center items-center hover:bg-white hover:text-black' to="/khadyanfasle">खाद्यान्न फसलें</Link>
               <Link className='bg-black text-white rounded-md h-[40px] flex justify-center items-center hover:bg-white hover:text-black' to="/dalhanifasle">दलहनी फसलें</Link>
               <Link className='bg-black text-white rounded-md h-[40px] flex justify-center items-center hover:bg-white hover:text-black' to="/masale">मसालों की खेती</Link>
+
             </li>
           </ul>
         </aside>
