@@ -5,6 +5,7 @@ import joinedImages from './assets/imgages/joinedimages.jpg'
 import { Route, Routes } from 'react-router-dom';
 import SideBar from './components/SideBar';
 import Chapter1 from './pages/chapter1';
+import Homepage from './pages/Homepage';
 const App = () => {
 
   return (
@@ -31,7 +32,9 @@ const App = () => {
         <main style={{ flex: 1, padding: '24px' }}>
           <div style={{ marginBottom: '16px' }}>
             <Routes>
+                <Route path='/' element={<Homepage/>}/>
                 <Route path='/chapter1' element={<Chapter1/>}/>
+                <Route path='*' element={<div> Not Found</div>} />
             </Routes>
           </div>
           <div style={{ background: '#fff', padding: '24px', minHeight: '600px', borderRadius: '8px' }}>
