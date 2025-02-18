@@ -6,16 +6,15 @@ function Pyaj() {
       <>
         <meta httpEquiv="Content-Type" content="text/html; charset=UTF-8" />
         <title>JSP Page</title>
+        <div className="flex justify-between my-10">
         <center>
-          <h3 className="h3class">
-            <strong> प्याज</strong>
-          </h3>
+          <h1 className="h3class text-3xl ml-[35vw] font-semibold">प्याज</h1>
         </center>
-        <div style={{ float: "right" }}>
-          <a className="peechey" href="Link.do?method=maslonkikheti">
-            पीछे जाएँ
-          </a>
+        <div style={{ float: 'right' }}>
+          <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded" href="/masale">पीछे जाएँ</a>
         </div>
+      </div>
+       
         <p>
           {" "}
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;प्याज का प्रयोग सलाद के रूप
@@ -180,9 +179,7 @@ function Pyaj() {
           {/* <strong class="strongclass">2. शीर्ष छेदक (हेलिओथिस आर्मिजेरा):</strong> इस कीट का लार्वा पत्तियां को काटकर फसल को हानि पहुँचाता है। यह कीट प्याज की बीज वाली फसल में ज्यादा क्षति पहुँचाता है। <br> */}
         </p>
         <div style={{ float: "right" }}>
-          <a className="peechey" href="Link.do?method=maslonkikheti">
-            पीछे जाएँ
-          </a>
+        <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded" href="/masale">पीछे जाएँ</a>
         </div>
       </>
     </div>
