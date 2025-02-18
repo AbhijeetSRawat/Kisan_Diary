@@ -1,5 +1,5 @@
 import React from 'react'
-import table1 from "../../assets/img/daal2.jsp"
+import table1 from "../../assets/img/daal2.jpg"
 export default function Arhar() {
   return (
     <div>
