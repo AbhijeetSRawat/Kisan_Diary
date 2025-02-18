@@ -7,7 +7,7 @@ export default function Chapter1() {
     <center>
       <p  style={{"-ms-text-overflow":""}}>
       </p><center>
-        <h3 className="h3class text-2xl">उत्तराखंड-एक दृष्टि मे </h3>
+        <h3 className="h3class text-3xl font-bold">उत्तराखंड-एक दृष्टि मे </h3>
       </center><br />
       <table>
         <tbody>
