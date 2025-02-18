@@ -1,5 +1,7 @@
-import React from 'react'
+
 import { Route, Routes } from 'react-router-dom'
+import Gehun from './pages/gehun'
+
 
 export default function App() {
   return (
@@ -9,7 +11,8 @@ export default function App() {
 
         </nav>
         <Routes>
-
+            <Route path='/' element={<Gehun/>}/>
+            <Route path='*' element="page not found"/>
         </Routes>
       </div>
     </div>
