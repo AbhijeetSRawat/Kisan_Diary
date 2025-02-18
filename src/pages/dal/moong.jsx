@@ -4,14 +4,15 @@ function Moong() {
   return (
     <div>
         <>
-  <center>
-    <h3 className="h3class">मूँग</h3>
-  </center>
-  <div style={{ float: "right" }}>
-    <a className="peechey" href="Link.do?method=dalhanifaslein">
-      पीछे जाएँ
-    </a>
-  </div>
+        <div className="flex justify-between my-10">
+      <center>
+        <h1 className="h3class text-3xl ml-[35vw] font-semibold">मूँग</h1>
+      </center>
+      <div style={{ float: 'right' }}>
+        <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" href="/DalhaniFasle">पीछे जाएँ</a>
+      </div>
+      </div>
+      
   <p>
     <br />
     <br />
@@ -156,7 +157,7 @@ function Moong() {
     संस्तुत सघन पद्धतियाँ अपनाकर 10-15 कु./है. उत्पादन प्राप्त किया जा सकता है।
   </p>
   <div style={{ float: "right" }}>
-    <a className="peechey" href="Link.do?method=dalhanifaslein">
+    <a  className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded-sm" href="/DalhaniFasle">
       पीछे जाएँ
     </a>
   </div>

@@ -1,19 +1,21 @@
 import React from 'react'
-
+import chanarog2 from "../../assets/img/chanarog2.jpg"
 export default function Chana() {
   return (
     <div>
+
+<div className="flex justify-between my-10">
+      <center>
+        <h1 className="h3class text-3xl ml-[35vw] font-semibold">चना</h1>
+      </center>
+      <div style={{ float: 'right' }}>
+        <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" href="/DalhaniFasle">पीछे जाएँ</a>
+      </div>
+      </div>
         <>
-  <center>
-    <h3 className="h3class">चना </h3>
-  </center>
-  <div style={{ float: "right" }}>
-    <a className="peechey" href="Link.do?method=dalhanifaslein">
-      पीछे जाएँ{" "}
-    </a>
-  </div>
+  
   <p>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;चना एक अत्यन्त महत्वपूर्ण दलहनी फसल है
+    चना एक अत्यन्त महत्वपूर्ण दलहनी फसल है
     जो कि कम सिंचित भूमि में भी आसानी से उगायी जा सकती है। दलहनी फसलों में चना
     का प्रमुख स्थान है। चना की औसत उत्पादकता लगभग 8 कु0/है0 है। जबकि प्रर्दशनों
     में लगभग 20-30 कु0/है0 प्राप्त हुआ है। अतः अधिक पैदावार प्राप्त करने हेतु
@@ -96,7 +98,7 @@ export default function Chana() {
     <br />
   </p>
   <p>
-    &nbsp;&nbsp;&nbsp;&nbsp;बुवाई के 25-30 और 45-50 दिन बाद खुरपी द्वारा
+    बुवाई के 25-30 और 45-50 दिन बाद खुरपी द्वारा
     खरपतवारों को निकाल देना चाहिए। सभी नवीन फसलों के लिए वेल्लोर 32 ईसी
     (पेंडिमेथालिन 30 ईसी) और बेस्टकी किकर 2 ईसी का 1.0 किग्रा 200-250 लीटर पानी
     में घोलकर बुवाई के तुरंत बाद प्रति हेक्टेयर छिड़काव से खरपतवारों का प्रकोप
@@ -122,7 +124,7 @@ export default function Chana() {
     </strong>
   </p>
   <p>
-    &nbsp;&nbsp;&nbsp;&nbsp;चने में मुख्य रूप से दो प्रकार के कीड़े हानि
+    चने में मुख्य रूप से दो प्रकार के कीड़े हानि
     पहुंचाते है। कटुआ अथवा कर्तनकीट तथा फलीवेधक। कटुआ की रोकथाम के लिये
     फेनवैलेरेट अथवा मैथाइल पैराथियान धूल 20-25 किलोग्राम प्रति हैक्टर की दर से
     भूमि में मिला दें। फली बेधक के नियंत्रण के लिए नीम सीड करनेल एक्स्ट्रैक्ट 5
@@ -143,7 +145,7 @@ export default function Chana() {
         <td>
           <img
             title="चने का एस्कोकाइटा ब्लाइट रोग"
-            src="./img/chanarog.jpg"
+            src="../img/chanarog.jpg"
             width={471}
             height={287}
           />
@@ -152,7 +154,7 @@ export default function Chana() {
           {" "}
           <img
             title="चने का ब्रोटाइटिस रोग"
-            src="./img/chanarog2.jpg"
+            src={chanarog2}
             width={471}
             height={287}
             align="middle"
@@ -177,7 +179,7 @@ export default function Chana() {
   </table>
   <p />
   <p>
-    &nbsp;&nbsp;&nbsp;&nbsp;चने में मुख्य रूप से उकठा, जड़ सड़न एवं अंगमारी रोग
+    चने में मुख्य रूप से उकठा, जड़ सड़न एवं अंगमारी रोग
     का प्रकोप होता है। इनकी रोकथाम के लिए बीजों को कार्बेन्डाजिम + थायरम (1ग्राम
     + 2 ग्राम प्रति कि.ग्रा. बीज) नामक कवकनाशी से उपचारित करके ही बोयें। चने की
     खेती खरीफ में धान उगाने के बाद करने से इन रोगों का प्रकोप काफी कम होता है।
@@ -193,7 +195,7 @@ export default function Chana() {
     जा सकती है।
   </p>
   <div style={{ float: "right" }}>
-    <a className="peechey" href="Link.do?method=dalhanifaslein">
+    <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded-sm" href="/DalhaniFasle">
       पीछे जाएँ{" "}
     </a>
   </div>

@@ -1,18 +1,17 @@
 import React from 'react'
-
+import table1 from "../../assets/img/daal2.jpg"
 export default function Arhar() {
   return (
     <div>
-        <>
-  <center>
-    <h3 className="h3class"> अरहर (तूर)</h3>
-  </center>
-  <br />
-  <div style={{ float: "right" }}>
-    <a className="peechey" href="Link.do?method=dalhanifaslein">
-      पीछे जाएँ
-    </a>
-  </div>
+     <>
+        <div className="flex justify-between my-10">
+      <center>
+        <h1 className="h3class text-3xl ml-[35vw] font-semibold">अरहर</h1>
+      </center>
+      <div style={{ float: 'right' }}>
+        <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" href="/DalhaniFasle">पीछे जाएँ</a>
+      </div>
+      </div>
   <p>
     <strong className="strongclass">उन्नत प्रजातियाँ </strong>
   </p>
@@ -146,7 +145,7 @@ export default function Arhar() {
       <br />
     </strong>
     {/* <img src= {table1} alt="table1" width="1000px" /> <br /> */}
-    <img src="../assets/img/daal2.jpg" width={623} height={254} align="middle" />
+    <img src={table1} width={623} height={254} align="middle" />
   </p>
   <p>
     <strong className="strongclass1"> बीजोपचार</strong>
@@ -256,7 +255,7 @@ export default function Arhar() {
     पछेती किस्मों की उपज 25-30 कुन्तल/हैक्टर उत्पादन प्राप्त किया जा सकता है।{" "}
   </p>
   <div style={{ float: "right" }}>
-    <a className="peechey" href="Link.do?method=dalhanifaslein">
+    <a  className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded-sm" href="/DalhaniFasle">
       पीछे जाएँ
     </a>
   </div>
