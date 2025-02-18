@@ -1,6 +1,7 @@
 
 import { Route, Routes } from 'react-router-dom'
 import Gehun from './pages/gehun'
+import arhar from './pages/dal/'
 
 
 export default function App() {
