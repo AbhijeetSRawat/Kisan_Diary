@@ -74,14 +74,6 @@ const App = () => {
       </header>
       <img src={joinedImages} alt="images" />
 
-<<<<<<< HEAD
-        </nav>
-        <Routes>
-            <Route path='/' element={<Gehun/>}/>
-            <Route path='*' element="page not found"/>
-           
-        </Routes>
-=======
       <div style={{ display: "flex", flex: 1 }}>
         {/* Sidebar */}
         <SideBar className="h-[70vh]" />
@@ -119,7 +111,6 @@ const App = () => {
           </div>
          
         </main>
->>>>>>> b7670bb6ccf28a6ac60565848412bde74ebd9ade
       </div>
     </div>
   );
