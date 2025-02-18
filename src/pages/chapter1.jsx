@@ -28,7 +28,7 @@ export default function chapter1() {
 
 <tr><td>राज्य वन्य पशु    </td><td> कस्तूरी मृग (<i  class="italicclass">Moschus chrysogaster</i>).</td></tr>
 <tr><td>राज्य वृक्ष  </td><td> बुरांस(<i  class="italicclass">Rhododendron chrysogaster)</i>.</td></tr>
-<tr><td>राज्य पक्षी</td><td>मोनाल <i class="italicclass">(Lophoorus impejanus)</i></td></td></tr>
+<tr><td>राज्य पक्षी</td><td>मोनाल <i class="italicclass">(Lophoorus impejanus)</i></td></tr>
 <tr><td>आय के प्रमुख स्त्रोत   </td><td>वन संपदा, जल संसाधन, जड़ी-बूटी,
 पर्यटन, तीर्थाटन, खनिज सम्पदा आदि
 </td></tr>

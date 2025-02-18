@@ -151,7 +151,7 @@ export default function Gehun() {
        <p>संपर्क सूत्र: 9411159751
        </p>
       
-        <div style='float: right; '><Link to= class="peechey" href="Link.do?method=khadyanfasley" />पीछे जाएँ </a></div>
+        {/* <div style='float: right; '><Link to= class="peechey" href="Link.do?method=khadyanfasley" />पीछे जाएँ </a></div> */}
         
         </div>
   );
