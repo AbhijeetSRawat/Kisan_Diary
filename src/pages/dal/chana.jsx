@@ -1,5 +1,6 @@
 import React from 'react'
-import chanarog2 from "../../assets/img/chanarog2.jpg"
+import chanarog2 from "../../assets/img/chanarog2"
+import chanarog from "../../assets/img/chanarog"
 export default function Chana() {
   return (
     <div>
@@ -145,7 +146,7 @@ export default function Chana() {
         <td>
           <img
             title="चने का एस्कोकाइटा ब्लाइट रोग"
-            src="../img/chanarog.jpg"
+            src={chanarog}
             width={471}
             height={287}
           />
