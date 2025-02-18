@@ -1,5 +1,5 @@
 import React from 'react'
-
+import table1 from "../assets/imgages/pasu1.jpg"
 export default function Pasuahar() {
   return (
     <div>
@@ -258,7 +258,7 @@ export default function Pasuahar() {
     में जिन खनिज तत्वों की कमी पायी गई उनका जिलेवार विवरण निम्नानुसार हैः
   </p>
   <p>
-    <img src="../assets/imgages/pasu1.jpg" width={552} height={218} alt="" />
+    <img src={table1} width={552} height={218} alt="" />
   </p>
   <p>&nbsp;</p>
   <p>

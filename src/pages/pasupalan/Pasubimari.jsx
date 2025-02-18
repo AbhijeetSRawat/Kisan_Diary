@@ -1,5 +1,8 @@
 import React from 'react'
-
+import table1 from "../../assets/imgages/pasubimari.jpg"
+import table2 from "../../assets/imgages/Galghot.jpg"
+import table3 from "../../assets/imgages/Thanaile.jpg"
+import table4 from "../../assets/imgages/Dad.jpg"
 export default function Pasubimari() {
   return (
     <div>
@@ -24,7 +27,7 @@ export default function Pasubimari() {
     जा सकता हैः
   </p>
   <p>
-    <img src="../assets/imgages/pasubimari.jpg" width={600} height={400} alt="" />
+    <img src={table1} width={600} height={400} alt="" />
   </p>
   <p>
     <strong className="strongclass">जीवाणुजनित रोग</strong>
@@ -58,7 +61,7 @@ export default function Pasubimari() {
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="../assets/imgages/Galghot.jpg" width={261} height={207} alt="" />
+    <img src={table2} width={261} height={207} alt="" />
   </p>
   <p>
     <span style={{ textAlign: "center" }} />
@@ -277,7 +280,7 @@ export default function Pasubimari() {
   <p>&nbsp;</p>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="../assets/imgages/Thanaile.jpg" width={365} height={244} alt="" />
+    <img src={table3} width={365} height={244} alt="" />
   </p>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -453,7 +456,7 @@ export default function Pasubimari() {
   <p>&nbsp;</p>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="../assets/imgages/Dad.jpg" width={358} height={218} alt="" />
+    <img src={table4} width={358} height={218} alt="" />
   </p>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;दाद

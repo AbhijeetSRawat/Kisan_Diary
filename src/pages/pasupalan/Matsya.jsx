@@ -1,4 +1,8 @@
 import React from 'react'
+import table1 from "../assets/imgages/matsya1.jpg"
+import table2 from "./assets/imgages/Untitled.jpg"
+import table4 from "../assets/imgages/matsya3.jpg"
+import table3 from "../assets/imgages/matsya2.jpg"
 
 export default function Matsya() {
   return (
@@ -130,7 +134,7 @@ export default function Matsya() {
     <strong className="strongclass">सारणी सूकर के समध्य रोग तथा उपचार</strong>
   </p>
   <p>
-    <img src="../assets/imgages/matsya1.jpg" width={754} height={411} alt="" />
+    <img src={table1} width={754} height={411} alt="" />
   </p>
   <p>
     <strong className="strongclass">मछली सह रेषम पालन</strong>
@@ -208,7 +212,7 @@ export default function Matsya() {
     ग्रा. भोजन की आवश्यकता होती है।
   </p>
   <p>
-    <img src="../assets/imgages/Untitled.jpg" width={366} height={227} alt="" />
+    <img src={table2} width={366} height={227} alt="" />
   </p>
   <p>&nbsp;</p>
   <p>&nbsp;</p>
@@ -227,7 +231,7 @@ export default function Matsya() {
     आहार एंव खाद पर होने वाले खर्च के हो जाता है। <br />
   </p>
   <p>
-    <img src="../assets/imgages/matsya2.JPG" width={503} height={304} alt="" />
+    <img src={table3} width={503} height={304} alt="" />
   </p>
   <p>
     <strong className="strongclass">मत्स्य सह मुर्गी पालन</strong>
@@ -298,7 +302,7 @@ export default function Matsya() {
     व्यवसाय है।{" "}
   </p>
   <p>
-    <img src="../assets/imgages/matsya3.jpg" width={503} height={304} alt="" />
+    <img src={table4} width={503} height={304} alt="" />
     <br />
   </p>
   <p>
