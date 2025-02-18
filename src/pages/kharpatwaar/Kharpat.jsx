@@ -1,4 +1,13 @@
 import React from "react";
+import table1 from "../../assets/img/kharpjpg.jpg"
+import table2 from "../../assets/img/kharpatwaar2.jpg"
+import table3 from "../../assets/img/kharpatwaar3.jpg"
+import table4 from "../../assets/img/kharpatwaar4.jpg"
+import table5 from "../../assets/img/kharpatwaar6.jpg"
+import table6 from "../../assets/img/kharpatwaar7.jpg"
+import table7 from "../../assets/img/kharpatwaar8.jpg"
+import table8 from "../../assets/img/kharpatwaar9.jpg"
+import table9 from "../../assets/img/kharpatwaar9.jpg"
 
 function Kharpat() {
   return (
@@ -16,7 +25,7 @@ function Kharpat() {
         </center>
         <p />
         <p>
-          <img src="./img/kharpjpg.jpg" width={100} height={100} />
+          <img src={table1} width={100} height={100} />
         </p>
         <p>
           {" "}
@@ -1400,13 +1409,13 @@ function Kharpat() {
           <strong>एक वर्षीय स्ंकरी पत्ती वाले खरपतवार :</strong>
         </p>
         <p>
-          <img src="./img/kharpatwaar2.jpg" width={570} height={182} alt="" />
+          <img src={table2} width={570} height={182} alt="" />
         </p>
         <p>
           <strong>एक वर्षीय चैड़ी पत्ती वाले खरपतवार: </strong>
         </p>
         <p>
-          <img src="./img/kharpatwaar3.jpg" width={572} height={401} alt="" />
+          <img src={table3} width={572} height={401} alt="" />
         </p>
         <p>
           <strong className="strongclass">
@@ -1416,19 +1425,19 @@ function Kharpat() {
           </strong>
         </p>
         <p>
-          <img src="./img/kharpatwaar4.jpg" width={345} height={134} alt="" />
+          <img src={table4} width={345} height={134} alt="" />
         </p>
         <strong className="strongclass">
           बहुवर्षीय चैड़ी पत्ती वाले खरपतवार:
         </strong>
         <p>
-          <img src="./img/kharpatwaar6.jpg" width={297} height={156} alt="" />
+          <img src={table5} width={297} height={156} alt="" />
         </p>
         <p>
           <strong className="strongclass">बहुवर्षीय मोथा वर्गीयः </strong>
         </p>
         <p>
-          <img src="./img/kharpatwaar7.jpg" width={244} height={146} alt="" />
+          <img src={table6} width={244} height={146} alt="" />
         </p>
         <p>
           <strong className="strongclass">खरपतवार नियंत्रण विधियाॅ</strong>
@@ -1485,7 +1494,7 @@ function Kharpat() {
           * भूमि को पालीथीन से अच्छी प्रकार से ढ़ककर 2-3 सप्ताह तक सौर्यीकरण
           करने से खरपतवारों को समूल नश्ट किया जा सकता है। इसके लिये 25-50 की
           सफेद पालीथीनसीट ज्यादा कारगर होती है।
-          <img src="./img/kharpatwaar8.jpg" width={136} height={87} />
+          <img src={table7} width={136} height={87} />
           <br />
         </p>
         <p>
@@ -1496,7 +1505,7 @@ function Kharpat() {
           स्टेल सीड बेड तकनीकी में खरपतवारों के लिए बोआई के 15 से 20 दिन पूर्व
           में सिंचाई कर खरपतवार को उगाया जाता है। जमाव पष्चात् 3-5 पत्ती अवस्था
           पर अवर्णात्मक षाकनाषी का प्रयोग कर सभी खरपतवारों को समूल नश्ट कर देते
-          है। <img src="./img/kharpatwaar9.jpg" width={136} height={88} />
+          है। <img src={table8} width={136} height={88} />
         </p>
         <p>
           <strong className="strongclass">2. कृशिकर्शण प्रक्रियाः</strong>
@@ -1516,7 +1525,7 @@ function Kharpat() {
           है और संस्तुत दर की अपेक्षाकृत उत्पादन ज्यादा प्राप्त हो जाता है।
         </p>
         <p>
-          <img src="./img/kharpatwaar10.jpg" width={499} height={134} alt="" />
+          <img src={table9} width={499} height={134} alt="" />
           <br />* फसल चक्र अपनाने से जो भी फसल से सम्बधित खरपतवार उगते हैं दूसरी
           फसल उगाने पर उनकी सघनता कम हो जाती है।{" "}
         </p>

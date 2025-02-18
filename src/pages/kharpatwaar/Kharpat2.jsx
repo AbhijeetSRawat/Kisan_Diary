@@ -1,4 +1,16 @@
 import React from "react";
+import table from "../../assets/img/rabikharjpg.jpg"
+import table1 from "../../assets/img/rabikharjpg1.jpg"
+import table2 from "../../assets/img/rabikharjpg2.jpg"
+import table3 from "../../assets/img/rabikharjpg3.jpg"
+import table4 from "../../assets/img/rabikharjpg4.jpg"
+import table5 from "../../assets/img/rabikharjpg5.jpg"
+import table6 from "../../assets/img/rabikharjpg6.jpg"
+import table7 from "../../assets/img/rabikharjpg7.jpg"
+import table8 from "../../assets/img/rabikharjpg8.jpg"
+import table9 from "../../assets/img/rabikharjpg9.jpg"
+
+
 
 function Kharpat2() {
   return (
@@ -10,7 +22,7 @@ function Kharpat2() {
           <strong className="h3class">रबी फसलों में खरपतवार नियंत्रण</strong>
         </p>
         <p align="center">
-          <img src="./img/rabikharjpg.jpg" width={535} height={283} alt="" />
+          <img src={table} width={535} height={283} alt="" />
         </p>
         <p>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;रबी
@@ -21,7 +33,7 @@ function Kharpat2() {
           होता है यदि खरपतवारों का सही समय पर, सही तौर तरीकों से नियंत्रण नहींे
           किया जाता है तो गेहूँ में 10-50, दलहनी फसलों में 30-60 तथा तिलहनी
           फसलों में 15-30 प्रतिषत तक की गिरावट आ जाती है।{" "}
-          <img src="rabikharjpg1.jpg" width={482} height={225} alt="" />
+          <img src={table1} width={482} height={225} alt="" />
         </p>
         <p>
           {" "}
@@ -44,7 +56,7 @@ function Kharpat2() {
         </p>
         <p>
           <img
-            src="./img/rabikharjpg2.jpg"
+            src={table2}
             alt=""
             width={616}
             height={208}
@@ -58,10 +70,10 @@ function Kharpat2() {
           जलेबी, कृश्ण नील, गजरी, तरातेज, वनधनिया आदि ।
         </p>
         <p>
-          <img src="./img/rabikharjpg3.jpg" width={635} height={176} alt="" />
+          <img src={table3} width={635} height={176} alt="" />
         </p>
         <p>
-          <img src="./img/rabikharjpg4.jpg" width={535} height={211} alt="" />
+          <img src={table4} width={535} height={211} alt="" />
         </p>
         <p>
           <strong className="strongclass">
@@ -75,7 +87,7 @@ function Kharpat2() {
           में मोथा (साइप्रस रोटन्डस) भी बहुतायत तौर पर पाये जाते हैं।{" "}
         </p>
         <p>
-          <img src="./img/rabikharjpg5.jpg" width={636} height={180} alt="" />
+          <img src={table5} width={636} height={180} alt="" />
         </p>
         <p>
           <strong>
@@ -115,7 +127,7 @@ function Kharpat2() {
           कम किया जा सकता है और मृदा की उर्वरा षक्ति भी बनी रहती है।
         </p>
         <p>
-          <img src="./img/rabikharjpg6.jpg" width={575} height={281} alt="" />
+          <img src= { table6} width={575} height={281} alt="" />
         </p>
         <p>
           <strong>
@@ -132,7 +144,7 @@ function Kharpat2() {
           की उपज भी ज्यादा प्राप्त होती है।
         </p>
         <p>
-          <img src="./img/rabikharjpg7.jpg" width={585} height={309} alt="" />
+          <img src={table7} width={585} height={309} alt="" />
         </p>
         <p>
           <strong>3. सस्य सघनता</strong>
@@ -156,7 +168,7 @@ function Kharpat2() {
           सकता है।{" "}
         </p>
         <p>
-          <img src="./img/rabikharjpg8.jpg" width={388} height={277} alt="" />
+          <img src={table8} width={388} height={277} alt="" />
         </p>
         <p></p>
         <table
@@ -1113,7 +1125,7 @@ function Kharpat2() {
           साफ कर लेना चाहिए।{" "}
         </p>
         <p>
-          <img src="./img/rabikharjpg9.jpg" width={820} height={261} alt="" />
+          <img src={table9} width={820} height={261} alt="" />
         </p>
         <p>
           <br />

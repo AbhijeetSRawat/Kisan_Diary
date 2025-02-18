@@ -1,5 +1,5 @@
 import React from "react";
-
+import table1 from "../../assets/img/mudra12.jpg"
 function Mudra4() {
   return (
     <div>
@@ -112,7 +112,7 @@ function Mudra4() {
           उल्लेख किया जा रहा है। जिसेे चित्र में दर्शाया गया है।
         </p>
         <p>
-          <img src="./img/mudra12.jpg" width={743} height={573} />
+          <img src={table1} width={743} height={573} />
         </p>
         <p>
           चित्रः पाॅलिथीन युक्त टैंक की बनावट
