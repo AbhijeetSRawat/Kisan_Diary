@@ -6,7 +6,7 @@ export default function SideBar() {
         <aside style={{ width: '200px', background: '#f0f2f5', padding: '16px' }}>
           <ul style={{ listStyle: 'none', padding: 0 }}>
             <li>
-              <Link to="/chapter1"> </Link>
+              <Link to="/chapter1">chapter1 </Link>
             </li>
             <li>
               <link  href="" />

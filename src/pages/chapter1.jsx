@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function chapter1() {
+export default function Chapter1() {
   return (
     <div> 
        
