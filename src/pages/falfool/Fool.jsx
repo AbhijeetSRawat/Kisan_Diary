@@ -1,4 +1,12 @@
 import React from 'react'
+import table1 from '../../assets/img/genda1.jpg'
+import table2 from '../../assets/img/genda2.jpg'
+import table3 from '../../assets/img/genda3.jpg'
+import table4 from '../../assets/img/genda4.jpg'
+import table5 from '../../assets/img/genda5.jpg'
+import table6 from '../../assets/img/genda6.jpg'
+import table7 from '../../assets/img/genda7.jpg'
+import table8 from '../../assets/img/genda8.jpg'
 
 export default function Fool() {
   return (
@@ -183,7 +191,7 @@ export default function Fool() {
               lineHeight: "normal"
             }}
           >
-            <img src="./img/genda1.jpg" width={289} height={183} alt="" />
+            <img src={table1} width={289} height={183} alt="" />
             <strong>
               <span
                 style={{ fontFamily: '"Kruti Dev 010"', fontSize: "14.0pt" }}
@@ -317,7 +325,7 @@ export default function Fool() {
               lineHeight: "normal"
             }}
           >
-            <img src="./img/genda2.jpg" width={242} height={245} alt="" />
+            <img src={table2} width={242} height={245} alt="" />
             <strong>
               <span
                 style={{ fontFamily: '"Kruti Dev 010"', fontSize: "14.0pt" }}
@@ -465,7 +473,7 @@ export default function Fool() {
               lineHeight: "normal"
             }}
           >
-            <img src="./img/genda3.jpg" width={225} height={216} alt="" />
+            <img src={table3} width={225} height={216} alt="" />
             <strong>
               <span
                 style={{ fontFamily: '"Kruti Dev 010"', fontSize: "14.0pt" }}
@@ -606,7 +614,7 @@ export default function Fool() {
               lineHeight: "normal"
             }}
           >
-            <img src="./img/genda4.jpg" width={225} height={216} alt="" />
+            <img src={table4} width={225} height={216} alt="" />
             <strong>
               <span
                 style={{ fontFamily: '"Kruti Dev 010"', fontSize: "14.0pt" }}
@@ -727,7 +735,7 @@ export default function Fool() {
               lineHeight: "normal"
             }}
           >
-            <img src="./img/genda5.jpg" width={244} height={240} alt="" />
+            <img src={table5}width={244} height={240} alt="" />
             <strong>
               <span
                 style={{ fontFamily: '"Kruti Dev 010"', fontSize: "14.0pt" }}
@@ -853,7 +861,7 @@ export default function Fool() {
               lineHeight: "normal"
             }}
           >
-            <img src="./img/genda6.jpg" width={205} height={236} alt="" />
+            <img src={table6} width={205} height={236} alt="" />
             <strong>
               <span
                 style={{ fontFamily: '"Kruti Dev 010"', fontSize: "14.0pt" }}
@@ -974,7 +982,7 @@ export default function Fool() {
               lineHeight: "normal"
             }}
           >
-            <img src="./img/genda7.jpg" width={188} height={150} alt="" />
+            <img src={table7}width={188} height={150} alt="" />
             <strong>
               <span
                 style={{ fontFamily: '"Kruti Dev 010"', fontSize: "14.0pt" }}
@@ -1138,7 +1146,7 @@ export default function Fool() {
               lineHeight: "normal"
             }}
           >
-            <img src="./img/genda8.jpg" width={242} height={244} alt="" />
+            <img src={table8} width={242} height={244} alt="" />
             <strong>
               <span
                 style={{ fontFamily: '"Kruti Dev 010"', fontSize: "14.0pt" }}
