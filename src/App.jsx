@@ -15,6 +15,8 @@ import Urd from './pages/Dal/urd';
 import Moong from './pages/Dal/moong';
 import Rajma from './pages/Dal/rajma';
 import Arhar from './pages/Dal/arhar';
+import Masale from './components/Masale';
+import Pyaj from './pages/masaley/Pyaj';
 const App = () => {
   return (
     <div style={{ display: "flex", flexDirection: "column" }}>
@@ -67,6 +69,8 @@ const App = () => {
                 <Route path='/moong' element={<Moong/>}/>
                 <Route path='/rajma' element={<Rajma/>}/>
                 <Route path='/arhar' element={<Arhar/>}/>
+                <Route path='/masale' element={<Masale/>}/>
+                <Route path='/pyaj' element={<Pyaj/>}/>
                 <Route path='*' element={<div> Not Found</div>} />
             </Routes>
           </div>

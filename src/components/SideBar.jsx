@@ -10,7 +10,7 @@ export default function SideBar() {
               <Link className='bg-black text-white rounded-md h-[40px] flex justify-center items-center hover:bg-white hover:text-black' to="/chapter1" >उत्तराखंड एक दृष्टि </Link>
               <Link className='bg-black text-white rounded-md h-[40px] flex justify-center items-center hover:bg-white hover:text-black' to="/khadyanfasle">खाद्यान्न फसलें</Link>
               <Link className='bg-black text-white rounded-md h-[40px] flex justify-center items-center hover:bg-white hover:text-black' to="/dalhanifasle">दलहनी फसलें</Link>
-
+              <Link className='bg-black text-white rounded-md h-[40px] flex justify-center items-center hover:bg-white hover:text-black' to="/masale">मसालों की खेती</Link>
             </li>
           </ul>
         </aside>
