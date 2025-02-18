@@ -3,15 +3,18 @@ import React from 'react'
 export default function Urd() {
   return (
     <div>
+
+  <div className="flex justify-between my-10">
+      <center>
+        <h1 className="h3class text-3xl ml-[35vw] font-semibold">उर्द</h1>
+      </center>
+      <div style={{ float: 'right' }}>
+        <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" href="/DalhaniFasle">पीछे जाएँ</a>
+      </div>
+      </div>
         <>
-  <center>
-    <h3 className="h3class">उर्द</h3>
-  </center>
-  <div style={{ float: "right" }}>
-    <a className="peechey" href="Link.do?method=dalhanifaslein">
-      पीछे जाएँ{" "}
-    </a>
-  </div>
+
+        
   <br />
   <strong className="strongclass">उन्नत किस्में</strong>
   <br />
@@ -279,7 +282,7 @@ export default function Urd() {
   है।
   <br />
   <div style={{ float: "right" }}>
-    <a className="peechey" href="Link.do?method=khadyanfasley">
+    <a  className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded-sm" href="/DalhaniFasle">
       पीछे जाएँ{" "}
     </a>
   </div>

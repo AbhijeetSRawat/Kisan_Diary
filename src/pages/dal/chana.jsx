@@ -3,15 +3,17 @@ import React from 'react'
 export default function Chana() {
   return (
     <div>
+
+<div className="flex justify-between my-10">
+      <center>
+        <h1 className="h3class text-3xl ml-[35vw] font-semibold">चना</h1>
+      </center>
+      <div style={{ float: 'right' }}>
+        <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" href="/DalhaniFasle">पीछे जाएँ</a>
+      </div>
+      </div>
         <>
-  <center>
-    <h3 className="h3class">चना </h3>
-  </center>
-  <div style={{ float: "right" }}>
-    <a className="peechey" href="Link.do?method=dalhanifaslein">
-      पीछे जाएँ{" "}
-    </a>
-  </div>
+  
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;चना एक अत्यन्त महत्वपूर्ण दलहनी फसल है
     जो कि कम सिंचित भूमि में भी आसानी से उगायी जा सकती है। दलहनी फसलों में चना
@@ -193,7 +195,7 @@ export default function Chana() {
     जा सकती है।
   </p>
   <div style={{ float: "right" }}>
-    <a className="peechey" href="Link.do?method=dalhanifaslein">
+    <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded-sm" href="/DalhaniFasle">
       पीछे जाएँ{" "}
     </a>
   </div>
