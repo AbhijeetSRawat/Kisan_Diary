@@ -1,5 +1,5 @@
 import React from 'react'
-
+import table1 from "../../assets/img/mudra11.jpg"
 function Mudra2() {
   return (
     <div>
@@ -13192,7 +13192,7 @@ function Mudra2() {
   </p>
   <p>जैविक खादों एवं जैव उर्वरकों द्वारा उर्वरकों के समतुल्य पोषक तत्व</p>
   <p>
-    <img src="./img/mudra11.jpg" width={398} height={405} />
+    <img src={table1} width={398} height={405} />
   </p>
 </>
 
