@@ -1,0 +1,2327 @@
+import React from 'react'
+
+export default function Soyabeen() {
+  return (
+    <div>
+        <>
+  <meta httpEquiv="Content-Type" content="text/html; charset=UTF-8" />
+  <title>Soyabeen</title>
+  <style
+    type="text/css"
+    dangerouslySetInnerHTML={{
+      __html:
+        '\n        <!--\ntable.MsoNormalTable {\nline-height:115%;\nfont-size:11.0pt;\nfont-family:"Calibri","sans-serif";\n}\np.MsoNormal {\nmargin:0cm;\nmargin-bottom:.0001pt;\nfont-size:12.0pt;\nfont-family:"Times New Roman","serif";\n}\n-->\n        '
+    }}
+  />
+  <center>
+    <h3 className="h3class">
+      <strong>सोयाबीन</strong>
+    </h3>
+  </center>
+  <p />
+  <h3 className="strongclass">उन्नत किस्मे</h3>
+  <p />
+  <div align="center">
+    <table
+      className="MsoNormalTable"
+      border={1}
+      cellSpacing={0}
+      cellPadding={0}
+      style={{ borderCollapse: "collapse", border: "none" }}
+    >
+      <tbody>
+        <tr>
+          <td
+            width={73}
+            valign="top"
+            style={{
+              width: "55.05pt",
+              border: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm",
+                textAlign: "center"
+              }}
+            >
+              <strong>
+                <span
+                  style={{ fontFamily: '"Kruti Dev 010"', fontSize: "11.0pt" }}
+                >
+                  iztkfr
+                </span>
+              </strong>
+              <strong>
+                <span style={{ fontFamily: '"Kruti Dev 010"' }}> </span>
+              </strong>
+            </p>
+          </td>
+          <td
+            width={76}
+            valign="top"
+            style={{
+              width: "2.0cm",
+              border: "solid windowtext 1.0pt",
+              borderLeft: "none",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm",
+                textAlign: "center"
+              }}
+            >
+              <strong>
+                <span
+                  style={{ fontFamily: '"Kruti Dev 010"', fontSize: "11.0pt" }}
+                >
+                  nkus dk jax ,oa vkdkj
+                </span>
+              </strong>
+              <strong>
+                <span style={{ fontFamily: '"Kruti Dev 010"' }}> </span>
+              </strong>
+            </p>
+          </td>
+          <td
+            width={85}
+            valign="top"
+            style={{
+              width: "63.75pt",
+              border: "solid windowtext 1.0pt",
+              borderLeft: "none",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.4pt",
+                marginBottom: ".3pt",
+                marginLeft: "0cm",
+                textAlign: "center"
+              }}
+            >
+              <strong>
+                <span
+                  style={{ fontFamily: '"Kruti Dev 010"', fontSize: "11.0pt" }}
+                >
+                  idus dh vof/k ¼fnu½
+                </span>
+              </strong>
+              <strong>
+                <span style={{ fontFamily: '"Kruti Dev 010"' }}> </span>
+              </strong>
+            </p>
+          </td>
+          <td
+            width={132}
+            valign="top"
+            style={{
+              width: "99.25pt",
+              border: "solid windowtext 1.0pt",
+              borderLeft: "none",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm",
+                textAlign: "center"
+              }}
+            >
+              <strong>
+                <span
+                  style={{ fontFamily: '"Kruti Dev 010"', fontSize: "11.0pt" }}
+                >
+                  mit
+                </span>
+              </strong>
+              <strong>
+                <span style={{ fontFamily: '"Kruti Dev 010"' }}> </span>
+              </strong>
+            </p>
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm",
+                textAlign: "center"
+              }}
+            >
+              <strong>
+                <span
+                  style={{ fontFamily: '"Kruti Dev 010"', fontSize: "11.0pt" }}
+                >
+                  ¼dq0@gS0½
+                </span>
+              </strong>
+              <strong>
+                <span style={{ fontFamily: '"Kruti Dev 010"' }}> </span>
+              </strong>
+            </p>
+          </td>
+          <td
+            width={132}
+            valign="top"
+            style={{
+              width: "99.2pt",
+              border: "solid windowtext 1.0pt",
+              borderLeft: "none",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm",
+                textAlign: "center"
+              }}
+            >
+              <strong>
+                <span
+                  style={{ fontFamily: '"Kruti Dev 010"', fontSize: "11.0pt" }}
+                >
+                  dhV@
+                </span>
+              </strong>
+              <strong>
+                <span style={{ fontFamily: '"Kruti Dev 010"' }}> </span>
+              </strong>
+            </p>
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm",
+                textAlign: "center"
+              }}
+            >
+              <strong>
+                <span
+                  style={{ fontFamily: '"Kruti Dev 010"', fontSize: "11.0pt" }}
+                >
+                  jksxxzkgh
+                </span>
+              </strong>
+              <strong>
+                <span style={{ fontFamily: '"Kruti Dev 010"' }}> </span>
+              </strong>
+            </p>
+          </td>
+          <td
+            width={95}
+            valign="top"
+            style={{
+              width: "70.9pt",
+              border: "solid windowtext 1.0pt",
+              borderLeft: "none",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm",
+                textAlign: "center"
+              }}
+            >
+              <strong>
+                <span
+                  style={{ fontFamily: '"Kruti Dev 010"', fontSize: "11.0pt" }}
+                >
+                  mi;qDr {"{"}ks=
+                </span>
+              </strong>
+              <strong>
+                <span style={{ fontFamily: '"Kruti Dev 010"' }}> </span>
+              </strong>
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td
+            width={73}
+            valign="top"
+            style={{
+              width: "55.05pt",
+              border: "solid windowtext 1.0pt",
+              borderTop: "none",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.15pt",
+                marginBottom: ".3pt",
+                marginLeft: "0cm"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>
+                oh-,y-lks;k&amp;21
+              </span>
+            </p>
+          </td>
+          <td
+            width={76}
+            valign="top"
+            style={{
+              width: "2.0cm",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>ihyk] xkssy</span>
+            </p>
+          </td>
+          <td
+            width={85}
+            valign="top"
+            style={{
+              width: "63.75pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm",
+                textAlign: "center"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>120&amp;125</span>
+            </p>
+          </td>
+          <td
+            width={132}
+            valign="top"
+            style={{
+              width: "99.25pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.4pt",
+                marginBottom: ".3pt",
+                marginLeft: "-5.4pt",
+                textAlign: "center"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>22&amp;25</span>
+            </p>
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.4pt",
+                marginBottom: ".3pt",
+                marginLeft: "-5.4pt",
+                textAlign: "center"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>
+                &nbsp;¼44&amp;50 fd-xzk-@ukyh½
+              </span>
+            </p>
+          </td>
+          <td
+            width={132}
+            valign="top"
+            style={{
+              width: "99.2pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.4pt",
+                marginBottom: ".3pt",
+                marginLeft: "-2.05pt",
+                textAlign: "center"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>&amp;</span>
+            </p>
+          </td>
+          <td
+            width={95}
+            valign="top"
+            style={{
+              width: "70.9pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>
+                uhps ,oa e/; ioZrh; {"{"}ks=
+              </span>
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td
+            width={73}
+            valign="top"
+            style={{
+              width: "55.05pt",
+              border: "solid windowtext 1.0pt",
+              borderTop: "none",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.15pt",
+                marginBottom: ".3pt",
+                marginLeft: "0cm"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>
+                oh-,y-lks;k&amp;47
+              </span>
+            </p>
+          </td>
+          <td
+            width={76}
+            valign="top"
+            style={{
+              width: "2.0cm",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>ihyk] xkssy</span>
+            </p>
+          </td>
+          <td
+            width={85}
+            valign="top"
+            style={{
+              width: "63.75pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm",
+                textAlign: "center"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>125&amp;130</span>
+            </p>
+          </td>
+          <td
+            width={132}
+            valign="top"
+            style={{
+              width: "99.25pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.4pt",
+                marginBottom: ".3pt",
+                marginLeft: "-5.4pt",
+                textAlign: "center"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>25&amp;27</span>
+            </p>
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.4pt",
+                marginBottom: ".3pt",
+                marginLeft: "-5.4pt"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>
+                &nbsp;¼50&amp;54 fd-xzk-@ukyh½
+              </span>
+            </p>
+          </td>
+          <td
+            width={132}
+            valign="top"
+            style={{
+              width: "99.2pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.4pt",
+                marginBottom: ".3pt",
+                marginLeft: "-2.05pt"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>
+                thok.kq LQksV vojks/kh
+              </span>
+            </p>
+          </td>
+          <td
+            width={95}
+            valign="top"
+            style={{
+              width: "70.9pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>
+                uhps ,oa e/; ioZrh; {"{"}ks=
+              </span>
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td
+            width={73}
+            valign="top"
+            style={{
+              width: "55.05pt",
+              border: "solid windowtext 1.0pt",
+              borderTop: "none",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.15pt",
+                marginBottom: ".3pt",
+                marginLeft: "0cm"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>f'kykthr </span>
+            </p>
+          </td>
+          <td
+            width={76}
+            valign="top"
+            style={{
+              width: "2.0cm",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>
+                ihyk] xkssy cM+k
+              </span>
+            </p>
+          </td>
+          <td
+            width={85}
+            valign="top"
+            style={{
+              width: "63.75pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm",
+                textAlign: "center"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>105&amp;110</span>
+            </p>
+          </td>
+          <td
+            width={132}
+            valign="top"
+            style={{
+              width: "99.25pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.4pt",
+                marginBottom: ".3pt",
+                marginLeft: "-5.4pt",
+                textAlign: "center"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>20&amp;25</span>
+            </p>
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.4pt",
+                marginBottom: ".3pt",
+                marginLeft: "-5.4pt",
+                textAlign: "center"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>
+                ¼40&amp;50 fd-xzk-@ukyh½
+              </span>
+            </p>
+          </td>
+          <td
+            width={132}
+            valign="top"
+            style={{
+              width: "99.2pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.4pt",
+                marginBottom: ".3pt",
+                marginLeft: "-2.05pt",
+                textAlign: "center"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>&amp;</span>
+            </p>
+          </td>
+          <td
+            width={95}
+            valign="top"
+            style={{
+              width: "70.9pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>
+                uhps ,oa e/; ioZrh; {"{"}ks=
+              </span>
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td
+            width={73}
+            valign="top"
+            style={{
+              width: "55.05pt",
+              border: "solid windowtext 1.0pt",
+              borderTop: "none",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.15pt",
+                marginBottom: ".3pt",
+                marginLeft: "0cm"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>ih-,l-1024</span>
+              <span style={{ fontFamily: '"Arial","sans-serif"' }}>*</span>
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}> </span>
+            </p>
+          </td>
+          <td
+            width={76}
+            valign="top"
+            style={{
+              width: "2.0cm",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>ihyk] xkssy</span>
+            </p>
+          </td>
+          <td
+            width={85}
+            valign="top"
+            style={{
+              width: "63.75pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm",
+                textAlign: "center"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>120&amp;125</span>
+            </p>
+          </td>
+          <td
+            width={132}
+            valign="top"
+            style={{
+              width: "99.25pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.4pt",
+                marginBottom: ".3pt",
+                marginLeft: "-5.4pt",
+                textAlign: "center"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>30&amp;32</span>
+            </p>
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.4pt",
+                marginBottom: ".3pt",
+                marginLeft: "-5.4pt"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>
+                &nbsp;¼60&amp;64 fd-xzk-@ukyh½
+              </span>
+            </p>
+          </td>
+          <td
+            width={132}
+            valign="top"
+            style={{
+              width: "99.2pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.4pt",
+                marginBottom: ".3pt",
+                marginLeft: "-2.05pt"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>
+                ihyk fpRro.kZ ,oa thok.kq LQksV vojks/kh
+              </span>
+            </p>
+          </td>
+          <td
+            width={95}
+            valign="top"
+            style={{
+              width: "70.9pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>
+                Hkkoj] uhps ioZrh;@mRrjh eSnkuh {"{"}ks=
+              </span>
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td
+            width={73}
+            valign="top"
+            style={{
+              width: "55.05pt",
+              border: "solid windowtext 1.0pt",
+              borderTop: "none",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.15pt",
+                marginBottom: ".3pt",
+                marginLeft: "0cm"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>ih-,l-1042</span>
+            </p>
+          </td>
+          <td
+            width={76}
+            valign="top"
+            style={{
+              width: "2.0cm",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>ihyk] xkssy</span>
+            </p>
+          </td>
+          <td
+            width={85}
+            valign="top"
+            style={{
+              width: "63.75pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm",
+                textAlign: "center"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>120&amp;125</span>
+            </p>
+          </td>
+          <td
+            width={132}
+            valign="top"
+            style={{
+              width: "99.25pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.4pt",
+                marginBottom: ".3pt",
+                marginLeft: "-5.4pt",
+                textAlign: "center"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>30&amp;35</span>
+            </p>
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.4pt",
+                marginBottom: ".3pt",
+                marginLeft: "-5.4pt",
+                textAlign: "center"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>
+                ¼60&amp;70 fd-xzk-@ukyh½
+              </span>
+            </p>
+          </td>
+          <td
+            width={132}
+            valign="top"
+            style={{
+              width: "99.2pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.4pt",
+                marginBottom: ".3pt",
+                marginLeft: "-2.05pt"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>
+                ihyk fpRro.kZ ,oa thok.kq LQksV vojks/kh
+              </span>
+            </p>
+          </td>
+          <td
+            width={95}
+            valign="top"
+            style={{
+              width: "70.9pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>
+                Hkkoj] uhps ioZrh; mRrjh eSnkuh {"{"}ks=
+              </span>
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td
+            width={73}
+            valign="top"
+            style={{
+              width: "55.05pt",
+              border: "solid windowtext 1.0pt",
+              borderTop: "none",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.15pt",
+                marginBottom: ".3pt",
+                marginLeft: "0cm"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>ih-,l-1092</span>
+              <span style={{ fontFamily: '"Arial","sans-serif"' }}>*</span>
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}> </span>
+            </p>
+          </td>
+          <td
+            width={76}
+            valign="top"
+            style={{
+              width: "2.0cm",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>ihyk] xkssy</span>
+            </p>
+          </td>
+          <td
+            width={85}
+            valign="top"
+            style={{
+              width: "63.75pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm",
+                textAlign: "center"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>115&amp;120</span>
+            </p>
+          </td>
+          <td
+            width={132}
+            valign="top"
+            style={{
+              width: "99.25pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.4pt",
+                marginBottom: ".3pt",
+                marginLeft: "-5.4pt",
+                textAlign: "center"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>25&amp;30</span>
+            </p>
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.4pt",
+                marginBottom: ".3pt",
+                marginLeft: "-5.4pt"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>
+                &nbsp;¼50&amp;60 fd-xzk-@ukyh½
+              </span>
+            </p>
+          </td>
+          <td
+            width={132}
+            valign="top"
+            style={{
+              width: "99.2pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.4pt",
+                marginBottom: ".3pt",
+                marginLeft: "-2.05pt"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>
+                ihyk fpRro.kZ ,oa thok.kq LQksV vojks/kh
+              </span>
+            </p>
+          </td>
+          <td
+            width={95}
+            valign="top"
+            style={{
+              width: "70.9pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>
+                Hkkoj] fupys ,oa e/; ioZrh; {"{"}ks=
+              </span>
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td
+            width={73}
+            valign="top"
+            style={{
+              width: "55.05pt",
+              border: "solid windowtext 1.0pt",
+              borderTop: "none",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.15pt",
+                marginBottom: ".3pt",
+                marginLeft: "0cm"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>ih-,l-1241</span>
+            </p>
+          </td>
+          <td
+            width={76}
+            valign="top"
+            style={{
+              width: "2.0cm",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>ihyk] xkssy</span>
+            </p>
+          </td>
+          <td
+            width={85}
+            valign="top"
+            style={{
+              width: "63.75pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm",
+                textAlign: "center"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>120&amp;125</span>
+            </p>
+          </td>
+          <td
+            width={132}
+            valign="top"
+            style={{
+              width: "99.25pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.4pt",
+                marginBottom: ".3pt",
+                marginLeft: "-5.4pt",
+                textAlign: "center"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>30&amp;32</span>
+            </p>
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.4pt",
+                marginBottom: ".3pt",
+                marginLeft: "-5.4pt"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>
+                &nbsp;¼60&amp;64 fd-xzk-@ukyh½
+              </span>
+            </p>
+          </td>
+          <td
+            width={132}
+            valign="top"
+            style={{
+              width: "99.2pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.4pt",
+                marginBottom: ".3pt",
+                marginLeft: "-2.05pt"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>
+                ihyk fpRro.kZ ,oa thok.kq LQksV rFkk Qaxy dkEiysDl vojks/kh
+              </span>
+            </p>
+          </td>
+          <td
+            width={95}
+            valign="top"
+            style={{
+              width: "70.9pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>
+                Hkkoj] rjkbZ ,oa eSnku{" "}
+              </span>
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td
+            width={73}
+            valign="top"
+            style={{
+              width: "55.05pt",
+              border: "solid windowtext 1.0pt",
+              borderTop: "none",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.15pt",
+                marginBottom: ".3pt",
+                marginLeft: "0cm"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>ih-,l-1347</span>
+              <span style={{ fontFamily: '"Arial","sans-serif"' }}>*</span>
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}> </span>
+            </p>
+          </td>
+          <td
+            width={76}
+            valign="top"
+            style={{
+              width: "2.0cm",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>ihyk] xkssy</span>
+            </p>
+          </td>
+          <td
+            width={85}
+            valign="top"
+            style={{
+              width: "63.75pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm",
+                textAlign: "center"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>120&amp;125</span>
+            </p>
+          </td>
+          <td
+            width={132}
+            valign="top"
+            style={{
+              width: "99.25pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.4pt",
+                marginBottom: ".3pt",
+                marginLeft: "-5.4pt",
+                textAlign: "center"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>30&amp;35</span>
+            </p>
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.4pt",
+                marginBottom: ".3pt",
+                marginLeft: "-5.4pt",
+                textAlign: "center"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>
+                &nbsp;¼60&amp;70 fd-xzk-@ukyh½
+              </span>
+            </p>
+          </td>
+          <td
+            width={132}
+            valign="top"
+            style={{
+              width: "99.2pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.4pt",
+                marginBottom: ".3pt",
+                marginLeft: "-2.05pt"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>
+                ihyk fpRro.kZ ,oa thok.kq LQksV vojks/kh
+              </span>
+            </p>
+          </td>
+          <td
+            width={95}
+            valign="top"
+            style={{
+              width: "70.9pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>
+                Hkkoj] rjkbZ ,oa mRrjh eSnku
+              </span>
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td
+            width={73}
+            valign="top"
+            style={{
+              width: "55.05pt",
+              border: "solid windowtext 1.0pt",
+              borderTop: "none",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.15pt",
+                marginBottom: ".3pt",
+                marginLeft: "0cm"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>ih-,l-1225</span>
+            </p>
+          </td>
+          <td
+            width={76}
+            valign="top"
+            style={{
+              width: "2.0cm",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>ihyk] xkssy</span>
+            </p>
+          </td>
+          <td
+            width={85}
+            valign="top"
+            style={{
+              width: "63.75pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm",
+                textAlign: "center"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>120&amp;125</span>
+            </p>
+          </td>
+          <td
+            width={132}
+            valign="top"
+            style={{
+              width: "99.25pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.4pt",
+                marginBottom: ".3pt",
+                marginLeft: "-5.4pt",
+                textAlign: "center"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>30&amp;35</span>
+            </p>
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.4pt",
+                marginBottom: ".3pt",
+                marginLeft: "-5.4pt",
+                textAlign: "center"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>
+                &nbsp;¼60&amp;70 fd-xzk-@ukyh½
+              </span>
+            </p>
+          </td>
+          <td
+            width={132}
+            valign="top"
+            style={{
+              width: "99.2pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.4pt",
+                marginBottom: ".3pt",
+                marginLeft: "-2.05pt"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>
+                ihyk fpRro.kZ ,oa thok.kq LQksV vojks/kh rFkk jks,nkj lwM+h ds
+                fy, vojks/kh
+              </span>
+            </p>
+          </td>
+          <td
+            width={95}
+            valign="top"
+            style={{
+              width: "70.9pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>
+                rjkbZ ,oa Hkkoj {"{"}ks=ksa ds fy,
+              </span>
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td
+            width={73}
+            valign="top"
+            style={{
+              width: "55.05pt",
+              border: "solid windowtext 1.0pt",
+              borderTop: "none",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.15pt",
+                marginBottom: ".3pt",
+                marginLeft: "0cm"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>ih-,l- 19</span>
+            </p>
+          </td>
+          <td
+            width={76}
+            valign="top"
+            style={{
+              width: "2.0cm",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>ihyk] xksy</span>
+            </p>
+          </td>
+          <td
+            width={85}
+            valign="top"
+            style={{
+              width: "63.75pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm",
+                textAlign: "center"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>120&amp;125</span>
+            </p>
+          </td>
+          <td
+            width={132}
+            valign="top"
+            style={{
+              width: "99.25pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.4pt",
+                marginBottom: ".3pt",
+                marginLeft: "-5.4pt",
+                textAlign: "center"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>30&amp;35</span>
+            </p>
+            <p
+              className="MsoNormal"
+              align="center"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.4pt",
+                marginBottom: ".3pt",
+                marginLeft: "-5.4pt",
+                textAlign: "center"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>
+                ¼60&amp;70 fd-xzk-@ukyh½
+              </span>
+            </p>
+          </td>
+          <td
+            width={132}
+            valign="top"
+            style={{
+              width: "99.2pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "-5.4pt",
+                marginBottom: ".3pt",
+                marginLeft: "-2.05pt"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>
+                ihyk fpRro.kZ thok.kq LQksV vojks/kh
+              </span>
+            </p>
+          </td>
+          <td
+            width={95}
+            valign="top"
+            style={{
+              width: "70.9pt",
+              borderTop: "none",
+              borderLeft: "none",
+              borderBottom: "solid windowtext 1.0pt",
+              borderRight: "solid windowtext 1.0pt",
+              padding: "0cm 5.4pt 0cm 5.4pt"
+            }}
+          >
+            <p
+              className="MsoNormal"
+              style={{
+                marginTop: ".3pt",
+                marginRight: "0cm",
+                marginBottom: ".3pt",
+                marginLeft: "0cm"
+              }}
+            >
+              <span style={{ fontFamily: '"Kruti Dev 010"' }}>
+                rjkbZ ,oa Hkkoj {"{"}ks=ksa ds fy,
+              </span>
+            </p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <p>&nbsp;</p>
+  <p>
+    {" "}
+    *अन्तः फसली खेती के लिए उपयुक्ती।
+    <br />
+  </p>
+  <p>
+    <br />
+    <strong className="strongclass">बीज दर</strong>
+    <br />
+  </p>
+  <p>
+    एक हैक्टर की बुवाई हेतु 75 कि.ग्रा. (1.5 कि.ग्रा. प्रति नाली) बीज 80-85
+    प्रतिशत जमाव वाला पर्याप्त होता हैं। <br />
+  </p>
+  <p>
+    <strong className="strongclass">बीज उपचार</strong>
+    <br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;बीज जनित रोगों से बचाव हेतु सोयाबीन के बीज को
+    ‘थीरम’ 75 प्रतिशत डब्ल्यू. पी. $ कार्बेन्डाजिम 50 डब्लू. पी. (2ः1) तीन
+    ग्रा./कि.ग्रा. बीज की दर से उपचारित कर लेना चाहिए। <br />
+    {/*</p*/}
+  </p>
+  <p>
+    <strong className="strongclass">राइजोबियम से बीज उपचार (सम्बर्धन)</strong>
+    <br />
+    राइजोबियम कल्चर से उपचारित बीज ही बोना चाहिए। बीज का उपचार सोयाबीन के
+    विशिष्ट राइजोबियम कल्चर से करना चाहिए जिसकी विधि निम्न प्रकार है:
+    <br />
+    लगभग 250 मि.ली. साफ व ठण्डे पानी में 25-30 ग्राम गुड़/चीनी का घोल बनाकर
+    उसमें 200 ग्रा. राइजोबियम कल्चर अच्छी तरह मिला लें। इस मिश्रण को 30 कि.ग्रा.
+    बीज के ऊपर छिड़ककर हाथ से मिलायें जिससे बीज के ऊपर एक हल्की पर्त चढ़ जायें।
+    इस बीज को छाया में 15-20 मिनट सुखाकर बुवाई करें। तेज धूप में कल्चर के
+    जीवाणुओं के मरने की आशंका रहती है। अतः बीज को तुरन्त मिट्टी से ढ़क दें। ऐसे
+    खेतों में जहाँ सोयाबीन की खेती पहली बार या अथवा काफी समय बाद की जा रही हो
+    वहाँ कल्चर का प्रयोग अवश्य करें।
+    <br />
+  </p>
+  <p>
+    <strong className="strongclass">बुवाई का समय</strong>
+    <br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;पर्वतीय क्षेत्रों में बुवाई का उपयुक्त समय मई
+    के अन्तिम सप्ताह से जून के दूसरे सप्ताह तक है। भावर तराई में बुवाई का
+    उपयुक्त समय जून अन्तिम सप्ताह से जुलाई प्रथम सप्ताह तक है। विलम्ब से बुवाई
+    करने पर उपज कम मिलती है तथा रबी की फसल की बुवाई समय से कर पाना सम्भव नहीं हो
+    पाता।
+    <br />
+  </p>
+  <p>
+    <strong className="strongclass">बुवाई विधि</strong>
+    <br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;बुवाई हल के पीछे 3-4 से.मी.
+    की गहराई पर लाइनों में करनी चाहिए। लाइन से लाइन की दूरी 45 से.मी. रखनी
+    चाहिए। भावर में लाइन से लाइन की दूरी 60 से.मी. रखनी चाहिए। जमने के पश्चात्
+    अधिक घने पौधों को निकाल देना चाहिए तथा छंटाई करके पौधे से पौधे की दूरी 5-7
+    से.मी. कर देनी चाहिए।
+    <br />
+  </p>
+  <p>
+    <strong className="strongclass">उर्वरकों का प्रयोग </strong>
+    <br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;यदि मृदा परीक्षण न
+    कराया गया हो तो उन्न्ातशील प्रजातियों के लिए 20 किग्रा नत्रजन, 60 कि.ग्रा.
+    फास्फोरस तथा 40 कि.ग्रा. पोेटाश प्रति हैक्टर (क्रमशः 400, 1200 व 800 ग्रा.
+    प्रति नाली) प्रयोग करना चाहिए। उर्वरकों की सम्पूर्ण मात्रा अन्तिम जुताई में
+    हल के पीछे कूड़ों में प्रयोग करें। बोने के 30-35 दिन बाद सोयाबीन के एक या दो
+    पौधे उखाड़कर देख लिया जाए कि जड़ों में ग्रंथियाॅं बनी हैं या नहीं। यदि
+    ग्रंथियाॅं नहीं बनी हों तो 30 कि.ग्रा. नत्रजन प्रति हैक्टर (600 ग्रा. प्रति
+    नाली) की दर से फूल आने के पूर्व प्रयोग किया जाए अथवा 10 टन सड़ी गोबर की खाद
+    डालें जिससे जड़ों में ग्रंथियाॅं अच्छी बनती हैं तथा उपज अच्छी मिलती है। यदि
+    खाद खूब सड़ी नहीं है तो कुरमुला कीट का प्रकोप अधिक होगा जो काफी हानिकारक है।
+    जिन खेतों में जस्ते की कमी है वहाँ पर 25.0 कि.ग्रा. जस्ता (जिंक सल्फेट
+    22-24:)/है0 डालना चाहिए। सोयाबीन की अधिक उपज के लिए 20-30 कि.ग्रा. सल्फर/है0
+    डालना लाभकारी होता है। <br />
+  </p>
+  <p>
+    <strong className="strongclass">खरपतवार नियंत्रण</strong>
+    <br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;बुवाई से 20-25 दिन बाद प्रथम
+    निराई अवश्य कर देनी चाहिए। इसके 20-25 दिन बाद दूसरी निराई कर देनी चाहिए।
+    खरपतवारनाशक रसायन एलाक्लोर 50 ई.सी. 4 ली. प्रति है0 (80 मि.ली. प्रति नाली)
+    या मेटोलाक्लोर 50 ई.सी. 2 ली0 (20 ग्रा. प्रति नाली) की दर से 600-700 लीटर
+    पानी (16-20 लीटर प्रति नाली) में घोल कर बुवाई से 48 घण्टे के भीतर छिड़काव
+    करें। यदि एलाक्लोर उपलब्ध न हो तो खरपतवारनाशक रसायन फ्लूक्लोरोलीन 45 ई.सी. 2
+    ली. प्रति हैक्टर घोल बनाकर बुवाई से पहलेे खेत में छिड़क कर 3-4 से.मी. मिट्टी
+    (ऊपरी सतह) में मिलाने के बाद बुवाई करें क्योंकि यह रसायन ऊपरी सतह में रहने
+    में उड़नशील रहता है। यदि आवश्यक हो तो बाद में एक निराई कर देनी चाहिए। अथवा
+    15-20 दिन के बाद क्यूजालाफाप इथायल (5 ई.सी.) 50 ग्रा. सक्रिय तत्व की दर से
+    600-700 ली. पानी में घोलकर छिड़काव करने से खरपतवार नियंत्रण हो जाता है।{" "}
+    <br />
+  </p>
+  <p>
+    <strong className="strongclass">सिंचाई एवं जल निकास</strong>
+    <br />
+    यदि वर्षा न हो तो फूल आने और फली बनते समय आवश्यकतानुसार सिंचाई करें। उचित
+    जल-निकास आवश्यक है।
+    <br />
+  </p>
+  <p>
+    <strong className="strongclass">कीट नियंत्रण</strong>
+    <br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <strong className="strongclass">&nbsp;पत्ती काटने वाला कमला कीट: </strong>
+    बालदार कमला कीट सोयाबीन की पत्तियों को नुकसान पहुँचाने वाला प्रमुख कीट है।
+    मादाएँ इकट्ठे समूह में अण्डे देती हैं तथा सूडि़या निकलकर लगभग 3-4 दिनों तक
+    इकट्ठे रह कर पत्तियों को खाती है। यह कीट गहरे पीले रंग का होता है। इसके शरीर
+    पर पीले या भूरे रोयें होते हैं। इसकी रोकथाम के लिये लेम्डा साइहैलोथ्रिन 5
+    ई.सी. / 250 मि.ली./है. अथवा इमामेक्टिन बेन्जोएट 5 एसजी / 250 ग्राम/है. अथवा
+    ट्राइएजोफास 40 ई.सी. / 750 मि.ली./है. को 700-800 लीटर पानी/है. दर से छिड़काव
+    करें। बालदार कीट प्रारम्भिक अवस्था में सुडि़यों सहित प्रभावित पत्तियों को
+    नोचकर नष्ट करना भी एक प्रभावी नियंत्रक सिद्ध होता है। <br />
+    <strong className="strongclass">हरी अर्ध कुण्डलक इल्ली:</strong> पत्तियों को
+    नुकसान पहुँचाने वाले अन्य कीटों में भूरी व हरी अर्ध कुण्डलक इल्ली भी प्रमुख
+    है। जो कि अर्द्धकुण्डलक बनाती हुई चलती है व पत्तियों के किनारों को खाती है।
+    इसकी रोकथाम के लिये क्लोरेन्ट्रेनीपाल 18.5 एस.सी. / 150 मि.ली./है. अथवा
+    इनडोक्साकार्ब 15.8 ई.सी. / 333 मि.ली./है. की दर से छिड़काव करें।
+    <br />
+    तम्बाकू की इल्ली: यह सोयाबीन की पत्तियों को क्षति पहुँचाने वाला हानिकारक कीट
+    है। इसकी मादा समूह में अण्डे देती है। अण्डों से सूडि़या निकलकर समूह में
+    पत्तियों को खाते हुए क्षति पहुँचाती हैं। इसकी रोकथाम के लिए इन्डोक्साकार्ब
+    15.8 ई.सी. / 333 मि.ली./है. अथवा क्लोरान्ट्रानिलीप्रोले 18.5 एस.सी. / 150
+    एम.एल./है. अथवा इमामेक्टिन बेन्जोएट 5 एस.जी. / 250 ग्राम/है. की दर से
+    छिड़काव करें।
+    <br />
+    <strong className="strongclass">तना छेदक मक्खी (स्टेम फलाई):</strong> तना
+    छेदक मक्खी 70-80: पौधों को ग्रसित करती है यह मक्खी धात्विक काले रंग की होती
+    है। तथा मादा पत्ती के निचले भाग में अण्डें देती है। अण्डों से डिभक 2-3 दिन
+    में निकल आता है और तुरन्त पास के तनों मे छेद कर पर्णवृन्त तक चला जाता है और
+    फिर तनों में घुस कर पौधों को हानि पहुँचाती है। इसकी रोकथाम के लिए
+    क्लोरेन्ट्रानिलीप्रोले 18.5 एस.सी. / 150 मि.ली./है. अथवा इन्डोक्साकार्ब 15.8
+    ई.सी. / 333 मि.ली./है. अथवा फोरेट 10 जी. / 15 कि.ग्रा./है. की दर से छिड़काव
+    करें।
+    <br />
+    छल्ला भृंग (गार्डिल बीटल): यह कीट 10-30: तक पौधों को ग्रसित करती है। मध्यम
+    आकार की वयस्क मादा तने तथा टहनियों पर दो छल्ले बनाती हैं तथा छल्लों के छिद्र
+    में पीले अण्डे देती है। गिडार अन्दर ही अन्दर खाती है जिससे छल्लों के ऊपर का
+    हिस्सा सूख जाता है इसके नियंत्रण हेतु फसल में क्लोरेन्ट्रानिलीप्रोले 18.5
+    एस.सी. / 150 मि.ली./है., ट्रायएजोफास 40 ई.सी. / 625 मि.ली./है. की दर से
+    छिड़काव करें।
+    <br />
+    सफेद मक्खी: सफेद मक्खी का वयस्क छोटे आकार का होता है। यह मक्खी अण्डे
+    पत्तियों की निचली सतह पर देती है तथा पीला विषाणु रोग फैलाती है इसके नियंत्रण
+    के लिये कार्बोफ्यूराॅन 3 जी. / 50 कि.ग्रा./है. की दर से खेत में मिलायें।
+    <br />
+  </p>
+  <p>
+    <strong className="strongclass">रोग नियंत्रण </strong>
+    <br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;सोयाबीन की फसल मंे
+    अंकुरण की बहुत बड़ी समस्या है जो कि बीज एवं पौध गलन रोग से होती है। जिनके
+    लिए बीज को 2.00 ग्रा. थाइरम एवं 1.00 ग्रा. कार्बेन्डाजिम के मिश्रण से प्रति
+    कि.ग्रा. बीज को शोधित करके बोना चाहिए। खड़ी फसल में अन्य बीमारियाँ जैसे
+    पर्णचित्ती, जीवाणु स्फोट (वेक्टीरियल पश्चूल्स), श्यामवर्ण (एन्थे्रक्जोज,)
+    पीला मोजैक एवं राइजोक्टोनिया अंगमारी दिखाई देती हैं। राइजोक्टोनिया अंगमारी
+    के मुख्य लक्षणों में पर्ण धब्बा, पर्ण अंगमारी एवं पत्तियों का गिरना है। खेत
+    में स्थान स्थान पर रोगी पौधे समूहों में पाए जाते हैं। पत्तियों पर भूरे रंग
+    के छोटे, बड़े धब्बे बन जाते हैं। टहनियों पर फफूँदी की कपास जैसी सफेद वृद्धि
+    देखी जा सकती है।
+    <br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;इन रोगों से फसल को बचाने के
+    लिए ऊपर दी गयी दवाओं से बीजों को उपचारित करके तथा फसल पर रोग के लक्षण दिखाई
+    पड़ने पर कार्बेन्डाजिम नामक दवा 0.5 ग्रा. प्रति लीटर पानी के हिसाब से घोल
+    बनाकर पहला छिड़काव बुवाई के 60 दिन बाद करें। दूसरा एवं तीसरा छिड़काव 15 दिन
+    बाद करें। गर्मी में गहरी जुताई करें तथा फसल चक्र अपनायें। पानी का निकास
+    करें। जिवाणुस्फोट पीला चित्तवर्ण रोग से बचाव हेतु रोग अवरोधी प्रजातियाँ जैसे
+    कि पी. के. 416, पी. एस. 1042, पी. एस. 1092, पी. एस. 1225 बोयें। फसल में रोग
+    वाहक कीड़ों की संख्या कम करने के लिए मिथाइल-ओ-डेमेटान या मेटास्सिटाक 1.0
+    मि.ली. प्रति लीटर पानी में घोल बनाकर छिड़काव बुवाई के 20, 30, 40 एवं 50 दिन
+    बाद करें। पानी की मात्रा प्रति हैक्टर 700-800 लीटर रखें। जीवाणु जनित रोग में
+    पत्तियों पर आलपिन के सिर के बराबर 1 मि.मी. के पीले धब्बे बनते हैं जो बाद में
+    भूरे पड़ जाते हैं। इसकी रोकथाम के लिए कापर आक्सीक्लोराइड-50 डब्लू. पी. 1.5
+    कि.ग्रा./है. $ स्टेप्टोसाइक्लिन का 150 ग्राम/है. का 700 लीटर पानी की दर से
+    घोल बनाकर लक्षण दिखाई देने पर छिड़काव करना चाहिए। श्यामवर्ण (फली का झुलसा)
+    रोग में फलीयो पर पीले से भूरे धब्बे बनते है जिसमें छोटे, अपरिपक्व, सिकुड़े
+    दाने बनते है जिसपर कवक की वृद्धि दिखाई पड़ती है। इसकी रोकथाम के लिए जीनेव 75
+    डब्लू.पी. या फोलटाफ 80 डब्ल्यू पी.के 2.5 कि.ग्रा./है. की दर से दो छिड़काव
+    करें पहला लक्षण दिखाई देते समय दूसरा 10 दिन बाद करें। बीमारियों एवं कीट
+    नियंत्रण हेतु एकीकृतनाशी जीव प्रबन्धन मोड्यूल अपनायें।
+    <br />
+  </p>
+  <p>
+    <strong className="strongclass">उपज</strong>
+    <br />
+    संस्तुत सघन विधियाँ अपनाकर 20-25 कुन्टल पैदावार प्रति हैक्टर (40-50
+    कि.ग्रा./नाली) प्राप्त की जा सकती है। <br />
+    एक हैक्टर की बुवाई हेतु 75 कि.ग्रा. (1.5 कि.ग्रा. प्रति नाली) बीज 80-85
+    प्रतिशत जमाव वाला पर्याप्त होता हैं। <br />
+  </p>
+  <p>
+    <strong className="strongclass">बीज उपचार</strong>
+    <br />
+    बीज जनित रोगों से बचाव हेतु सोयाबीन के बीज को ‘थीरम’ 75 प्रतिशत डब्ल्यू. पी.
+    $ कार्बेन्डाजिम 50 डब्लू. पी. (2ः1) तीन ग्रा./कि.ग्रा. बीज की दर से उपचारित
+    कर लेना चाहिए। <br />
+  </p>
+  <p>
+    <strong className="strongclass">राइजोबियम से बीज सम्बर्धन</strong>
+    <br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;राइजोबियम कल्चर से उपचारित बीज ही बोना चाहिए।
+    बीज का उपचार सोयाबीन के विशिष्ट राइजोबियम कल्चर से करना चाहिए जिसकी विधि
+    निम्न प्रकार है:
+    <br />
+    लगभग 250 मि.ली. साफ व ठण्डे पानी में 25-30 ग्राम गुड़/चीनी का घोल बनाकर
+    उसमें 200 ग्रा. राइजोबियम कल्चर अच्छी तरह मिला लें। इस मिश्रण को 30 कि.ग्रा.
+    बीज के ऊपर छिड़ककर हाथ से मिलायें जिससे बीज के ऊपर एक हल्की पर्त चढ़ जायें।
+    इस बीज को छाया में 15-20 मिनट सुखाकर बुवाई करें। तेज धूप में कल्चर के
+    जीवाणुओं के मरने की आशंका रहती है। अतः बीज को तुरन्त मिट्टी से ढ़क दें। ऐसे
+    खेतों में जहाँ सोयाबीन की खेती पहली बार या अथवा काफी समय बाद की जा रही हो
+    वहाँ कल्चर का प्रयोग अवश्य करें।
+    <br />
+  </p>
+  <p>
+    <strong className="strongclass">
+      बुवाई का समय
+      <br />
+    </strong>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;पर्वतीय क्षेत्रों में बुवाई का उपयुक्त
+    समय मई के अन्तिम सप्ताह से जून के दूसरे सप्ताह तक है। भावर तराई में बुवाई का
+    उपयुक्त समय जून अन्तिम सप्ताह से जुलाई प्रथम सप्ताह तक है। विलम्ब से बुवाई
+    करने पर उपज कम मिलती है तथा रबी की फसल की बुवाई समय से कर पाना सम्भव नहीं हो
+    पाता।
+    <br />
+  </p>
+  <p>
+    <strong className="strongclass">बुवाई विधि</strong>
+    <br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;बुवाई हल के पीछे 3-4 से.मी. की गहराई पर
+    लाइनों में करनी चाहिए। लाइन से लाइन की दूरी 45 से.मी. रखनी चाहिए। भावर में
+    लाइन से लाइन की दूरी 60 से.मी. रखनी चाहिए। जमने के पश्चात् अधिक घने पौधों को
+    निकाल देना चाहिए तथा छंटाई करके पौधे से पौधे की दूरी 5-7 से.मी. कर देनी
+    चाहिए।
+    <br />
+  </p>
+  <p>
+    <strong className="strongclass">खेत की तैयारी</strong> <br />
+    सोयाबीन की खेती के लिए बलुई दोमट भूमि सर्वोत्तम है। सामान्यतः मैदानी एवं
+    पर्वतीय क्षेत्रों की सभी प्रकार की मिट्टी में इसकी खेती की जा सकती है।
+    6.5-7.0 पी.एच. मान वाली मृदायें सोयाबीन की खेती के लिए सर्वोत्तम होती है।
+    यदि मिट्टी अधिक अम्लीय हो तो मृदा परीक्षण के आधार पर चूने का प्रयोग वांछनीय
+    है। एक ग्रीष्म कालीन जुताई के पश्चात् 2-3 जुताई हैरो या हल से करने के
+    उपरान्त पाटा लगाकर खेत को समतल कर लें जिससें सिंचाई एवं जल निकास की उचित
+    व्यवस्था हो सके ।
+  </p>
+  <p>
+    <strong className="strongclass">उर्वरकों का प्रयोग </strong>
+    <br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;यदि मृदा परीक्षण न कराया गया हो तो
+    उन्न्ातशील प्रजातियों के लिए 20 किग्रा नत्रजन, 60 कि.ग्रा. फास्फोरस तथा 40
+    कि.ग्रा. पोेटाश प्रति हैक्टर (क्रमशः 400, 1200 व 800 ग्रा. प्रति नाली)
+    प्रयोग करना चाहिए। उर्वरकों की सम्पूर्ण मात्रा अन्तिम जुताई में हल के पीछे
+    कूड़ों में प्रयोग करें। बोने के 30-35 दिन बाद सोयाबीन के एक या दो पौधे
+    उखाड़कर देख लिया जाए कि जड़ों में ग्रंथियाॅं बनी हैं या नहीं। यदि ग्रंथियाॅं
+    नहीं बनी हों तो 30 कि.ग्रा. नत्रजन प्रति हैक्टर (600 ग्रा. प्रति नाली) की दर
+    से फूल आने के पूर्व प्रयोग किया जाए अथवा 10 टन सड़ी गोबर की खाद डालें जिससे
+    जड़ों में ग्रंथियाॅं अच्छी बनती हैं तथा उपज अच्छी मिलती है। यदि खाद खूब सड़ी
+    नहीं है तो कुरमुला कीट का प्रकोप अधिक होगा जो काफी हानिकारक है। जिन खेतों
+    में जस्ते की कमी है वहाँ पर 25.0 कि.ग्रा. जस्ता (जिंक सल्फेट 22-24:)/है0
+    डालना चाहिए। सोयाबीन की अधिक उपज के लिए 20-30 कि.ग्रा. सल्फर/है0 डालना
+    लाभकारी होता है। <br />
+  </p>
+  <p>
+    <strong className="strongclass">खरपतवार नियंत्रण</strong>
+    <br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;बुवाई से 20-25 दिन बाद प्रथम निराई
+    अवश्य कर देनी चाहिए। इसके 20-25 दिन बाद दूसरी निराई कर देनी चाहिए।
+    खरपतवारनाशक रसायन एलाक्लोर 50 ई.सी. 4 ली. प्रति है0 (80 मि.ली. प्रति नाली)
+    या मेटोलाक्लोर 50 ई.सी. 2 ली0 (20 ग्रा. प्रति नाली) की दर से 600-700 लीटर
+    पानी (16-20 लीटर प्रति नाली) में घोल कर बुवाई से 48 घण्टे के भीतर छिड़काव
+    करें। यदि एलाक्लोर उपलब्ध न हो तो खरपतवारनाशक रसायन फ्लूक्लोरोलीन 45 ई.सी. 2
+    ली. प्रति हैक्टर घोल बनाकर बुवाई से पहलेे खेत में छिड़क कर 3-4 से.मी. मिट्टी
+    (ऊपरी सतह) में मिलाने के बाद बुवाई करें क्योंकि यह रसायन ऊपरी सतह में रहने
+    में उड़नशील रहता है। यदि आवश्यक हो तो बाद में एक निराई कर देनी चाहिए। अथवा
+    15-20 दिन के बाद क्यूजालाफाप इथायल (5 ई.सी.) 50 ग्रा. सक्रिय तत्व की दर से
+    600-700 ली. पानी में घोलकर छिड़काव करने से खरपतवार नियंत्रण हो जाता है।{" "}
+    <br />
+  </p>
+  <p>
+    <strong className="strongclass">सिंचाई एवं जल निकास</strong>
+    <br />
+    यदि वर्षा न हो तो फूल आने और फली बनते समय आवश्यकतानुसार सिंचाई करें। उचित
+    जल-निकास आवश्यक है।
+    <br />
+  </p>
+  <p>
+    <strong className="strongclass">कीट नियंत्रण</strong>
+    <br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;पत्ती काटने वाला कमला कीट: बालदार
+    कमला कीट सोयाबीन की पत्तियों को नुकसान पहुँचाने वाला प्रमुख कीट है। मादाएँ
+    इकट्ठे समूह में अण्डे देती हैं तथा सूडि़या निकलकर लगभग 3-4 दिनों तक इकट्ठे
+    रह कर पत्तियों को खाती है। यह कीट गहरे पीले रंग का होता है। इसके शरीर पर
+    पीले या भूरे रोयें होते हैं। इसकी रोकथाम के लिये लेम्डा साइहैलोथ्रिन 5 ई.सी.
+    / 250 मि.ली./है. अथवा इमामेक्टिन बेन्जोएट 5 एसजी / 250 ग्राम/है. अथवा
+    ट्राइएजोफास 40 ई.सी. / 750 मि.ली./है. को 700-800 लीटर पानी/है. दर से छिड़काव
+    करें। बालदार कीट प्रारम्भिक अवस्था में सुडि़यों सहित प्रभावित पत्तियों को
+    नोचकर नष्ट करना भी एक प्रभावी नियंत्रक सिद्ध होता है। <br />
+    <strong className="strongclass">हरी अर्ध कुण्डलक इल्ली: </strong>पत्तियों को
+    नुकसान पहुँचाने वाले अन्य कीटों में भूरी व हरी अर्ध कुण्डलक इल्ली भी प्रमुख
+    है। जो कि अर्द्धकुण्डलक बनाती हुई चलती है व पत्तियों के किनारों को खाती है।
+    इसकी रोकथाम के लिये क्लोरेन्ट्रेनीपाल 18.5 एस.सी. / 150 मि.ली./है. अथवा
+    इनडोक्साकार्ब 15.8 ई.सी. / 333 मि.ली./है. की दर से छिड़काव करें।
+    <br />
+    <strong className="strongclass">तम्बाकू की इल्ली:</strong> यह सोयाबीन की
+    पत्तियों को क्षति पहुँचाने वाला हानिकारक कीट है। इसकी मादा समूह में अण्डे
+    देती है। अण्डों से सूडि़या निकलकर समूह में पत्तियों को खाते हुए क्षति
+    पहुँचाती हैं। इसकी रोकथाम के लिए इन्डोक्साकार्ब 15.8 ई.सी. / 333 मि.ली./है.
+    अथवा क्लोरान्ट्रानिलीप्रोले 18.5 एस.सी. / 150 एम.एल./है. अथवा इमामेक्टिन
+    बेन्जोएट 5 एस.जी. / 250 ग्राम/है. की दर से छिड़काव करें।
+    <br />
+    तना छेदक मक्खी (स्टेम फलाई): तना छेदक मक्खी 70-80: पौधों को ग्रसित करती है
+    यह मक्खी धात्विक काले रंग की होती है। तथा मादा पत्ती के निचले भाग में अण्डें
+    देती है। अण्डों से डिभक 2-3 दिन में निकल आता है और तुरन्त पास के तनों मे छेद
+    कर पर्णवृन्त तक चला जाता है और फिर तनों में घुस कर पौधों को हानि पहुँचाती
+    है। इसकी रोकथाम के लिए क्लोरेन्ट्रानिलीप्रोले 18.5 एस.सी. / 150 मि.ली./है.
+    अथवा इन्डोक्साकार्ब 15.8 ई.सी. / 333 मि.ली./है. अथवा फोरेट 10 जी. / 15
+    कि.ग्रा./है. की दर से छिड़काव करें।
+    <br />
+    <strong className="strongclass">छल्ला भृंग (गार्डिल बीटल):</strong> यह कीट
+    10-30: तक पौधों को ग्रसित करती है। मध्यम आकार की वयस्क मादा तने तथा टहनियों
+    पर दो छल्ले बनाती हैं तथा छल्लों के छिद्र में पीले अण्डे देती है। गिडार
+    अन्दर ही अन्दर खाती है जिससे छल्लों के ऊपर का हिस्सा सूख जाता है इसके
+    नियंत्रण हेतु फसल में क्लोरेन्ट्रानिलीप्रोले 18.5 एस.सी. / 150 मि.ली./है.,
+    ट्रायएजोफास 40 ई.सी. / 625 मि.ली./है. की दर से छिड़काव करें।
+    <br />
+    सफेद मक्खी: सफेद मक्खी का वयस्क छोटे आकार का होता है। यह मक्खी अण्डे
+    पत्तियों की निचली सतह पर देती है तथा पीला विषाणु रोग फैलाती है इसके नियंत्रण
+    के लिये कार्बोफ्यूराॅन 3 जी. / 50 कि.ग्रा./है. की दर से खेत में मिलायें।
+    <br />
+  </p>
+  <p>
+    <strong className="strongclass">रोग नियंत्रण </strong>
+    <br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;सोयाबीन की फसल मंे
+    अंकुरण की बहुत बड़ी समस्या है जो कि बीज एवं पौध गलन रोग से होती है। जिनके
+    लिए बीज को 2.00 ग्रा. थाइरम एवं 1.00 ग्रा. कार्बेन्डाजिम के मिश्रण से प्रति
+    कि.ग्रा. बीज को शोधित करके बोना चाहिए। खड़ी फसल में अन्य बीमारियाँ जैसे
+    पर्णचित्ती, जीवाणु स्फोट (वेक्टीरियल पश्चूल्स), श्यामवर्ण (एन्थे्रक्जोज,)
+    पीला मोजैक एवं राइजोक्टोनिया अंगमारी दिखाई देती हैं। राइजोक्टोनिया अंगमारी
+    के मुख्य लक्षणों में पर्ण धब्बा, पर्ण अंगमारी एवं पत्तियों का गिरना है। खेत
+    में स्थान स्थान पर रोगी पौधे समूहों में पाए जाते हैं। पत्तियों पर भूरे रंग
+    के छोटे, बड़े धब्बे बन जाते हैं। टहनियों पर फफूँदी की कपास जैसी सफेद वृद्धि
+    देखी जा सकती है।
+    <br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;इन रोगों से फसल को बचाने के
+    लिए ऊपर दी गयी दवाओं से बीजों को उपचारित करके तथा फसल पर रोग के लक्षण दिखाई
+    पड़ने पर कार्बेन्डाजिम नामक दवा 0.5 ग्रा. प्रति लीटर पानी के हिसाब से घोल
+    बनाकर पहला छिड़काव बुवाई के 60 दिन बाद करें। दूसरा एवं तीसरा छिड़काव 15 दिन
+    बाद करें। गर्मी में गहरी जुताई करें तथा फसल चक्र अपनायें। पानी का निकास
+    करें। जिवाणुस्फोट पीला चित्तवर्ण रोग से बचाव हेतु रोग अवरोधी प्रजातियाँ जैसे
+    कि पी. के. 416, पी. एस. 1042, पी. एस. 1092, पी. एस. 1225 बोयें। फसल में रोग
+    वाहक कीड़ों की संख्या कम करने के लिए मिथाइल-ओ-डेमेटान या मेटास्सिटाक 1.0
+    मि.ली. प्रति लीटर पानी में घोल बनाकर छिड़काव बुवाई के 20, 30, 40 एवं 50 दिन
+    बाद करें। पानी की मात्रा प्रति हैक्टर 700-800 लीटर रखें। जीवाणु जनित रोग में
+    पत्तियों पर आलपिन के सिर के बराबर 1 मि.मी. के पीले धब्बे बनते हैं जो बाद में
+    भूरे पड़ जाते हैं। इसकी रोकथाम के लिए कापर आक्सीक्लोराइड-50 डब्लू. पी. 1.5
+    कि.ग्रा./है. $ स्टेप्टोसाइक्लिन का 150 ग्राम/है. का 700 लीटर पानी की दर से
+    घोल बनाकर लक्षण दिखाई देने पर छिड़काव करना चाहिए। श्यामवर्ण (फली का झुलसा)
+    रोग में फलीयो पर पीले से भूरे धब्बे बनते है जिसमें छोटे, अपरिपक्व, सिकुड़े
+    दाने बनते है जिसपर कवक की वृद्धि दिखाई पड़ती है। इसकी रोकथाम के लिए जीनेव 75
+    डब्लू.पी. या फोलटाफ 80 डब्ल्यू पी.के 2.5 कि.ग्रा./है. की दर से दो छिड़काव
+    करें पहला लक्षण दिखाई देते समय दूसरा 10 दिन बाद करें। बीमारियों एवं कीट
+    नियंत्रण हेतु एकीकृतनाशी जीव प्रबन्धन मोड्यूल अपनायें।
+    <br />
+  </p>
+  <p>
+    <strong className="strongclass">उपज</strong>
+    <br />
+    संस्तुत सघन विधियाँ अपनाकर 20-25 कुन्टल पैदावार प्रति हैक्टर (40-50
+    कि.ग्रा./नाली) प्राप्त की जा सकती है।{" "}
+  </p>
+</>
+
+    </div>
+  )
+}
