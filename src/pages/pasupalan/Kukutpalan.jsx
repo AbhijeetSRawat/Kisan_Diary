@@ -7,7 +7,7 @@ export default function Kukutpalan() {
   <meta httpEquiv="Content-Type" content="text/html; charset=UTF-8" />
   <title>JSP Page</title>
   <center>
-    <h3 className="h3class">
+    <h3 className="h3class text-3xl font-bold mb-5">
       <strong>बैकयार्ड कुक्कुट पालन </strong>
     </h3>
   </center>

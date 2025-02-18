@@ -1,5 +1,5 @@
 import React from 'react'
-import table1 from "../assets/imgages/pasu1.jpg"
+import table1 from "../../assets/imgages/pasu1.jpg"
 export default function Pasuahar() {
   return (
     <div>
@@ -8,7 +8,7 @@ export default function Pasuahar() {
   <title>JSP Page</title>
   <p />
   <center>
-    <h3 className="h3class">पशु आहार तकनीकी</h3>
+    <h3 className="h3class text-3xl font-bold">पशु आहार तकनीकी</h3>
   </center>
   <p />
   <p>

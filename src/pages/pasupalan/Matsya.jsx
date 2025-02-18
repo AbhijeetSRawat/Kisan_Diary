@@ -1,8 +1,8 @@
 import React from 'react'
-import table1 from "../assets/imgages/matsya1.jpg"
-import table2 from "./assets/imgages/Untitled.jpg"
-import table4 from "../assets/imgages/matsya3.jpg"
-import table3 from "../assets/imgages/matsya2.jpg"
+import table1 from "../../assets/imgages/matsya1.jpg"
+import table2 from "../../assets/imgages/Untitled.jpg"
+import table4 from "../../assets/imgages/matsya3.jpg"
+import table3 from "../../assets/imgages/matsya2.jpg"
 
 export default function Matsya() {
   return (
@@ -12,7 +12,7 @@ export default function Matsya() {
   <title>JSP Page</title>
   <strong>
     <center>
-      <h3 className="h3class">समन्वित मत्स्य पालन</h3>
+      <h3 className="h3class text-3xl font-bold">समन्वित मत्स्य पालन</h3>
     </center>
   </strong>
   <p>
