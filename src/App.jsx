@@ -66,7 +66,7 @@ const App = () => {
         <main className='bg-slate-300' style={{ flex: 1, padding: "24px" }}>
           <div className=' bg-white  border-4 p-5  rounded-lg' style={{ marginBottom: "16px" }}>
             <Routes>
-                <Route path='/' element={<Homepage/>}/>
+                <Route path='/' element={<Abt/>}/>
                 <Route path='/chapter1' element={<Chapter1/>}/>
                 <Route path='/KhadyanFasle' element={<KhadyanFasle/>}/>
                 <Route path='/DalhaniFasle' element={<DalhaniFasle/>}/>
@@ -81,7 +81,7 @@ const App = () => {
                 <Route path='/masale' element={<Masale/>}/>
                 <Route path='/pyaj' element={<Pyaj/>}/>
                 <Route path='/dhaan' element={<Chawal/>}/>
-                <Route path='/ekjhalak' element={<Abt/>}/>
+                
                 <Route path='/makka' element={<Macca/>}/>
                 <Route path='/jo' element={<Jo/>}/>
                 <Route path='/pashu' element={<PashuPalan/>}/>
