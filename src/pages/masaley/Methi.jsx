@@ -6,16 +6,14 @@ function Methi() {
       <>
         <meta httpEquiv="Content-Type" content="text/html; charset=UTF-8" />
         <title>Methi</title>
+        <div className="flex justify-between my-10">
         <center>
-          <h3 className="h3class">
-            <strong> मेंथी </strong>
-          </h3>
+          <h1 className="h3class text-3xl ml-[35vw] font-semibold">मेंथी</h1>
         </center>
-        <div style={{ float: "right" }}>
-          <a className="peechey" href="Link.do?method=maslonkikheti">
-            पीछे जाएँ
-          </a>
+        <div style={{ float: 'right' }}>
+          <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded" href="/masale">पीछे जाएँ</a>
         </div>
+      </div>
         <p>
           {" "}
           &nbsp;&nbsp;&nbsp;मेथी की हरी व सुखी पत्तियी सब्जी बनाने के लिए की
@@ -218,9 +216,8 @@ function Methi() {
           <br />
         </p>
         <div style={{ float: "right" }}>
-          <a className="peechey" href="Link.do?method=maslonkikheti">
-            पीछे जाएँ
-          </a>
+        <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded" href="/masale">पीछे जाएँ</a>
+
         </div>
         <p />
       </>

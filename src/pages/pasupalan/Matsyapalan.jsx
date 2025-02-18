@@ -6,7 +6,7 @@ export default function Matsyapalan() {
         <>
   <meta httpEquiv="Content-Type" content="text/html; charset=UTF-8" />
   <title>JSP Page</title>
-  <p>मत्स्य पालन</p>
+  <p className='text-3xl font bold mb-5'>मत्स्य पालन</p>
   <p>
     {" "}
     हमारे देश की अधिकतर जनसंख्या गांवों में रहती है जिसे जन्तु प्रोटीन युक्त

@@ -8,7 +8,7 @@ export default function Pasuhealth() {
   <title>JSP Page</title>
   <strong>
     <center>
-      <h3 className="h3class">
+      <h3 className="h3class text-3xl font-bold mb-5">
         पशुओं में स्वास्थ्य प्रबन्धन से सम्बन्धित किये जाने वाले माहवार कार्य
       </h3>
     </center>

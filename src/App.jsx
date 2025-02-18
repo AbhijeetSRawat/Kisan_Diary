@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //<<<<<<< HEAD
 
 import { Route, Routes } from 'react-router-dom'
@@ -13,6 +14,8 @@ import { Ramdana } from './pages/motaanaz/Ramdana'
 // } from './pages/motaanaz/Kuttu'
 export default function App() {
 
+=======
+>>>>>>> 065d4d7324e636f57d59308e7d95194942fe5350
 import React from 'react';
 import logo from './assets/imgages/logo1.jpg'
 import joinedImages from './assets/imgages/joinedimages.jpg'
@@ -41,8 +44,38 @@ import Pasuahar from './pages/pasupalan/Pasuahar';
 import Pasubimari from './pages/pasupalan/Pasubimari';
 import Kukutpalan from './pages/pasupalan/Kukutpalan';
 import Matsya from './pages/pasupalan/Matsya';
+import Pasuhealth from './pages/pasupalan/Pasuhealth';
+import Pasupalanbindu from './pages/pasupalan/Pasupalanbindu';
+import Matsyapalan from './pages/pasupalan/Matsyapalan';
+import Dhaniya from './pages/masaley/Dhaniya';
+import Methi from './pages/masaley/Methi';
+import Lahsun from './pages/masaley/Lahsun';
+import Haldi from './pages/masaley/Haldi';
+import Adrak from './pages/masaley/Adrak';
+import Motaanaj from './components/Motaanaj';
+import { Cheena } from './pages/motaanaz/Cheena';
+import { Kakun } from './pages/motaanaz/Kakun';
+import { Madua } from './pages/motaanaz/Madua';
+import { Ramdana } from './pages/motaanaz/Ramdana';
+import { Kuttu } from './pages/motaanaz/Kuttu';
+import { Raisbeen } from './pages/motaanaz/Raisbeen';
+import { Gahat } from './pages/motaanaz/Gahat';
+import { Motaanazparichay } from './pages/motaanaz/Motaanazparichay';
+import Falfool from './components/Falfool';
+import Fal from './pages/falfool/Fal';
+import Aam from './pages/falfool/Aam';
+import Fool from './pages/falfool/Fool';
+import Sugandhi from './pages/falfool/Sugandhi';
+import Aamkeybaag from './pages/falfool/Aamkeybaag';
+import Leechi from './pages/falfool/Leechi';
+import Amrud from './pages/falfool/Amrud';
+import Exportfool from './pages/falfool/Exportfool';
+import Ganna from './pages/Ganna';
 const App = () => {
+<<<<<<< HEAD
 //>>>>>>> b7670bb6ccf28a6ac60565848412bde74ebd9ade
+=======
+>>>>>>> 065d4d7324e636f57d59308e7d95194942fe5350
   return (
     <div style={{ display: "flex", flexDirection: "column" }}>
       {/* Header */}
@@ -82,7 +115,7 @@ const App = () => {
         <main className='bg-slate-300' style={{ flex: 1, padding: "24px" }}>
           <div className=' bg-white  border-4 p-5  rounded-lg' style={{ marginBottom: "16px" }}>
             <Routes>
-                <Route path='/' element={<Homepage/>}/>
+                <Route path='/' element={<Abt/>}/>
                 <Route path='/chapter1' element={<Chapter1/>}/>
                 <Route path='/KhadyanFasle' element={<KhadyanFasle/>}/>
                 <Route path='/DalhaniFasle' element={<DalhaniFasle/>}/>
@@ -97,7 +130,9 @@ const App = () => {
                 <Route path='/masale' element={<Masale/>}/>
                 <Route path='/pyaj' element={<Pyaj/>}/>
                 <Route path='/dhaan' element={<Chawal/>}/>
-                <Route path='/ekjhalak' element={<Abt/>}/>
+                <Route path='/pashuprabandhan' element={<Pasuhealth/>}/>
+                <Route path='/pramukhbindu' element={<Pasupalanbindu/>}/>
+                <Route path='/matsyapalan' element={<Matsyapalan/>}/>
                 <Route path='/makka' element={<Macca/>}/>
                 <Route path='/jo' element={<Jo/>}/>
                 <Route path='/pashu' element={<PashuPalan/>}/>
@@ -105,8 +140,36 @@ const App = () => {
                 <Route path='/pasubimari' element={<Pasubimari/>}/>
                 <Route path='/kukkut' element={<Kukutpalan/>}/>
                 <Route path='/matsya' element={<Matsya/>}/>
+                <Route path='/dhaniya' element={<Dhaniya/>}/>
+                <Route path='/methi' element={<Methi/>}/>
+                <Route path='/lehsun' element={<Lahsun/>}/>
+                <Route path='/haldi' element={<Haldi/>}/>
+                <Route path='/adrak' element={<Adrak/>}/>
+                <Route path='/motaanaj' element={<Motaanaj/>}/>
+                <Route path='/cheena' element={<Cheena/>}/>
+                <Route path='/kakun' element={<Kakun/>}/>
+                <Route path='/madua' element={<Madua/>}/>
+                <Route path='/ramdana' element={<Ramdana/>}/>
+                <Route path='/kuttu' element={<Kuttu/>}/>
+                <Route path='/ricebean' element={<Raisbeen/>}/>
+                <Route path='/gahat' element={<Gahat/>}/>
+                <Route path='/parichay' element={<Motaanazparichay/>}/>
+                <Route path='/falfool' element={<Falfool/>}/>
+                <Route path='/falutpadan' element={<Fal/>}/>
+                <Route path='/aamkevibhinn' element={<Aam/>}/>
+                <Route path='/sugandhifasle' element={<Sugandhi/>}/>
+                <Route path='/aamkebag' element={<Aamkeybaag/>}/>
+                <Route path='/litchikebaag' element={<Leechi/>}/>
+                <Route path='/amroodkiunnat' element={<Amrud/>}/>
+                <Route path='/pushputpadan' element={<Fool/>}/>
+                <Route path='/ganna' element={<Ganna/>}/>
 
-                <Route path='*' element={<div> Not Found</div>} />
+
+
+
+
+
+                <Route path='*' element= {<div> Not Found</div>} />
             </Routes>
           </div>
          

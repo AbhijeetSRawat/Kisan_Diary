@@ -7,14 +7,14 @@ function Adrak() {
         <meta httpEquiv="Content-Type" content="text/html; charset=UTF-8" />
         <title>adarak</title>
         <p />
+        <div className="flex justify-between my-10">
         <center>
-          <h3 className="h3class">अदरक</h3>
+          <h1 className="h3class text-3xl ml-[35vw] font-semibold">अदरक</h1>
         </center>
-        <div style={{ float: "right" }}>
-          <a className="peechey" href="Link.do?method=maslonkikheti">
-            पीछे जाएँ
-          </a>
+        <div style={{ float: 'right' }}>
+          <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded" href="/masale">पीछे जाएँ</a>
         </div>
+      </div>
         <p>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;अदरक को मुख्यतः
           कई तरह के मसालों के मिश्रण के अवयव, खाद्य संसाधन तथा शराब व्यवसाय में
@@ -264,9 +264,8 @@ function Adrak() {
     बुवाई से पहले प्रकन्दों को क्वीनालफाॅस     2 मि.ली. प्रति लीटर पानी में घोल बनाकर 5 मिनट तक उपचारित करें।<br>
   </p> */}
         <div style={{ float: "right" }}>
-          <a className="peechey" href="Link.do?method=maslonkikheti">
-            पीछे जाएँ
-          </a>
+        <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded" href="/masale">पीछे जाएँ</a>
+
         </div>
       </>
     </div>
