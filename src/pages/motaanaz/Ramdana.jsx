@@ -1,5 +1,6 @@
 import React from 'react'
 import ramdana from "../../assets/img/ramdana.jpg"
+import ramdanarog from "../../assets/img/ramdanarog.jpg"
 import ramdanarog2 from "../../assets/img/ramdanarog2.jpg"
 export const Ramdana = () => {
   return (
@@ -39,7 +40,7 @@ export const Ramdana = () => {
     <br />
   </p>
   <p>
-    <img src="./img/ramdana.jpg" width={768} height={224} />
+    <img src={ramdana} width={768} height={224} />
   </p>
   <p>
     <strong className="strongclass">बुवाई का समय</strong>
@@ -159,7 +160,7 @@ export const Ramdana = () => {
       </tr>
       <tr>
         <td colSpan={3}>
-          <img src={ramdana} width={720} height={360} />
+          <img src={ramdanarog} width={720} height={360} />
         </td>
       </tr>
       <tr>

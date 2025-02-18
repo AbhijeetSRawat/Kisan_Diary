@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+//<<<<<<< HEAD
 
 import { Route, Routes } from 'react-router-dom'
 import Gehun from './pages/gehun'
@@ -12,7 +12,7 @@ import { Ramdana } from './pages/motaanaz/Ramdana'
 
 // } from './pages/motaanaz/Kuttu'
 export default function App() {
-=======
+
 import React from 'react';
 import logo from './assets/imgages/logo1.jpg'
 import joinedImages from './assets/imgages/joinedimages.jpg'
@@ -42,7 +42,7 @@ import Pasubimari from './pages/pasupalan/Pasubimari';
 import Kukutpalan from './pages/pasupalan/Kukutpalan';
 import Matsya from './pages/pasupalan/Matsya';
 const App = () => {
->>>>>>> b7670bb6ccf28a6ac60565848412bde74ebd9ade
+//>>>>>>> b7670bb6ccf28a6ac60565848412bde74ebd9ade
   return (
     <div style={{ display: "flex", flexDirection: "column" }}>
       {/* Header */}
@@ -74,14 +74,6 @@ const App = () => {
       </header>
       <img src={joinedImages} alt="images" />
 
-<<<<<<< HEAD
-        </nav>
-        <Routes>
-            <Route path='/' element={<Gehun/>}/>
-            <Route path='*' element="page not found"/>
-           
-        </Routes>
-=======
       <div style={{ display: "flex", flex: 1 }}>
         {/* Sidebar */}
         <SideBar className="h-[70vh]" />
@@ -119,7 +111,6 @@ const App = () => {
           </div>
          
         </main>
->>>>>>> b7670bb6ccf28a6ac60565848412bde74ebd9ade
       </div>
     </div>
   );
