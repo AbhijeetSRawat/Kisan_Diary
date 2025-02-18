@@ -1,5 +1,5 @@
 import React from 'react'
-import table1 from "../../assetsimg/matarrog.jpg"
+import table1 from "../../assets/img/matarrog.jpg"
 
 export default function Matar() {
   return (
