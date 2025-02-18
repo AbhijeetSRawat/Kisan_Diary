@@ -4,7 +4,7 @@ import logo from './assets/imgages/logo1.jpg'
 import joinedImages from './assets/imgages/joinedimages.jpg'
 import { Route, Routes } from 'react-router-dom';
 import SideBar from './components/SideBar';
-import Chapter1 from './pages/chapter1';
+import Chapter1 from './pages/Chapter1';
 import Homepage from './pages/Homepage';
 const App = () => {
 
