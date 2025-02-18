@@ -1,5 +1,6 @@
 import React from 'react'
 import chanarog2 from "../../assets/img/chanarog2.jpg"
+import chanarog from "../../assets/img/chanarog.jpg"
 export default function Chana() {
   return (
     <div>
