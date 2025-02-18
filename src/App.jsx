@@ -43,6 +43,16 @@ import { Kuttu } from './pages/motaanaz/Kuttu';
 import { Raisbeen } from './pages/motaanaz/Raisbeen';
 import { Gahat } from './pages/motaanaz/Gahat';
 import { Motaanazparichay } from './pages/motaanaz/Motaanazparichay';
+import Falfool from './components/Falfool';
+import Fal from './pages/falfool/Fal';
+import Aam from './pages/falfool/Aam';
+import Fool from './pages/falfool/Fool';
+import Sugandhi from './pages/falfool/Sugandhi';
+import Aamkeybaag from './pages/falfool/Aamkeybaag';
+import Leechi from './pages/falfool/Leechi';
+import Amrud from './pages/falfool/Amrud';
+import Exportfool from './pages/falfool/Exportfool';
+import Ganna from './pages/Ganna';
 const App = () => {
   return (
     <div style={{ display: "flex", flexDirection: "column" }}>
@@ -122,6 +132,20 @@ const App = () => {
                 <Route path='/ricebean' element={<Raisbeen/>}/>
                 <Route path='/gahat' element={<Gahat/>}/>
                 <Route path='/parichay' element={<Motaanazparichay/>}/>
+                <Route path='/falfool' element={<Falfool/>}/>
+                <Route path='/falutpadan' element={<Fal/>}/>
+                <Route path='/aamkevibhinn' element={<Aam/>}/>
+                <Route path='/sugandhifasle' element={<Sugandhi/>}/>
+                <Route path='/aamkebag' element={<Aamkeybaag/>}/>
+                <Route path='/litchikebaag' element={<Leechi/>}/>
+                <Route path='/amroodkiunnat' element={<Amrud/>}/>
+                <Route path='/pushputpadan' element={<Fool/>}/>
+                <Route path='/ganna' element={<Ganna/>}/>
+
+
+
+
+
 
                 <Route path='*' element= {<div> Not Found</div>} />
             </Routes>

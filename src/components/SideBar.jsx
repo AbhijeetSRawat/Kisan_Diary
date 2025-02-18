@@ -14,6 +14,11 @@ export default function SideBar() {
               <Link className='bg-black text-white rounded-md h-[40px] flex justify-center items-center hover:bg-white hover:text-black' to="/masale">मसालों की खेती</Link>
               <Link className='bg-black text-white rounded-md h-[70px] flex justify-center items-center pl-3 hover:bg-white hover:text-black' to="/pashu">पशु सम्बन्धी महत्वपूर्ण जानकारीयां</Link>
               <Link className='bg-black text-white rounded-md h-[40px] flex justify-center items-center hover:bg-white hover:text-black' to="/motaanaj">मोटे अनाज</Link>
+              <Link className='bg-black text-white rounded-md h-[70px] flex justify-center items-center pl-3 hover:bg-white hover:text-black' to="/falfool">फल, फूल एवम सुगंधि फसलों खेती उत्पादन हेतु
+              </Link>
+              <Link className='bg-black text-white rounded-md h-[40px] flex justify-center items-center hover:bg-white hover:text-black' to="/ganna">गन्ना</Link>
+
+
 
 
             </li>
