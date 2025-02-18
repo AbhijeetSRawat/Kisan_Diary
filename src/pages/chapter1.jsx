@@ -5,9 +5,9 @@ export default function Chapter1() {
     <div> 
        
         <center>
-            <p align="center" style="-ms-text-overflow: ">
+            <p className='center' style="-ms-text-overflow: ">
                 
-            <center><h3 class="h3class">उत्तराखंड-एक दृष्टि मे </h3></center><br/>
+            <center><h3 className="h3class">उत्तराखंड-एक दृष्टि मे </h3></center><br/>
               
 <table>
 <tbody>
@@ -24,11 +24,11 @@ export default function Chapter1() {
 <tr><td>उच्च न्यायालय   </td><td> नैनीताल.</td></tr>
 <tr><td>प्रति व्यक्ति आय(वर्ष 2011-2012)   </td><td> 67,506 रूपये</td></tr>
 
-<tr><td>राज्य पुष्प  </td><td>  ब्रह्म कमल (<i class="italicclass">Saussurea obvallata</i>).</td></tr>
+<tr><td>राज्य पुष्प  </td><td>  ब्रह्म कमल (<i className="italicclass">Saussurea obvallata</i>).</td></tr>
 
-<tr><td>राज्य वन्य पशु    </td><td> कस्तूरी मृग (<i  class="italicclass">Moschus chrysogaster</i>).</td></tr>
-<tr><td>राज्य वृक्ष  </td><td> बुरांस(<i  class="italicclass">Rhododendron chrysogaster)</i>.</td></tr>
-<tr><td>राज्य पक्षी</td><td>मोनाल <i class="italicclass">(Lophoorus impejanus)</i></td></tr>
+<tr><td>राज्य वन्य पशु    </td><td> कस्तूरी मृग (<i  className="italicclass">Moschus chrysogaster</i>).</td></tr>
+<tr><td>राज्य वृक्ष  </td><td> बुरांस(<i  className="italicclass">Rhododendron chrysogaster)</i>.</td></tr>
+<tr><td>राज्य पक्षी</td><td>मोनाल <i className="italicclass">(Lophoorus impejanus)</i></td></tr>
 <tr><td>आय के प्रमुख स्त्रोत   </td><td>वन संपदा, जल संसाधन, जड़ी-बूटी,
 पर्यटन, तीर्थाटन, खनिज सम्पदा आदि
 </td></tr>
