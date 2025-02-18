@@ -1,4 +1,13 @@
+import React from "react";
+import logo from "./assets/imgages/logo1.jpg";
+import joinedImages from "./assets/imgages/joinedimages.jpg";
+import { Route, Routes } from "react-router-dom";
+import SideBar from "./components/SideBar";
+import Chapter1 from "./pages/chapter1";
+import Homepage from "./pages/Homepage";
 
+<<<<<<< HEAD
+=======
 import React from 'react';
 import logo from './assets/imgages/logo1.jpg'
 import joinedImages from './assets/imgages/joinedimages.jpg'
@@ -16,32 +25,52 @@ import Urd from './pages/Dal/urd';
 import Moong from './pages/Dal/moong';
 import Rajma from './pages/Dal/rajma';
 import Arhar from './pages/Dal/arhar';
+>>>>>>> 0f0b1b21d2f6e6897a165c0bef90458e71fe5432
 const App = () => {
-
   return (
-    <div style={{ display: 'flex', flexDirection: 'column', }}>
+    <div style={{ display: "flex", flexDirection: "column" }}>
       {/* Header */}
-      <header  style={{ background: '#001529', color: 'white', height: '150px', padding: '16px', display: 'flex', justifyContent: 'space-between', alignItems:'center' }}>
-        
-        <div className=' flex  items-center'>
-        <div className="logo " ><img src={logo} alt="logo" className='h-[15vh] rounded-full' /></div>
-          <div className='flex flex-col items-center w-[90vw]'>
-          <h1 className='text-4xl font-semibold mb-2'>उत्तराखंड किसान ज्ञान पोर्टल</h1>
-          <h3 className='text-xl'>गोविन्द बल्लभ पन्त कृषि एवं प्रौद्योगिक विश्वविद्यालय</h3>
-          <h3 className='text-xl'>पंतनगर-263145 , उत्तराखंड</h3>
+      <header
+        style={{
+          background: "#001529",
+          color: "white",
+          height: "150px",
+          padding: "16px",
+          display: "flex",
+          justifyContent: "space-between",
+          alignItems: "center",
+        }}
+      >
+        <div className=" flex  items-center">
+          <div className="logo ">
+            <img src={logo} alt="logo" className="h-[15vh] rounded-full" />
+          </div>
+          <div className="flex flex-col items-center w-[90vw]">
+            <h1 className="text-4xl font-semibold mb-2">
+              उत्तराखंड किसान ज्ञान पोर्टल
+            </h1>
+            <h3 className="text-xl">
+              गोविन्द बल्लभ पन्त कृषि एवं प्रौद्योगिक विश्वविद्यालय
+            </h3>
+            <h3 className="text-xl">पंतनगर-263145 , उत्तराखंड</h3>
           </div>
         </div>
       </header>
       <img src={joinedImages} alt="images" />
 
-      <div style={{ display: 'flex', flex: 1 }}>
+      <div style={{ display: "flex", flex: 1 }}>
         {/* Sidebar */}
-        <SideBar className='h-[70vh]'/>
+        <SideBar className="h-[70vh]" />
 
         {/* Main Content */}
-        <main style={{ flex: 1, padding: '24px' }}>
-          <div style={{ marginBottom: '16px' }}>
+        <main style={{ flex: 1, padding: "24px" }}>
+          <div style={{ marginBottom: "16px" }}>
             <Routes>
+<<<<<<< HEAD
+              <Route path="/" element={<Homepage />} />
+              <Route path="/chapter1" element={<Chapter1 />} />
+              <Route path="*" element={<div> Not Found</div>} />
+=======
                 <Route path='/' element={<Homepage/>}/>
                 <Route path='/chapter1' element={<Chapter1/>}/>
                 <Route path='/KhadyanFasle' element={<KhadyanFasle/>}/>
@@ -55,11 +84,17 @@ const App = () => {
                 <Route path='/rajma' element={<Rajma/>}/>
                 <Route path='/arhar' element={<Arhar/>}/>
                 <Route path='*' element={<div> Not Found</div>} />
+>>>>>>> 0f0b1b21d2f6e6897a165c0bef90458e71fe5432
             </Routes>
           </div>
-          <div style={{ background: '#fff', padding: '24px', minHeight: '600px', borderRadius: '8px' }}>
-            
-          </div>
+          <div
+            style={{
+              background: "#fff",
+              padding: "24px",
+              minHeight: "600px",
+              borderRadius: "8px",
+            }}
+          ></div>
         </main>
       </div>
     </div>
