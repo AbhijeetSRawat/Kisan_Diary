@@ -1,5 +1,5 @@
 import React from 'react'
-
+import table1 from "../../assets/img/daal2.jsp"
 export default function Arhar() {
   return (
     <div>
@@ -146,7 +146,7 @@ export default function Arhar() {
       <br />
     </strong>
     {/* <img src= {table1} alt="table1" width="1000px" /> <br /> */}
-    <img src="../assets/img/daal2.jpg" width={623} height={254} align="middle" />
+    <img src={table1} width={623} height={254} align="middle" />
   </p>
   <p>
     <strong className="strongclass1"> बीजोपचार</strong>
