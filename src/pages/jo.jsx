@@ -1,20 +1,18 @@
 import React from 'react'
 
-export default function jo() {
+export default function Jo() {
   return (
     <div>
         <>
-  &lt;%@page contentType="text/html" pageEncoding="UTF-8" %&gt;
-  <meta charSet="utf-8" />
-  <title>Untitled Document</title>
-  <center>
-    <h1 className="h3class">जौ</h1>
-  </center>
-  <div style={{ float: "right" }}>
-    <a className="peechey" href="Link.do?method=khadyanfasley">
-      पीछे जाएँ{" "}
-    </a>
-  </div>
+ 
+        <div className="flex justify-between my-10">
+      <center>
+        <h1 className="h3class text-3xl ml-[35vw] font-semibold">जौ</h1>
+      </center>
+      <div style={{ float: 'right' }}>
+        <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" href="/KhadyanFasle">पीछे जाएँ</a>
+      </div>
+      </div>
   <b>
     डा. जे.पी. जायसवाल, डा. स्वाती, डा. अनिल कुमार, डा. राजीव
     कुमार,&nbsp;एवं&nbsp;डा.&nbsp;दीपशिखा
@@ -224,9 +222,8 @@ export default function jo() {
   </p>
   <br />
   <div style={{ float: "right" }}>
-    <a className="peechey" href="Link.do?method=khadyanfasley">
-      पीछे जाएँ{" "}
-    </a>
+  <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" href="/KhadyanFasle">पीछे जाएँ</a>
+
   </div>
   <p />
   <p>
