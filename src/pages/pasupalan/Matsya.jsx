@@ -1,8 +1,8 @@
 import React from 'react'
 import table1 from "../../assets/imgages/matsya1.jpg"
-import table2 from "../assets/imgages/Untitled.jpg"
-import table4 from "../assets/imgages/matsya3.jpg"
-import table3 from "../assets/imgages/matsya2.jpg"
+import table2 from "../../assets/imgages/Untitled.jpg"
+import table4 from "../../assets/imgages/matsya3.jpg"
+import table3 from "../../assets/imgages/matsya2.jpg"
 
 export default function Matsya() {
   return (
