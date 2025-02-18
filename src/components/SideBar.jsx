@@ -19,6 +19,8 @@ export default function SideBar() {
               <Link className='bg-black text-white rounded-md h-[70px] flex justify-center items-center pl-3 hover:bg-white hover:text-black' to="/falfool">फल, फूल एवम सुगंधि फसलों खेती उत्पादन हेतु
               </Link>
               <Link className='bg-black text-white rounded-md h-[40px] flex justify-center items-center hover:bg-white hover:text-black' to="/ganna">गन्ना</Link>
+              <Link className='bg-black text-white rounded-md h-[40px] flex justify-center items-center hover:bg-white hover:text-black' to="/jaivik">जैविक खेती</Link>
+
 
 
 

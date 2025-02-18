@@ -1,25 +1,24 @@
 import React from 'react'
-import jaivikkheti from "../../assets/img/javikkheti.JPG"
+// import jaivikkheti from "../../assets/img/javikkheti.JPG"
 
 export const Jaivikkheti = () => {
   return (
     <div>
         <>
-  &lt;%-- Document : jaivikkheti Created on : 26 Oct, 2015, 6:48:15 PM Author :
-  gov --%&gt; &lt;%@page contentType="text/html" pageEncoding="UTF-8" %&gt;
+
   <meta httpEquiv="Content-Type" content="text/html; charset=UTF-8" />
   <title>JSP Page</title>
   <p></p>
   <center>
     <h3 className="h3class">
-      <strong className="strongclass">जैविक खेती </strong>
+      <strong className="strongclass text-3xl font-bold">जैविक खेती </strong>
     </h3>
   </center>
   <p />
-  <div align="right">
+  <div >
     <a className="peechey" href="./pdfs/javik_kheti.pdf">
       {" "}
-      विस्तृत जानकारी प्राप्त करें जैविक खेती के बारे मे{" "}
+      विस्तृत जानकारी प्राप्त करें जैविक खेती के बारे मे :{" "}
     </a>
   </div>
   <p>
@@ -233,7 +232,7 @@ export const Jaivikkheti = () => {
     परिरक्षकांे का प्रयोग किया जा सकता हैः
   </p>
   <p>
-    <img src={jaivikkheti} width={503} height={381} alt="" />
+    {/* <img src={jaivikkheti} width={503} height={381} alt="" /> */}
   </p>
   <p>
     उपरोक्त पादप परिरक्षकों के महिन चूर्ण ( 15-20 मेश) को अनाजों में मिला कर

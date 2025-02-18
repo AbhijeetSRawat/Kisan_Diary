@@ -1,15 +1,12 @@
 import React from 'react'
 
-export const jaiwik = () => {
+export const Jaiwik = () => {
   return (
     <div><>
-    &lt;%-- Document : jawik Created on : 2 Sep, 2015, 12:49:42 AM Author : gov
-    --%&gt; &lt;%@page contentType="text/html" pageEncoding="UTF-8" %&gt;
-    <meta httpEquiv="Content-Type" content="text/html; charset=UTF-8" />
-    <title>JSP Page</title>
-    <p>&nbsp;</p>
+    
+    
     <center>
-      <h3 className="h3class">
+      <h3 className="h3class text-3xl font-bold mb-5">
         <strong>जैविक खेती में कीट एवं रोग प्रबन्ध </strong>
       </h3>
     </center>
