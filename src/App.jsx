@@ -21,6 +21,11 @@ import Chawal from './pages/Chawal';
 import Abt from './pages/abt';
 import Macca from './pages/macca';
 import Jo from './pages/jo';
+import PashuPalan from './components/PashuPalan';
+import Pasuahar from './pages/pasupalan/Pasuahar';
+import Pasubimari from './pages/pasupalan/Pasubimari';
+import Kukutpalan from './pages/pasupalan/Kukutpalan';
+import Matsya from './pages/pasupalan/Matsya';
 const App = () => {
   return (
     <div style={{ display: "flex", flexDirection: "column" }}>
@@ -58,8 +63,8 @@ const App = () => {
         <SideBar className="h-[70vh]" />
 
         {/* Main Content */}
-        <main style={{ flex: 1, padding: "24px" }}>
-          <div style={{ marginBottom: "16px" }}>
+        <main className='bg-slate-300' style={{ flex: 1, padding: "24px" }}>
+          <div className=' bg-white  border-4 p-5  rounded-lg' style={{ marginBottom: "16px" }}>
             <Routes>
                 <Route path='/' element={<Homepage/>}/>
                 <Route path='/chapter1' element={<Chapter1/>}/>
@@ -79,18 +84,16 @@ const App = () => {
                 <Route path='/ekjhalak' element={<Abt/>}/>
                 <Route path='/makka' element={<Macca/>}/>
                 <Route path='/jo' element={<Jo/>}/>
+                <Route path='/pashu' element={<PashuPalan/>}/>
+                <Route path='/pashuahar' element={<Pasuahar/>}/>
+                <Route path='/pasubimari' element={<Pasubimari/>}/>
+                <Route path='/kukkut' element={<Kukutpalan/>}/>
+                <Route path='/matsya' element={<Matsya/>}/>
 
                 <Route path='*' element={<div> Not Found</div>} />
             </Routes>
           </div>
-          <div
-            style={{
-              background: "#fff",
-              padding: "24px",
-              minHeight: "600px",
-              borderRadius: "8px",
-            }}
-          ></div>
+         
         </main>
       </div>
     </div>

@@ -11,7 +11,7 @@ export default function Pasubimari() {
   <title>JSP Page</title>
   <strong>
     <center>
-      <h3 className="h3class">पशुओं की प्रमुख संक्रामक बीमारियाँ</h3>
+      <h3 className="h3class text-3xl font-bold mb-5">पशुओं की प्रमुख संक्रामक बीमारियाँ</h3>
     </center>
   </strong>
   <p>
