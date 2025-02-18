@@ -1,4 +1,5 @@
 import React from 'react'
+import table1 from "../../assetsimg/matarrog.jpg"
 
 export default function Matar() {
   return (
@@ -158,7 +159,7 @@ export default function Matar() {
       </tr>
       <tr>
         <td width={574} height={271}>
-          <img src="./img/matarrog.jpg" width={348} height={267} />
+          <img src={table1} width={348} height={267} />
         </td>
       </tr>
       <tr>

@@ -1,10 +1,15 @@
 import React from 'react'
 
+import table1 from "../../assets/img/urdrog.jpg"
+import table2 from "../../assets/img/urdrog2.jpg"
+
 export default function Urd() {
   return (
     <div>
 
   <div className="flex justify-between my-10">
+
+
       <center>
         <h1 className="h3class text-3xl ml-[35vw] font-semibold">उर्द</h1>
       </center>
@@ -231,7 +236,7 @@ export default function Urd() {
       </tr>
       <tr>
         <td width={761} height={158}>
-          <img src="./img/urdrog.jpg" width={609} height={325} />
+          <img src={table1} width={609} height={325} />
         </td>
       </tr>
       <tr>
@@ -248,7 +253,7 @@ export default function Urd() {
       </tr>
       <tr>
         <td width={737} height={158}>
-          <img src="./img/urdrog2.jpg" width={609} height={325} />
+          <img src={table2} width={609} height={325} />
         </td>
       </tr>
       <tr>
