@@ -17,7 +17,7 @@ import Rajma from './pages/dal/rajma.jsx';
 import Arhar from './pages/dal/arhar.jsx';
 import Masale from './components/Masale';
 import Pyaj from './pages/masaley/Pyaj';
-import Jowar from './pages/motaanaz/Jwar';
+
 import Bajra from './pages/motaanaz/Bajra';
 import Chawal from './pages/Chawal';
 import Abt from './pages/abt';
@@ -98,6 +98,7 @@ import meriyojna from './assets/files/Meri_Yojna.pdf'
 import MeriYojna from './meriYojna.jsx';
 import Kutki from './pages/motaanaz/Kutki.jsx';
 import { Jhangora } from './pages/motaanaz/Jhangora.jsx';
+
 const App = () => {
 //>>>>>>> b7670bb6ccf28a6ac60565848412bde74ebd9ade
   return (
@@ -226,7 +227,7 @@ const App = () => {
                 <Route path='/mudra3' element={<Mudra3/>}/>
                 <Route path='/mudra4' element={<Mudra4/>}/>
                 <Route path='/meriyojna' element={<MeriYojna/>}/>
-                <Route path='/jowar' element={<Jowar/>}/>
+                
                 <Route path='/bajra' element={<Bajra/>}/>
                 <Route path="/foolutpadan" element={<Exportfool/>}/>
                 <Route path="/kutki" element={<Kutki/>}/>

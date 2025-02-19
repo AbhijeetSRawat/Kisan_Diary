@@ -9,7 +9,7 @@ function Methi() {
         <title>Methi</title>
         <div className="flex justify-between my-10">
         <center>
-          <h1 className="h3class text-3xl ml-[35vw] font-semibold">मेथी</h1>
+          <h1 className="h3class text-3xl ml-[35vw] font-semibold">मेंथी</h1>
         </center>
         <div style={{ float: 'right' }}>
           <Link to="/masale"  className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded" href="/masale">पीछे जाएँ</Link>
@@ -40,20 +40,20 @@ function Methi() {
         <p>
           <strong className="strongclass">उन्नतशील किस्में </strong>
           <br />
-         <strong className="strongclass">1. पंत रागिनी:</strong> यह पत्ती तथा
+          1.<strong className="strongclass">1. पंत रागिनी:</strong> यह पत्ती तथा
           बीज दोनों के लिए प्रयोग होने वाली उन्नतशील किस्म है। इसके पौधे लम्बे
           तथा झाड़ीनुमा होते हैं। यह किस्म मृदुरोमिल आसिता तथा जड़ सड़न रोग के
           प्रति रोगरोधी है। यह प्रजाति 170 से 175 दिन में पककर तैयार हो जाती है।
           इसके बीज की औसत उपज 15-20 कुन्तल प्रति हैक्टर है। <br />
-          <strong className="strongclass">2. पूसा अर्ली बंचिंग:</strong> यह
+          2. <strong className="strongclass">2. पूसा अर्ली बंचिंग:</strong> यह
           जल्दी बढ़ने वाली प्रजाति 100-125 दिन में पककर तैयार हो जाती है। इसके
           तने सीधी बढ़वार वाले तथा बीज मोटे होते हैं। इसे बीज तथा पत्ती दोनों के
           लिए उगाते हैं तथा इसके बीज औसत उपज 12 कुन्तल/हैक्टर आती है। <br />
-          <strong className="strongclass"> 3. हिसार माधवी:</strong> यह मध्यम
+          3.<strong className="strongclass"> 3. हिसार माधवी:</strong> यह मध्यम
           दिनों में पकने वाली किस्म है। इसके बीज की औसत उपज 19-20 कुन्तल/हैक्टर
           है। यह किस्म चूर्णिल आसिता तथा मृदुरोमिल आसिता के प्रति रोगरोधी है।{" "}
           <br />
-          <strong className="strongclass">4. हिसार मुक्ता:</strong> यह किस्म
+          4. <strong className="strongclass">4. हिसार मुक्ता:</strong> यह किस्म
           उत्तर भारत के सभी मेथी उगाने वाले इलाकों के लिए उपयुक्त है। इस किस्म
           की औसत उपज लगभग 20-23 कुन्तल/ हैक्टर है। यह किस्म मृदुरोमिल आसिता तथा
           चूर्णिल आसिता रोग के प्रति रोगरोधी है। <br />

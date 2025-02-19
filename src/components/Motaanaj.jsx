@@ -9,14 +9,13 @@ export default function Motaanaj() {
         <li><Link className='text-2xl text-blue-900 ' to="/kakun"> 2.काकुन</Link></li>
         <li><Link className='text-2xl text-blue-900 ' to="/cheena"> 3.चीना</Link></li>
         <li><Link className='text-2xl text-blue-900 ' to="/ramdana"> 4.रामदाना</Link></li>
-        <li><Link className='text-2xl text-blue-900 ' to="/ricebean"> 5.राइसबीन (नौरंगी)</Link></li>
-        <li><Link className='text-2xl text-blue-900 ' to="/gahat"> 6.गहत (कुल्थी)</Link></li>
-        <li><Link className='text-2xl text-blue-900 ' to="/parichay"> 7.मोटे अनाज-परिचय, आहार में महत्व एवं पोषकता</Link></li>
-        <li><Link className='text-2xl text-blue-900 ' to="/jowar"> 8.ज्वार </Link></li>
-        <li><Link className='text-2xl text-blue-900 ' to="/bajra"> 9.बाजरा</Link>
-        </li><li><Link className='text-2xl text-blue-900 ' to="/kuttu"> 10.कुट्टू</Link></li>
-        <li><Link className='text-2xl text-blue-900 ' to="/kutki"> 11.कुटकी</Link></li>
-        <li><Link className='text-2xl text-blue-900 ' to="/jhangora"> 12.झंगोरा</Link></li>
+        
+        <li><Link className='text-2xl text-blue-900 ' to="/parichay"> 5.मोटे अनाज-परिचय, आहार में महत्व एवं पोषकता</Link></li>
+        <li><Link className='text-2xl text-blue-900 ' to="/jhangora"> 6.झंगोरा</Link></li>
+        <li><Link className='text-2xl text-blue-900 ' to="/bajra"> 7.बाजरा</Link>
+        </li><li><Link className='text-2xl text-blue-900 ' to="/kuttu"> 8.कुट्टू</Link></li>
+        <li><Link className='text-2xl text-blue-900 ' to="/kutki"> 9.कुटकी</Link></li>
+        
 
 
         </ul>

@@ -12,6 +12,8 @@ export default function DalhaniFasle() {
         <li><Link className='text-2xl text-blue-900 ' to="/moong"> 5.मूँग</Link></li>
         <li><Link className='text-2xl text-blue-900 ' to="/rajma"> 6.राजमा</Link></li>
         <li><Link className='text-2xl text-blue-900 ' to="/arhar"> 7.अरहर (तूर)</Link></li>
+        <li><Link className='text-2xl text-blue-900 ' to="/ricebean"> 8.राइसबीन (नौरंगी)</Link></li>
+                <li><Link className='text-2xl text-blue-900 ' to="/gahat"> 9.गहत (कुल्थी)</Link></li>
         </ul>
     </div>
   )

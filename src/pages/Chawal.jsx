@@ -15,6 +15,12 @@ export default function Chawal() {
       <Link className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" to="/KhadyanFasle">पीछे जाएँ</Link>      </div>
       </div>
   <br />
+  <div align="right">
+    <a className="peechey" href="./pdfs/Dhan Ki kheti, 2014.pdf">
+      {" "}
+      विस्तृत जानकारी प्राप्त करें धान की खेती के बारे मे{" "}
+    </a>
+  </div>
   <h3>
     <br />
     <strong className="strongclass">उन्नत किस्में </strong>
@@ -62,7 +68,7 @@ export default function Chawal() {
     के लिए 20 कि.ग्रा. व सुगन्धित धान के लिए 30 कि.ग्रा. बीज प्रति हैक्टर प्रयोग
     करें। <br />
     <br />
-    <strong className="strongclass ">रोपाई के लिए नर्सरी की तैयारी </strong>
+    <strong className="strongclass">रोपाई के लिए नर्सरी की तैयारी </strong>
     <br />
     <strong className="strongclass"> पौध तैयार करने की विधिः</strong> धान की पौध
     गीली विधि या शुष्क विधि से तैयार की जा सकती है।{" "}
