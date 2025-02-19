@@ -4,7 +4,7 @@ export default function Chapter1() {
   return (
     <div>
     <title>Chaper1</title>
-    <center>
+    
       <p  style={{"-ms-text-overflow":""}}>
       </p><center>
         <h3 className="h3class text-3xl font-bold">उत्तराखंड-एक दृष्टि मे </h3>
@@ -138,7 +138,7 @@ export default function Chapter1() {
             <td><br /></td>
           </tr>
           <tr>
-            <td>उत्तराखंड की जनसंख्या (2011 की जनगणनानुसार)</td>
+            <td className='font-bold pb-4' colSpan={2}>उत्तराखंड की जनसंख्या (2011 की जनगणनानुसार)</td>
           </tr>
           <tr>
             <td>कुल जनसंख्या </td>
@@ -166,7 +166,7 @@ export default function Chapter1() {
             <td><br /></td>
           </tr>
           <tr>
-            <td> प्रशासनिक इकाई (2023)</td>
+            <td className='font-bold pb-4' colSpan={2}> प्रशासनिक इकाई (2023)</td>
           </tr>
           <tr>
             <td>मण्डल </td>
@@ -227,7 +227,7 @@ export default function Chapter1() {
             <td>09</td>
           </tr>
           <tr>
-            <td><br /></td>
+            <td></td>
           </tr>
           <tr>
            <td>लोक सभा संसदीय क्षेत्र</td>
@@ -412,15 +412,15 @@ export default function Chapter1() {
           </tr> */}
            </tbody>
           </table>
-          <div  width="60v">
+          
 
          
-           <table>
+           <table className='mt-10'>
            <tbody>
            
           <tr>
          
-            <b><td>मुख्य पर्वत शिखर </td></b><br/>
+            <b><td className='font-bold pb-4' colSpan={2}>मुख्य पर्वत शिखर </td></b><br/>
             
           </tr>
           <tr>
@@ -476,9 +476,9 @@ export default function Chapter1() {
           </tr>
         </tbody>
       </table>
-      </div>
+     
       ...<p />
-    </center>
+    
   </div>
   )
 }
