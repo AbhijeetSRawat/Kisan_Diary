@@ -96,9 +96,12 @@ import Mudra from './components/Mudra.jsx';
 
 import meriyojna from './assets/files/Meri_Yojna.pdf'
 import MeriYojna from './meriYojna.jsx';
-import Kutki from './pages/motaanaz/Kutki.jsx';
-import { Jhangora } from './pages/motaanaz/Jhangora.jsx';
+import Mushroom from './components/Mushroom.jsx';
 
+import { MushroomBeej } from './pages/mushroom/MushroomBeej.jsx';
+import Mushroomprjatiya from './pages/mushroom/Mushroomprjatiya.jsx';
+import Guthlidaarfal from './pages/falfool/guthlidaarfal.jsx';
+import { Nashpaati } from './pages/fruit/Nashpaati.jsx';
 const App = () => {
 //>>>>>>> b7670bb6ccf28a6ac60565848412bde74ebd9ade
   return (
@@ -242,6 +245,11 @@ const App = () => {
 
 
 
+                <Route path='/mushroom' element={<Mushroom/>}/>
+                <Route path='/mushroom_prajatiya' element={<Mushroomprjatiya/>}/>
+                <Route path='/mushroombeej' element={<MushroomBeej/>}/>
+                <Route path='/guthli' element={<Guthlidaarfal/>}/>
+                <Route path='/nashpati' element={<Nashpaati/>}/>
                 <Route path='*' element= {<div> Not Found</div>} />
             </Routes>
           </div>

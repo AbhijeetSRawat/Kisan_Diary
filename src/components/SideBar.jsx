@@ -26,6 +26,8 @@ export default function SideBar() {
               <Link className='bg-black text-white rounded-md h-[40px] flex justify-center items-center hover:bg-white hover:text-black' to="/jaivik">जैविक खेती</Link>
               <Link className='bg-black text-white rounded-md h-[40px] flex justify-center items-center hover:bg-white hover:text-black' to="/sabji">सब्जी</Link>
               <Link className='bg-black text-white rounded-md h-[40px] flex justify-center items-center hover:bg-white hover:text-black' to="/mudra">मृदा</Link>
+              <Link className='bg-black text-white rounded-md h-[40px] flex justify-center items-center hover:bg-white hover:text-black' to="/mushroom">मशरूम</Link>
+
 
 
 

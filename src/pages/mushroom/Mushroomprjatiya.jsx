@@ -1,7 +1,7 @@
 import React from 'react'
 import mushroom_table1 from '../../assets/imgages/tables/mushroom_table1.jpg'
 
-export default function Mushroom_prjatiya() {
+export default function Mushroomprjatiya() {
   return (
     <div>
         <h1 className='flex justify-center items-center text-3xl font-bold my-5'>विभिन्न मशरूम प्रजातियों की खेती से वर्षभर लाभ कमायें</h1>

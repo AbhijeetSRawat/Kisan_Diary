@@ -9,7 +9,7 @@ export default function Motaanaj() {
         <li><Link className='text-2xl text-blue-900 ' to="/kakun"> 2.काकुन</Link></li>
         <li><Link className='text-2xl text-blue-900 ' to="/cheena"> 3.चीना</Link></li>
         <li><Link className='text-2xl text-blue-900 ' to="/ramdana"> 4.रामदाना</Link></li>
-        
+      
         <li><Link className='text-2xl text-blue-900 ' to="/parichay"> 5.मोटे अनाज-परिचय, आहार में महत्व एवं पोषकता</Link></li>
         <li><Link className='text-2xl text-blue-900 ' to="/jhangora"> 6.झंगोरा</Link></li>
         <li><Link className='text-2xl text-blue-900 ' to="/bajra"> 7.बाजरा</Link>
