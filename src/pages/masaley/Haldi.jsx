@@ -10,7 +10,7 @@ function Haldi() {
           <h1 className="h3class text-3xl mb-5 font-semibold">हल्दी</h1>
         </center>
         <div style={{ float: 'right' }}>
-          <Link className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded" href="/masale">पीछे जाएँ</Link>
+          <Link to="/masale" className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded" href="/masale">पीछे जाएँ</Link>
         </div>
         
         <p>
@@ -253,9 +253,7 @@ function Haldi() {
         </p>
         <p> </p>
         <div style={{ float: "right" }}>
-          <a className="peechey" href="Link.do?method=maslonkikheti">
-            पीछे जाएँ
-          </a>
+        <Link to="/masale" className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded" href="/masale">पीछे जाएँ</Link>
         </div>
         <p />
       </>

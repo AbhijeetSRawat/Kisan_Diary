@@ -12,7 +12,7 @@ function Lahsun() {
           <h1 className="h3class text-3xl ml-[35vw] font-semibold">लहसुन</h1>
         </center>
         <div style={{ float: 'right' }}>
-          <Link className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded" href="/masale">पीछे जाएँ</Link>
+          <Link to="/masale"  className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded" href="/masale">पीछे जाएँ</Link>
         </div>
       </div>
         <p>
@@ -180,7 +180,7 @@ function Lahsun() {
           <br />
         </p>
         <div style={{ float: "right" }}>
-        <Link className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded" href="/masale">पीछे जाएँ</Link>
+        <Link to="/masale"  className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded" href="/masale">पीछे जाएँ</Link>
 
         </div>
         <p />

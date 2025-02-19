@@ -8,6 +8,7 @@ export default function Lahi() {
   <title>Lahi</title>
   <center>
     <h3 className="h3class">
+      
       <strong>लाही (तोरिया)</strong>
     </h3>
   </center>

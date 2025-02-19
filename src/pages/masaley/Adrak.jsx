@@ -13,7 +13,7 @@ function Adrak() {
           <h1 className="h3class text-3xl ml-[35vw] font-semibold">अदरक</h1>
         </center>
         <div style={{ float: 'right' }}>
-          <Link className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded" href="/masale">पीछे जाएँ</Link>
+          <Link to="/masale" className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded" href="/masale">पीछे जाएँ</Link>
         </div>
       </div>
         <p>
@@ -265,7 +265,7 @@ function Adrak() {
     बुवाई से पहले प्रकन्दों को क्वीनालफाॅस     2 मि.ली. प्रति लीटर पानी में घोल बनाकर 5 मिनट तक उपचारित करें।<br>
   </p> */}
         <div style={{ float: "right" }}>
-        <Link className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded" href="/masale">पीछे जाएँ</Link>
+        <Link to="/masale" className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded" href="/masale">पीछे जाएँ</Link>
 
         </div>
       </>

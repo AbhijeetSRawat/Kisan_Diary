@@ -10,7 +10,7 @@ export default function Chana() {
           <h1 className="h3class text-3xl ml-[35vw] font-semibold">चना</h1>
         </center>
         <div style={{ float: 'right' }}>
-        <Link className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" href="/DalhaniFasle">पीछे जाएँ</Link>
+        <Link to="/dalhanifasle" className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" href="/DalhaniFasle">पीछे जाएँ</Link>
         </div>
       </div>
       <>
@@ -117,7 +117,7 @@ export default function Chana() {
           वैज्ञानिक विधि से खेती करने पर चने की 20-30 कुन्तल प्रति हैक्टर पैदावार ली जा सकती है.
         </p>
         <div style={{ float: "right" }}>
-        <Link className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" href="/DalhaniFasle">पीछे जाएँ</Link>
+        <Link to="/dalhanifasle" className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" href="/DalhaniFasle">पीछे जाएँ</Link>
         </div>
       </>
     </div>
