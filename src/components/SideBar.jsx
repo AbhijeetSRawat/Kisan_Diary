@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import Chapter1 from '../pages/chapter1'
+
 export default function SideBar() {
   return (
     <div>
@@ -8,6 +9,9 @@ export default function SideBar() {
           <ul style={{ listStyle: 'none', padding: 0 }}>
             <li className='flex flex-col gap-5 mt-3 '>
             <Link className='bg-black text-white rounded-md h-[40px] flex justify-center items-center hover:bg-white hover:text-black' to="/chapter1" >उत्तराखंड एक दृष्टि मे</Link>
+            <Link className='bg-black text-white rounded-md h-[40px] flex justify-center items-center hover:bg-white hover:text-black' to="/meriyojna" >मेरी योजना
+            </Link>
+
             <Link className='bg-black text-white rounded-md h-[70px] flex justify-center items-center pl-3 hover:bg-white hover:text-black' to="/">पन्तनगर विश्वविद्यालय - एक झलक</Link>
               <Link className='bg-black text-white rounded-md h-[40px] flex justify-center items-center hover:bg-white hover:text-black' to="/khadyanfasle">खाद्यान्न फसलें</Link>
               <Link className='bg-black text-white rounded-md h-[40px] flex justify-center items-center hover:bg-white hover:text-black' to="/dalhanifasle">दलहनी फसलें</Link>
