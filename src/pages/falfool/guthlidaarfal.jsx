@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function guthlidaarfal() {
+export default function Guthlidaarfal() {
   return (
     <div>
       <h1 className='text-3xl font-bold'>गुठलीदार फल (आडू, प्लम, खुमानी एवं बादाम)

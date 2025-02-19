@@ -11,7 +11,7 @@ function Rajma() {
         <h1 className="h3class text-3xl ml-[35vw] font-semibold">राजमा</h1>
       </center>
       <div style={{ float: 'right' }}>
-        <Link to="/dalhanifasle" className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" href="/DalhaniFasle">पीछे जाएँ</Link>
+        <Link className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" href="/DalhaniFasle">पीछे जाएँ</Link>
       </div>
       </div>
   <p>

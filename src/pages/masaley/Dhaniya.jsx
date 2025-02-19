@@ -12,7 +12,7 @@ function Dhaniya() {
           <h1 className="h3class text-3xl ml-[35vw] font-semibold">धनिया</h1>
         </center>
         <div style={{ float: 'right' }}>
-          <Link to="/masale" className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded" href="/masale">पीछे जाएँ</Link>
+          <Link className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded" href="/masale">पीछे जाएँ</Link>
         </div>
       </div>
         <p>
@@ -235,7 +235,7 @@ function Dhaniya() {
         </p>
         <div style={{ float: "right" }}>
           <strong className="strongclass">
-          <Link to="/masale" className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded" href="/masale">पीछे जाएँ</Link>
+          <Link className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded" href="/masale">पीछे जाएँ</Link>
           </strong>
         </div>
         <strong className="strongclass"></strong>

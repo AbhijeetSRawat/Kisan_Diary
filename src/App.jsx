@@ -17,7 +17,6 @@ import Rajma from './pages/dal/rajma.jsx';
 import Arhar from './pages/dal/arhar.jsx';
 import Masale from './components/Masale';
 import Pyaj from './pages/masaley/Pyaj';
-import Bajra from './pages/motaanaz/Bajra';
 import Chawal from './pages/Chawal';
 import Abt from './pages/abt';
 import Macca from './pages/macca';
@@ -75,7 +74,7 @@ import Gobhi from './pages/sabji/Gobhi.jsx';
 import Karela from './pages/sabji/Karela.jsx'
 import Kashifal from './pages/sabji/Kashifal.jsx'
 import Kheera from './pages/sabji/Kheera.jsx'
-import Lauki from './pages/sabji/Lauki.jsx'
+import Lauki from './pages/sabji/Lobiya.jsx'
 import Mirch from './pages/sabji/Mirch.jsx'
 import Parwal from './pages/sabji/Parwal.jsx'
 import Polyhouse from './pages/sabji/Polyhouse.jsx'
@@ -92,10 +91,15 @@ import Mudra2 from './pages/mudra/Mudra2.jsx';
 import Mudra4 from './pages/mudra/Mudra4.jsx';
 import Mudra3 from './pages/mudra/Mudra3.jsx';
 import Mudra from './components/Mudra.jsx';
+
+import meriyojna from './assets/files/Meri_Yojna.pdf'
 import MeriYojna from './meriYojna.jsx';
-import Kutki from './pages/motaanaz/Kutki.jsx';
-import { Jhangora } from './pages/motaanaz/Jhangora.jsx';
-import Jwar from './pages/motaanaz/Jwar';
+import Mushroom from './components/Mushroom.jsx';
+
+import { MushroomBeej } from './pages/mushroom/MushroomBeej.jsx';
+import Mushroomprjatiya from './pages/mushroom/Mushroomprjatiya.jsx';
+import Guthlidaarfal from './pages/falfool/guthlidaarfal.jsx';
+import { Nashpaati } from './pages/fruit/Nashpaati.jsx';
 const App = () => {
 //>>>>>>> b7670bb6ccf28a6ac60565848412bde74ebd9ade
   return (
@@ -224,21 +228,11 @@ const App = () => {
                 <Route path='/mudra3' element={<Mudra3/>}/>
                 <Route path='/mudra4' element={<Mudra4/>}/>
                 <Route path='/meriyojna' element={<MeriYojna/>}/>
-                <Route path='/jowar' element={<Jwar/>}/> 
-                 <Route path='/bajra' element={<Bajra/>}/>
-                <Route path="/foolutpadan" element={<Exportfool/>}/>
-                <Route path="/kutki" element={<Kutki/>}/>
-                <Route path="/jhangora" element={<Jhangora/>}/>
-
-
-
-
-
-
-
-
-
-
+                <Route path='/mushroom' element={<Mushroom/>}/>
+                <Route path='/mushroom_prajatiya' element={<Mushroomprjatiya/>}/>
+                <Route path='/mushroombeej' element={<MushroomBeej/>}/>
+                <Route path='/guthli' element={<Guthlidaarfal/>}/>
+                <Route path='/nashpati' element={<Nashpaati/>}/>
                 <Route path='*' element= {<div> Not Found</div>} />
             </Routes>
           </div>

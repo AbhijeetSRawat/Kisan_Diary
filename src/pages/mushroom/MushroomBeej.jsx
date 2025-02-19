@@ -35,7 +35,7 @@ export const MushroomBeej = () => {
 
       </p>
       <br />
-     <div classname="font-bold mt"><b>मास्टर / मदर स्पान तैयार करने की विधि
+     <div className="font-bold mt"><b>मास्टर / मदर स्पान तैयार करने की विधि
 </b>
 </div>
       <p>

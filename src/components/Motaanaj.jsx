@@ -12,12 +12,6 @@ export default function Motaanaj() {
         <li><Link className='text-2xl text-blue-900 ' to="/ricebean"> 5.राइसबीन (नौरंगी)</Link></li>
         <li><Link className='text-2xl text-blue-900 ' to="/gahat"> 6.गहत (कुल्थी)</Link></li>
         <li><Link className='text-2xl text-blue-900 ' to="/parichay"> 7.मोटे अनाज-परिचय, आहार में महत्व एवं पोषकता</Link></li>
-        <li><Link className='text-2xl text-blue-900 ' to="/jowar"> 8.ज्वार </Link></li>
-        <li><Link className='text-2xl text-blue-900 ' to="/bajra"> 9.बाजरा</Link></li>
-        <li><Link className='text-2xl text-blue-900 ' to="/kuttu"> 10.कुट्टू</Link></li>
-        <li><Link className='text-2xl text-blue-900 ' to="/kutki"> 11.कुटकी</Link></li>
-        <li><Link className='text-2xl text-blue-900 ' to="/jhangora"> 12.झंगोरा</Link></li>
-
 
         </ul>
     </div>
