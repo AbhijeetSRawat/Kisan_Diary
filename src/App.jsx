@@ -1,4 +1,4 @@
-import React from 'react';
+
 import logo from './assets/imgages/logo1.jpg'
 import joinedImages from './assets/imgages/joinedimages.jpg'
 import { Route, Routes } from 'react-router-dom';
@@ -7,14 +7,14 @@ import Chapter1 from './pages/chapter1';
 import Exportfool from './pages/falfool/Exportfool';
 import KhadyanFasle from './components/KhadyanFasle';
 import Gehun from './pages/gehun';
-import Chana from './pages/Dal/chana.jsx';
+import Chana from './pages/dal/chana.jsx';
 import DalhaniFasle from './components/DalhaniFasle';
-import Matar from './pages/Dal/matar.jsx';
-import Masoor from './pages/Dal/masoor.jsx';
-import Urd from './pages/Dal/urd.jsx';
-import Moong from './pages/Dal/moong.jsx';
-import Rajma from './pages/Dal/rajma.jsx';
-import Arhar from './pages/Dal/arhar.jsx';
+import Matar from './pages/dal/matar.jsx';
+import Masoor from './pages/dal/masoor.jsx';
+import Urd from './pages/dal/urd.jsx';
+import Moong from './pages/dal/moong.jsx';
+import Rajma from './pages/dal/rajma.jsx';
+import Arhar from './pages/dal/arhar.jsx';
 import Masale from './components/Masale';
 import Pyaj from './pages/masaley/Pyaj';
 import Chawal from './pages/Chawal';
