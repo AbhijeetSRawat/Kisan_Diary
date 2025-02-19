@@ -87,6 +87,10 @@ import Lobiya from './pages/sabji/Lobiya.jsx';
 import Shimalamirch from './pages/sabji/Shimalamirch.jsx';
 import Tamtar from './pages/sabji/Tamtar.jsx';
 import Torai from './pages/sabji/Torai.jsx';
+import Mudra1 from './pages/mudra/Mudra1.jsx';
+import Mudra2 from './pages/mudra/Mudra2.jsx';
+import Mudra4 from './pages/mudra/Mudra4.jsx';
+import Mudra3 from './pages/mudra/Mudra3.jsx';
 
 const App = () => {
 //>>>>>>> b7670bb6ccf28a6ac60565848412bde74ebd9ade
@@ -210,6 +214,11 @@ const App = () => {
                 <Route path='/shimalamirch' element={<Shimalamirch/>}/>
                 <Route path='/tamatar' element={<Tamtar/>}/>
                 <Route path='/torai' element={<Torai/>}/>
+                <Route path='/mudra1' element={<Mudra1/>}/>
+                <Route path='/mudra2' element={<Mudra2/>}/>
+                <Route path='/mudra3' element={<Mudra3/>}/>
+                <Route path='/mudra4' element={<Mudra4/>}/>
+
 
 
 
