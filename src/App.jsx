@@ -1,4 +1,4 @@
-
+import React from 'react';
 import logo from './assets/imgages/logo1.jpg'
 import joinedImages from './assets/imgages/joinedimages.jpg'
 import { Route, Routes } from 'react-router-dom';
@@ -7,14 +7,14 @@ import Chapter1 from './pages/chapter1';
 import Exportfool from './pages/falfool/Exportfool';
 import KhadyanFasle from './components/KhadyanFasle';
 import Gehun from './pages/gehun';
-// import Chana from './pages/Dal/chana';
+import Chana from './pages/Dal/chana.jsx';
 import DalhaniFasle from './components/DalhaniFasle';
-// import Matar from './pages/Dal/matar';
-import Masoor from './pages/Dal/masoor';
-import Urd from './pages/Dal/urd';
-import Moong from './pages/Dal/moong';
-import Rajma from './pages/Dal/rajma';
-import Arhar from './pages/Dal/arhar';
+import Matar from './pages/Dal/matar.jsx';
+import Masoor from './pages/Dal/masoor.jsx';
+import Urd from './pages/Dal/urd.jsx';
+import Moong from './pages/Dal/moong.jsx';
+import Rajma from './pages/Dal/rajma.jsx';
+import Arhar from './pages/Dal/arhar.jsx';
 import Masale from './components/Masale';
 import Pyaj from './pages/masaley/Pyaj';
 import Chawal from './pages/Chawal';
@@ -111,8 +111,8 @@ const App = () => {
                 <Route path='/KhadyanFasle' element={<KhadyanFasle/>}/>
                 <Route path='/DalhaniFasle' element={<DalhaniFasle/>}/>
                 <Route path='/gehun' element={<Gehun/>}/>
-                {/* <Route path='/chana' element={<Chana/>}/> */}
-                {/* <Route path='/matar' element={<Matar/>}/> */}
+                <Route path='/chana' element={<Chana/>}/>
+                <Route path='/matar' element={<Matar/>}/>
                 <Route path='/masoor' element={<Masoor/>}/>
                 <Route path='/urad' element={<Urd/>}/>
                 <Route path='/moong' element={<Moong/>}/>
