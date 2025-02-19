@@ -412,7 +412,7 @@ export default function Chapter1() {
           </tr> */}
            </tbody>
           </table>
-          <div  width="60v">
+          <div  className='flex mt-5'>
 
          
            <table>

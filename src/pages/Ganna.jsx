@@ -436,7 +436,7 @@ export default function Ganna() {
   </p>
   <p>सम्पर्क सूत्र : 7500241511</p>
   <p />
-  <img src={table2} alt="image" width="1000px" />
+  
 </>
        </div>
   )
