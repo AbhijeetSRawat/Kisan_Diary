@@ -129,7 +129,7 @@ export default function Ganna() {
   <br />
   <p />
   <p>
-    <strong>गब्जे के प्रमुख कीट एवं उसका प्रबन्धन</strong>
+    <strong>गन्ने के प्रमुख कीट एवं उसका प्रबन्धन</strong>
     <br />
   </p>
   <strong className="strongclass"> अगेती प्ररोह बेधक</strong>
