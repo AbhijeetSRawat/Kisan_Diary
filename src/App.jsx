@@ -109,9 +109,8 @@ const App = () => {
   return (
     <div style={{ display: "flex", flexDirection: "column" }}>
       {/* Header */}
-      <header
+      <header className='bg-blue-200 text-black'
         style={{
-          background: "#001529",
           color: "white",
           height: "150px",
           padding: "16px",
@@ -122,9 +121,9 @@ const App = () => {
       >
         <div className=" flex  items-center">
           <div className="logo ">
-            <img src={logo} alt="logo" className="h-[15vh] rounded-full" />
+            <img src={logo} alt="logo" className="h-[15vh] w-[16vh] rounded-full" />
           </div>
-          <div className="flex flex-col items-center w-[90vw]">
+          <div className="flex flex-col text-black items-center w-[90vw]">
             <h1 className="text-4xl font-semibold mb-2">
               उत्तराखंड किसान ज्ञान पोर्टल
             </h1>
@@ -143,7 +142,7 @@ const App = () => {
 
         {/* Main Content */}
         <main className='bg-slate-300' style={{ flex: 1, padding: "24px" }}>
-          <div className=' bg-white  border-4 p-5 min-h-[60vh]  rounded-lg' style={{ marginBottom: "16px" }}>
+          <div className=' bg-white  border-4 p-5 min-h-[130vh]  rounded-lg' style={{ marginBottom: "16px" }}>
             <Routes>
                 <Route path='/' element={<Abt/>}/>
                 <Route path='/chapter1' element={<Chapter1/>}/>
@@ -258,6 +257,11 @@ const App = () => {
          
         </main>
       </div>
+      <footer>
+        <div className='w-[99vw] h-[5vh] bg-blue-200 flex justify-center items-center text-black'>
+        copyright@Department of Information Technology,College of Technology ,G.B Pantnagar University of Agriculture & Technology,Pantnagar-263145
+        </div>
+      </footer>
     </div>
   );
 };
