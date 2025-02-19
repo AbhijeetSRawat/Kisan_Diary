@@ -6,7 +6,7 @@ export default function Sabji() {
     <div>
         <ul className='flex flex-col gap-3'>
         <li><Link className='text-2xl text-blue-900 ' to="/aaloo"> 1.आलू </Link></li>
-        <li><Link className='text-2xl text-blue-900 ' to="/bagun"> 2.बैंगन</Link></li>
+        <li><Link className='text-2xl text-blue-900 ' to="/tamatar"> 2.टमाटर</Link></li>
         <li><Link className='text-2xl text-blue-900 ' to="/bhindi"> 3.भिंडी </Link></li>
         <li><Link className='text-2xl text-blue-900 ' to="/torai"> 4.तोरई</Link></li>
         <li><Link className='text-2xl text-blue-900 ' to="/chappankaddu"> 5.चप्पन कद्दू</Link></li>
@@ -24,7 +24,7 @@ export default function Sabji() {
         <li><Link className='text-2xl text-blue-900 ' to="/sabjisangrashit"> 17.मक्का</Link></li>
         <li><Link className='text-2xl text-blue-900 ' to="/sem"> 18.सेम</Link></li>
         <li><Link className='text-2xl text-blue-900 ' to="/shimalamirch"> 19.शिमला मिर्च</Link></li>
-        <li><Link className='text-2xl text-blue-900 ' to="/tamatar"> 20.टमाटर</Link></li>
+        
         
 
         </ul>

@@ -67,7 +67,6 @@ import { Jaiwik } from './Jaiwik';
 import Seb from './pages/fruit/Seb';
 import Sabji from './components/Sabji.jsx';
 import Aaloo from './pages/sabji/Aaloo.jsx';
-import Bagun from './pages/sabji/Bagun.jsx';
 import Bhindi from './pages/sabji/Bhindi.jsx';
 import Chappankaddu from './pages/sabji/Chappankaddu.jsx';
 import Faraasbean from './pages/sabji/Faraasbean.jsx';
@@ -197,7 +196,7 @@ const App = () => {
                 <Route path='/seb' element={<Seb/>}/>
                 <Route path='/sabji' element={<Sabji/>}/>
                 <Route path='/aaloo' element={<Aaloo/>}/>
-                <Route path='/bagun' element={<Bagun/>}/>
+              
                 <Route path='/bhindi' element={<Bhindi/>}/>
                 <Route path='/chappankaddu' element={<Chappankaddu/>}/>
                 <Route path='/faraasbean' element={<Faraasbean/>}/>
