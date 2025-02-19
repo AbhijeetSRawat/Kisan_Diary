@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 export default function Macca() {
   return (
@@ -9,8 +10,7 @@ export default function Macca() {
         <h1 className="h3class text-3xl ml-[35vw] font-semibold">मक्का</h1>
       </center>
       <div style={{ float: 'right' }}>
-        <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" href="/KhadyanFasle">पीछे जाएँ</a>
-      </div>
+      <Link className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" to="/KhadyanFasle">पीछे जाएँ</Link>      </div>
       </div>
 
   <b>डॉ. अमरि भटनागर, डॉ. एन.के. सिंह, डॉ. आर.पी. सिंह और डॉ. वीर सिंह</b>
@@ -294,8 +294,7 @@ export default function Macca() {
     <br />
   </p>
   <div style={{ float: "right" }}>
-  <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" href="/KhadyanFasle">पीछे जाएँ</a>
-    
+  <Link className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" to="/KhadyanFasle">पीछे जाएँ</Link>    
   </div>
   <p />
 

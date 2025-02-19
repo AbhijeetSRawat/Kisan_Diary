@@ -1,5 +1,6 @@
 import React from 'react'
 import table1 from "../../assets/img/daal2.jpg"
+import { Link } from 'react-router-dom'
 export default function Arhar() {
   return (
     <div>
@@ -9,7 +10,7 @@ export default function Arhar() {
         <h1 className="h3class text-3xl ml-[35vw] font-semibold">अरहर</h1>
       </center>
       <div style={{ float: 'right' }}>
-        <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" href="/DalhaniFasle">पीछे जाएँ</a>
+        <Link className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" href="/DalhaniFasle">पीछे जाएँ</Link>
       </div>
       </div>
   <p>

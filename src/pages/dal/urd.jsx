@@ -2,6 +2,7 @@ import React from 'react'
 
 import table1 from "../../assets/img/urdrog.jpg"
 import table2 from "../../assets/img/urdrog2.jpg"
+import { Link } from 'react-router-dom'
 
 export default function Urd() {
   return (
@@ -14,7 +15,7 @@ export default function Urd() {
         <h1 className="h3class text-3xl ml-[35vw] font-semibold">उर्द</h1>
       </center>
       <div style={{ float: 'right' }}>
-        <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" href="/DalhaniFasle">पीछे जाएँ</a>
+        <Link className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" href="/DalhaniFasle">पीछे जाएँ</Link>
       </div>
       </div>
         <>

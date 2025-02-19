@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 function Methi() {
   return (
@@ -11,7 +12,7 @@ function Methi() {
           <h1 className="h3class text-3xl ml-[35vw] font-semibold">मेंथी</h1>
         </center>
         <div style={{ float: 'right' }}>
-          <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded" href="/masale">पीछे जाएँ</a>
+          <Link className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded" href="/masale">पीछे जाएँ</Link>
         </div>
       </div>
         <p>
@@ -216,7 +217,7 @@ function Methi() {
           <br />
         </p>
         <div style={{ float: "right" }}>
-        <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded" href="/masale">पीछे जाएँ</a>
+        <Link className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded" href="/masale">पीछे जाएँ</Link>
 
         </div>
         <p />
