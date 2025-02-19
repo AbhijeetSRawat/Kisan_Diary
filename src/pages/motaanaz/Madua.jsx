@@ -72,7 +72,7 @@ export const Madua = () => {
     अलग-अलग ऊँचाई वाले क्षेत्रों में विभिन्न समय पर बुवाई की जाती है।
   </p>
   <div align="center">
-    <table
+    {/* <table
       className="MsoTableGrid"
       border={1}
       cellSpacing={0}
@@ -397,7 +397,7 @@ export const Madua = () => {
           </td>
         </tr>
       </tbody>
-    </table>
+    </table> */}
   </div>
   <p>
     <strong className="strongclass">बीज की मात्रा एवं बुवाई की विधि </strong>

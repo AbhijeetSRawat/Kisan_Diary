@@ -77,7 +77,7 @@ export default function Fool() {
     गेंदे से 11-18 टन प्रति हैक्टर तक प्राप्त की जा सकती है, यदि समय से रोपाई
     एवं उत्तम प्रबन्ध किये जायें तो और अधिक पैदावार की जा सकती है।{" "}
   </p>
-  <table
+  {/* <table
     className="MsoTableGrid"
     border={1}
     cellSpacing={0}
@@ -1249,7 +1249,7 @@ export default function Fool() {
         </td>
       </tr>
     </tbody>
-  </table>
+  </table> */}
   <p>
     <strong className="strongclass">ग्लाईडियोलस</strong>
     <br />
@@ -1312,7 +1312,7 @@ export default function Fool() {
   <p></p>
   <p align="center">
     <strong>
-      <span
+      {/* <span
         style={{
           lineHeight: "115%",
           fontFamily: '"Kruti Dev 010"',
@@ -1320,10 +1320,10 @@ export default function Fool() {
         }}
       >
         jtuhxa/kk ds izeq[k dhV ,oa jksx
-      </span>
+      </span> */}
     </strong>
   </p>
-  <table
+  {/* <table
     className="MsoTableGrid"
     border={1}
     cellSpacing={0}
@@ -1871,7 +1871,7 @@ export default function Fool() {
         </td>
       </tr>
     </tbody>
-  </table>
+  </table> */}
   <p />
   <p>
     {" "}
@@ -1934,7 +1934,7 @@ export default function Fool() {
   </p>
   <p className="MsoNormal" style={{ textAlign: "center" }}>
     <strong>
-      <span
+      {/* <span
         style={{
           lineHeight: "115%",
           fontFamily: '"Kruti Dev 010"',
@@ -1942,10 +1942,10 @@ export default function Fool() {
         }}
       >
         tjcsjk ds izeq[k dhV ,oa jksx
-      </span>
+      </span> */}
     </strong>
   </p>
-  <table
+  {/* <table
     className="MsoTableGrid"
     border={1}
     cellSpacing={0}
@@ -2988,7 +2988,7 @@ export default function Fool() {
         </td>
       </tr>
     </tbody>
-  </table>
+  </table> */}
   <p>
     <strong className="strongclass">लिलियम</strong>
     <br />

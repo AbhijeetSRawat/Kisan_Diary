@@ -163,7 +163,7 @@ export default function Exportfool() {
     <br />
   </p>
   <p></p>
-  <table
+  {/* <table
     className="MsoTableGrid"
     border={1}
     cellSpacing={0}
@@ -1249,7 +1249,7 @@ export default function Exportfool() {
         </td>
       </tr>
     </tbody>
-  </table>
+  </table> */}
   <p />
   <p>
     <strong className="strongclass">रजनीगंधा</strong>
@@ -1348,7 +1348,7 @@ export default function Exportfool() {
   </p>
   <p className="MsoNormal" align="center" style={{ textAlign: "center" }}>
     <strong>
-      <span
+      {/* <span
         style={{
           lineHeight: "115%",
           fontFamily: '"Kruti Dev 010"',
@@ -1356,10 +1356,10 @@ export default function Exportfool() {
         }}
       >
         xqykc ds izeq[k dhV ,oa jksx
-      </span>
+      </span> */}
     </strong>
   </p>
-  <table
+  {/* <table
     className="MsoTableGrid"
     border={1}
     cellSpacing={0}
@@ -2447,7 +2447,7 @@ export default function Exportfool() {
         </td>
       </tr>
     </tbody>
-  </table>
+  </table> */}
   <p>
     <strong className="strongclass">लिली</strong>
     <br />
