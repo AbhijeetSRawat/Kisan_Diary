@@ -100,31 +100,34 @@ const App = () => {
     <div style={{ display: "flex", flexDirection: "column" }}>
       {/* Header */}
       <header
-        style={{
-          background: "#001529",
-          color: "white",
-          height: "150px",
-          padding: "16px",
-          display: "flex",
-          justifyContent: "space-between",
-          alignItems: "center",
-        }}
-      >
-        <div className=" flex  items-center">
-          <div className="logo ">
-            <img src={logo} alt="logo" className="h-[15vh] rounded-full" />
-          </div>
-          <div className="flex flex-col items-center w-[90vw]">
-            <h1 className="text-4xl font-semibold mb-2">
-              उत्तराखंड किसान ज्ञान पोर्टल
-            </h1>
-            <h3 className="text-xl">
-              गोविन्द बल्लभ पन्त कृषि एवं प्रौद्योगिक विश्वविद्यालय
-            </h3>
-            <h3 className="text-xl">पंतनगर-263145 , उत्तराखंड</h3>
-          </div>
-        </div>
-      </header>
+  style={{
+    background: "#001529",
+    color: "white",
+    padding: "16px",
+    display: "flex",
+    justifyContent: "center",
+    alignItems: "center",
+  }}
+  className="h-auto md:h-[150px] px-4"
+>
+  <div className="flex flex-col md:flex-row items-center w-full text-center md:text-left">
+    {/* Logo Section */}
+    <div className="mb-4 md:mb-0 md:mr-4 flex justify-center">
+      <img src={logo} alt="logo" className="h-[12vh] md:h-[15vh] rounded-full" />
+    </div>
+
+    {/* Text Content */}
+    <div className="flex flex-col items-center md:items-start w-full">
+      <h1 className="text-2xl sm:text-3xl md:text-4xl font-semibold mb-2">
+        उत्तराखंड किसान ज्ञान पोर्टल
+      </h1>
+      <h3 className="text-lg sm:text-xl">
+        गोविन्द बल्लभ पन्त कृषि एवं प्रौद्योगिक विश्वविद्यालय
+      </h3>
+      <h3 className="text-lg sm:text-xl">पंतनगर-263145 , उत्तराखंड</h3>
+    </div>
+  </div>
+</header>
       <img src={joinedImages} alt="images" />
 
       <div className='bg-slate-300' style={{ display: "flex", flex: 1 }}>
@@ -132,8 +135,11 @@ const App = () => {
         <SideBar className="h-[70vh]" />
 
         {/* Main Content */}
-        <main className='bg-slate-300' style={{ flex: 1, padding: "24px" }}>
-          <div className=' bg-white  border-4 p-5 min-h-[60vh]  rounded-lg' style={{ marginBottom: "16px" }}>
+        <main className="bg-slate-300 flex-1 p-6 sm:p-8">
+  <div
+    className="bg-white border-4 p-5 min-h-[60vh] rounded-lg mx-auto w-full max-w-[900px]"
+    style={{ marginBottom: "16px" }}
+  >
             <Routes>
                 <Route path='/' element={<Abt/>}/>
                 <Route path='/chapter1' element={<Chapter1/>}/>
