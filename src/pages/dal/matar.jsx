@@ -1,4 +1,6 @@
-import React from 'react'
+
+import { Link } from "react-router-dom"
+import table1 from "../../assets/img/matarrog.jpg"
 
 export default function Matar() {
   return (
@@ -8,7 +10,7 @@ export default function Matar() {
         <h1 className="h3class text-3xl ml-[35vw] font-semibold">मटर</h1>
       </center>
       <div style={{ float: 'right' }}>
-        <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" href="/DalhaniFasle">पीछे जाएँ</a>
+        <Link className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" href="/DalhaniFasle">पीछे जाएँ</Link>
       </div>
       </div>
         <></>
@@ -153,12 +155,12 @@ export default function Matar() {
       </tr>
       <tr>
         <td height={51}>
-          <div align="center">मटर का रतुआ (गेरूई) रोग</div>
+          <div >मटर का रतुआ (गेरूई) रोग</div>
         </td>
       </tr>
       <tr>
         <td width={574} height={271}>
-          <img src="./img/matarrog.jpg" width={348} height={267} />
+          <img src={table1} width={348} height={267} />
         </td>
       </tr>
       <tr>

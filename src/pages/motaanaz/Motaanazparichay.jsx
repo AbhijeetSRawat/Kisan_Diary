@@ -5,11 +5,10 @@ export const Motaanazparichay = () => {
     <div>
         <>
 
-  pageEncoding="UTF-8"%&gt;
   <meta httpEquiv="Content-Type" content="text/html; charset=UTF-8" />
   <title>JSP Page</title>
   <center>
-    <h3 className="h3class">मोटे अनाज-परिचय, आहार में महत्व एवं पोषकता </h3>
+    <h3 className="h3class text-3xl font bold mb-5">मोटे अनाज-परिचय, आहार में महत्व एवं पोषकता </h3>
   </center>
   <p />
   <p>

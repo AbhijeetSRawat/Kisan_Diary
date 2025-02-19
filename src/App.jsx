@@ -1,20 +1,20 @@
-import React from 'react';
+
 import logo from './assets/imgages/logo1.jpg'
 import joinedImages from './assets/imgages/joinedimages.jpg'
 import { Route, Routes } from 'react-router-dom';
 import SideBar from './components/SideBar';
 import Chapter1 from './pages/chapter1';
-
+import Exportfool from './pages/falfool/Exportfool';
 import KhadyanFasle from './components/KhadyanFasle';
 import Gehun from './pages/gehun';
-import Chana from './pages/Dal/chana';
+import Chana from './pages/dal/chana.jsx';
 import DalhaniFasle from './components/DalhaniFasle';
-import Matar from './pages/Dal/matar';
-import Masoor from './pages/Dal/masoor';
-import Urd from './pages/Dal/urd';
-import Moong from './pages/Dal/moong';
-import Rajma from './pages/Dal/rajma';
-import Arhar from './pages/Dal/arhar';
+import Matar from './pages/dal/matar.jsx';
+import Masoor from './pages/dal/masoor.jsx';
+import Urd from './pages/dal/urd.jsx';
+import Moong from './pages/dal/moong.jsx';
+import Rajma from './pages/dal/rajma.jsx';
+import Arhar from './pages/dal/arhar.jsx';
 import Masale from './components/Masale';
 import Pyaj from './pages/masaley/Pyaj';
 import Chawal from './pages/Chawal';
@@ -51,7 +51,7 @@ import Sugandhi from './pages/falfool/Sugandhi';
 import Aamkeybaag from './pages/falfool/Aamkeybaag';
 import Leechi from './pages/falfool/Leechi';
 import Amrud from './pages/falfool/Amrud';
-import Exportfool from './pages/falfool/Exportfool';
+
 import Ganna from './pages/Ganna';
 import Tilhanifasle from './components/Tilhanifasle';
 import Lahi from './pages/til/Lahi';
@@ -64,6 +64,7 @@ import Soyabeen from './pages/til/Soyabeen';
 import Jaivik from './components/Jaivik';
 import { Jaivikkheti } from './Jaivikkheti';
 import { Jaiwik } from './Jaiwik';
+import Seb from './pages/fruit/Seb';
 const App = () => {
 //>>>>>>> b7670bb6ccf28a6ac60565848412bde74ebd9ade
   return (
@@ -103,7 +104,7 @@ const App = () => {
 
         {/* Main Content */}
         <main className='bg-slate-300' style={{ flex: 1, padding: "24px" }}>
-          <div className=' bg-white  border-4 p-5  rounded-lg' style={{ marginBottom: "16px" }}>
+          <div className=' bg-white  border-4 p-5 min-h-[60vh]  rounded-lg' style={{ marginBottom: "16px" }}>
             <Routes>
                 <Route path='/' element={<Abt/>}/>
                 <Route path='/chapter1' element={<Chapter1/>}/>
@@ -164,6 +165,8 @@ const App = () => {
                 <Route path='/jaivik' element={<Jaivik/>}/>
                 <Route path='/jaivikkheti' element={<Jaivikkheti/>}/>
                 <Route path='/jaivikrog' element={<Jaiwik/>}/>
+                <Route path='/seb' element={<Seb/>}/>
+                <Route path='/foolutpadan' element={<Exportfool/>}/>
 
 
 

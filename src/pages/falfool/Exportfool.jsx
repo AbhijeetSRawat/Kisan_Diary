@@ -12,7 +12,7 @@ export default function Exportfool() {
     </h3>
   </center>
   <p>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;वर्तमान
+    वर्तमान
     समय मे पुष्पोत्पादन एक उत्कृष्ट व्यवसाय के रूप में विकसित हुआ है। हमारे देश
     मे फूलों का उपयोग काफी पहले से पूजा अर्चना एवं सजावट के लिए किया जाता रहा
     है, परन्तु आजकल एक व्यवसाय के रूप में इसका प्रयोग काफी बढ़ गया है। उपयोग के
@@ -163,7 +163,7 @@ export default function Exportfool() {
     <br />
   </p>
   <p></p>
-  <table
+  {/* <table
     className="MsoTableGrid"
     border={1}
     cellSpacing={0}
@@ -1249,7 +1249,7 @@ export default function Exportfool() {
         </td>
       </tr>
     </tbody>
-  </table>
+  </table> */}
   <p />
   <p>
     <strong className="strongclass">रजनीगंधा</strong>
@@ -1348,7 +1348,7 @@ export default function Exportfool() {
   </p>
   <p className="MsoNormal" align="center" style={{ textAlign: "center" }}>
     <strong>
-      <span
+      {/* <span
         style={{
           lineHeight: "115%",
           fontFamily: '"Kruti Dev 010"',
@@ -1356,10 +1356,10 @@ export default function Exportfool() {
         }}
       >
         xqykc ds izeq[k dhV ,oa jksx
-      </span>
+      </span> */}
     </strong>
   </p>
-  <table
+  {/* <table
     className="MsoTableGrid"
     border={1}
     cellSpacing={0}
@@ -2447,7 +2447,7 @@ export default function Exportfool() {
         </td>
       </tr>
     </tbody>
-  </table>
+  </table> */}
   <p>
     <strong className="strongclass">लिली</strong>
     <br />

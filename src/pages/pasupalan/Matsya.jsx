@@ -2,7 +2,7 @@ import React from 'react'
 import table1 from "../../assets/imgages/matsya1.jpg"
 import table2 from "../../assets/imgages/Untitled.jpg"
 import table4 from "../../assets/imgages/matsya3.jpg"
-import table3 from "../../assets/imgages/matsya2.jpg"
+// import table3 from "../../assets/imgages/matsya2.JPG"
 
 export default function Matsya() {
   return (
@@ -231,7 +231,7 @@ export default function Matsya() {
     आहार एंव खाद पर होने वाले खर्च के हो जाता है। <br />
   </p>
   <p>
-    <img src={table3} width={503} height={304} alt="" />
+    {/* <img src={table3} width={503} height={304} alt="" /> */}
   </p>
   <p>
     <strong className="strongclass">मत्स्य सह मुर्गी पालन</strong>

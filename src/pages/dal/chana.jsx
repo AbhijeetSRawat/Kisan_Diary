@@ -1,6 +1,6 @@
-import React from 'react';
 import chanarog2 from "../../assets/img/chanarog2.jpg";
 import chanarog from "../../assets/img/chanarog.jpg";
+import { Link } from "react-router-dom";
 
 export default function Chana() {
   return (
@@ -10,7 +10,7 @@ export default function Chana() {
           <h1 className="h3class text-3xl ml-[35vw] font-semibold">चना</h1>
         </center>
         <div style={{ float: 'right' }}>
-          <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded" href="/DalhaniFasle">पीछे जाएँ</a>
+        <Link className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" href="/DalhaniFasle">पीछे जाएँ</Link>
         </div>
       </div>
       <>
@@ -32,7 +32,7 @@ export default function Chana() {
         <p>
           <strong className="strongclass">जैव उर्वरकों की उपयोग विधि</strong>
           <br />
-          "क्रॉप्स के रोगज़फ़ैम और पी.एस.बी. जैसे जैविक एजेंट्स द्वारा उपचार लाभकारी होता है। क्रॉप्स के लिए रोगज़फ़ैम और पी.एस.बी. जैविक एजेंट्स की लगभग 200 ग्राम मात्रा का एक पैकेट 10 किलोग्राम क्रॉप्स को उपचारित करने के लिए पर्याप्त होता है। क्रॉप्स को स्वच्छ पानी से धोकर लेप को क्रॉप्स के साथ अच्छी तरह मिलाएं ताकि क्रॉप्स के ऊपर लेप की एक समान परत चिपक जाए। लेप को क्रॉप्स के ऊपर चिपकाने के लिए 10 प्रतिशत गुड़/शहद का घोल भी उपयोग में लिया जा सकता है। क्रॉप्स उपचार के बाद क्रॉप्स को थोड़ी देर छाया में सुखाकर तुरंत बुवाई कर देनी चाहिए।" अगर आपको और किसी चीज़ में सहायता चाहिए तो बेझिझक बताएं।
+          क्रॉप्स के रोगज़फ़ैम और पी.एस.बी. जैसे जैविक एजेंट्स द्वारा उपचार लाभकारी होता है। क्रॉप्स के लिए रोगज़फ़ैम और पी.एस.बी. जैविक एजेंट्स की लगभग 200 ग्राम मात्रा का एक पैकेट 10 किलोग्राम क्रॉप्स को उपचारित करने के लिए पर्याप्त होता है। क्रॉप्स को स्वच्छ पानी से धोकर लेप को क्रॉप्स के साथ अच्छी तरह मिलाएं ताकि क्रॉप्स के ऊपर लेप की एक समान परत चिपक जाए। लेप को क्रॉप्स के ऊपर चिपकाने के लिए 10 प्रतिशत गुड़/शहद का घोल भी उपयोग में लिया जा सकता है। क्रॉप्स उपचार के बाद क्रॉप्स को थोड़ी देर छाया में सुखाकर तुरंत बुवाई कर देनी चाहिए। अगर आपको और किसी चीज़ में सहायता चाहिए तो बेझिझक बताएं।
         </p>
         <p>
           <strong className="strongclass">उर्वरक</strong>
@@ -117,7 +117,7 @@ export default function Chana() {
           वैज्ञानिक विधि से खेती करने पर चने की 20-30 कुन्तल प्रति हैक्टर पैदावार ली जा सकती है.
         </p>
         <div style={{ float: "right" }}>
-          <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounded-sm" href="/DalhaniFasle">पीछे जाएँ</a>
+        <Link className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" href="/DalhaniFasle">पीछे जाएँ</Link>
         </div>
       </>
     </div>

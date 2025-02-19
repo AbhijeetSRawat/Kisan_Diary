@@ -13,6 +13,8 @@ export default function Falfool() {
         <li><Link className='text-2xl text-blue-900 ' to="/litchikebaag"> 6.लीची के बाग की स्थापना एवं देखभाल</Link></li>
         <li><Link className='text-2xl text-blue-900 ' to="/amroodkiunnat"> 7.अमरूद की उन्नत बागवानी</Link></li>
         <li><Link className='text-2xl text-blue-900 ' to="/pushputpadan"> 8.पुष्प उत्पादन</Link></li>
+        <li><Link className='text-2xl text-blue-900 ' to="/seb"> 9.सेब</Link></li>
+
 
         </ul>
     </div>

@@ -2,6 +2,7 @@ import React from 'react'
 import table1 from "../assets/imgages/tables/table9.jpg"
 import table2 from "../assets/imgages/tables/table10.jpg"
 import table3 from "../assets/imgages/tables/table11.jpg"
+import { Link } from 'react-router-dom'
 export default function Chawal() {
   return (
     <div>
@@ -11,8 +12,7 @@ export default function Chawal() {
         <h1 className="h3class text-3xl ml-[35vw] font-semibold">धान</h1>
       </center>
       <div style={{ float: 'right' }}>
-        <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" href="/KhadyanFasle">पीछे जाएँ</a>
-      </div>
+      <Link className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" to="/KhadyanFasle">पीछे जाएँ</Link>      </div>
       </div>
   <br />
   <div align="right">
@@ -506,8 +506,7 @@ export default function Chawal() {
   <br />
   <p>संपर्क सूत्र: 8755790584</p>
   <div style={{ float: "right" }}>
-  <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" href="/KhadyanFasle">पीछे जाएँ</a>
-
+  <Link className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" to="/KhadyanFasle">पीछे जाएँ</Link>
   </div>
   <p />
 </>

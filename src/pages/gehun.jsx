@@ -1,4 +1,5 @@
 
+import { Link } from "react-router-dom";
 import table1 from "../assets/imgages/tables/table1.jpg";
 import table2 from "../assets/imgages/tables/table2.jpg";
 import table3 from "../assets/imgages/tables/table3.jpg";
@@ -16,7 +17,7 @@ export default function Gehun() {
         <h1 className="h3class text-3xl ml-[35vw] font-semibold">गेहूँ</h1>
       </center>
       <div style={{ float: 'right' }}>
-        <a className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" href="/KhadyanFasle">पीछे जाएँ</a>
+        <Link className="peechey h-[5vh] w-[5vw] flex justify-center items-center bg-blue-900 text-white rounde" to="/KhadyanFasle">पीछे जाएँ</Link>
       </div>
       </div>
 
