@@ -1,4 +1,4 @@
-import React from 'react'
+
 import table1 from "../../assets/img/matarrog.jpg"
 
 export default function Matar() {
@@ -154,7 +154,7 @@ export default function Matar() {
       </tr>
       <tr>
         <td height={51}>
-          <div align="center">मटर का रतुआ (गेरूई) रोग</div>
+          <div >मटर का रतुआ (गेरूई) रोग</div>
         </td>
       </tr>
       <tr>
