@@ -412,7 +412,7 @@ export default function Chapter1() {
           </tr> */}
            </tbody>
           </table>
-          <div align="left" width="60v">
+          <div  width="60v">
 
          
            <table>
