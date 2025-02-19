@@ -9,7 +9,7 @@ import KhadyanFasle from './components/KhadyanFasle';
 import Gehun from './pages/gehun';
 // import Chana from './pages/Dal/chana';
 import DalhaniFasle from './components/DalhaniFasle';
-import Matar from './pages/Dal/matar';
+// import Matar from './pages/Dal/matar';
 import Masoor from './pages/Dal/masoor';
 import Urd from './pages/Dal/urd';
 import Moong from './pages/Dal/moong';
