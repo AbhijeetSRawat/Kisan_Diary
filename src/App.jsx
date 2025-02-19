@@ -7,7 +7,7 @@ import Chapter1 from './pages/chapter1';
 import Exportfool from './pages/falfool/Exportfool';
 import KhadyanFasle from './components/KhadyanFasle';
 import Gehun from './pages/gehun';
-import Chana from './pages/Dal/chana';
+// import Chana from './pages/Dal/chana';
 import DalhaniFasle from './components/DalhaniFasle';
 import Matar from './pages/Dal/matar';
 import Masoor from './pages/Dal/masoor';
