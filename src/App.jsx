@@ -65,6 +65,33 @@ import Jaivik from './components/Jaivik';
 import { Jaivikkheti } from './Jaivikkheti';
 import { Jaiwik } from './Jaiwik';
 import Seb from './pages/fruit/Seb';
+import Sabji from './components/Sabji.jsx';
+import Aaloo from './pages/sabji/Aaloo.jsx';
+import Bagun from './pages/sabji/Bagun.jsx';
+import Bhindi from './pages/sabji/Bhindi.jsx';
+import Chappankaddu from './pages/sabji/Chappankaddu.jsx';
+import Faraasbean from './pages/sabji/Faraasbean.jsx';
+import Gobhi from './pages/sabji/Gobhi.jsx';
+import Karela from './pages/sabji/Karela.jsx'
+import Kashifal from './pages/sabji/Kashifal.jsx'
+import Kheera from './pages/sabji/Kheera.jsx'
+import Lauki from './pages/sabji/Lobiya.jsx'
+import Mirch from './pages/sabji/Mirch.jsx'
+import Parwal from './pages/sabji/Parwal.jsx'
+import Polyhouse from './pages/sabji/Polyhouse.jsx'
+import Sabjimatar from './pages/sabji/Sabjimatar.jsx'
+import Sabjisangrashit from './pages/sabji/Sabjisangrashit.jsx'
+import Sem from './pages/sabji/Sem.jsx'
+import Lobiya from './pages/sabji/Lobiya.jsx';
+
+import Shimalamirch from './pages/sabji/Shimalamirch.jsx';
+import Tamtar from './pages/sabji/Tamtar.jsx';
+import Torai from './pages/sabji/Torai.jsx';
+import Mudra1 from './pages/mudra/Mudra1.jsx';
+import Mudra2 from './pages/mudra/Mudra2.jsx';
+import Mudra4 from './pages/mudra/Mudra4.jsx';
+import Mudra3 from './pages/mudra/Mudra3.jsx';
+
 const App = () => {
 //>>>>>>> b7670bb6ccf28a6ac60565848412bde74ebd9ade
   return (
@@ -166,7 +193,32 @@ const App = () => {
                 <Route path='/jaivikkheti' element={<Jaivikkheti/>}/>
                 <Route path='/jaivikrog' element={<Jaiwik/>}/>
                 <Route path='/seb' element={<Seb/>}/>
-                <Route path='/foolutpadan' element={<Exportfool/>}/>
+                <Route path='/sabji' element={<Sabji/>}/>
+                <Route path='/aaloo' element={<Aaloo/>}/>
+                <Route path='/bagun' element={<Bagun/>}/>
+                <Route path='/bhindi' element={<Bhindi/>}/>
+                <Route path='/chappankaddu' element={<Chappankaddu/>}/>
+                <Route path='/faraasbean' element={<Faraasbean/>}/>
+                <Route path='/gobhi' element={<Gobhi/>}/>
+                <Route path='/karela' element={<Karela/>}/>
+                <Route path='/kashifal' element={<Kashifal/>}/>
+                <Route path='/kheera' element={<Kheera/>}/>
+                <Route path='/lauki' element={<Lauki/>}/>
+                <Route path='/lobiya' element={<Lobiya/>}/>
+                <Route path='/mirch' element={<Mirch/>}/>
+                <Route path='/parwal' element={<Parwal/>}/>
+                <Route path='/polyhouse' element={<Polyhouse/>}/>
+                <Route path='/sabjimatar' element={<Sabjimatar/>}/>
+                <Route path='/sabjisangrashit' element={<Sabjisangrashit/>}/>
+                <Route path='/sem' element={<Sem/>}/>
+                <Route path='/shimalamirch' element={<Shimalamirch/>}/>
+                <Route path='/tamatar' element={<Tamtar/>}/>
+                <Route path='/torai' element={<Torai/>}/>
+                <Route path='/mudra1' element={<Mudra1/>}/>
+                <Route path='/mudra2' element={<Mudra2/>}/>
+                <Route path='/mudra3' element={<Mudra3/>}/>
+                <Route path='/mudra4' element={<Mudra4/>}/>
+
 
 
 
