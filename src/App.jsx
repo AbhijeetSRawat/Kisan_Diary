@@ -94,6 +94,7 @@ import Mudra3 from './pages/mudra/Mudra3.jsx';
 import Mudra from './components/Mudra.jsx';
 
 import meriyojna from './assets/files/Meri_Yojna.pdf'
+import MeriYojna from './meriYojna.jsx';
 const App = () => {
 //>>>>>>> b7670bb6ccf28a6ac60565848412bde74ebd9ade
   return (
@@ -221,7 +222,7 @@ const App = () => {
                 <Route path='/mudra2' element={<Mudra2/>}/>
                 <Route path='/mudra3' element={<Mudra3/>}/>
                 <Route path='/mudra4' element={<Mudra4/>}/>
-                <Route path='/meriyojna' element={meriyojna}/>
+                <Route path='/meriyojna' element={<MeriYojna/>}/>
 
 
 
