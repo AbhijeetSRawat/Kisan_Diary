@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import Chapter1 from '../pages/chapter1'
+
 
 export default function SideBar() {
   return (
