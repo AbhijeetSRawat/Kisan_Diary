@@ -6,8 +6,12 @@ function Mudra4() {
       <>
         <meta httpEquiv="Content-Type" content="text/html; charset=UTF-8" />
         <title>JSP Page</title>
-        <p>
+        <p >
+
+          <div className="text-3xl font-bold mb-5">
           पर्वतीय क्षेत्रों में वर्शा पर आधारित खेती हेतु भूमि एवं जल संरक्षण{" "}
+          </div>
+          
           <br />
           <br />
           ‘भूमि’ एवं ‘जल’ प्रकृति द्वारा मनुष्य को दी गई दो अनमोल सम्पदायें है

@@ -6,7 +6,7 @@ function Mudra3() {
       <>
         <meta httpEquiv="Content-Type" content="text/html; charset=UTF-8" />
         <title>JSP Page</title>
-        <p>एकीकृत नाशीजीव प्रबन्धन</p>
+        <p className="text-3xl font-bold mb-5">एकीकृत नाशीजीव प्रबन्धन</p>
         <p>
           {" "}
           विभिन्न फसलों में अनियंत्रित कृषि रसायनों का प्रयोग एक जटिल समस्या का

@@ -7,7 +7,7 @@ function Mudra1() {
         <meta httpEquiv="Content-Type" content="text/html; charset=UTF-8" />
         <title>JSP Page</title>
         <center>
-          <h3 className="h3class">
+          <h3 className="text-3xl font-bold mb-5">
             <strong>मृदा एवं जल संरक्षण तकनीक</strong>
           </h3>
         </center>
