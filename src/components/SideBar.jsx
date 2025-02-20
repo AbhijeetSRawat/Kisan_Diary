@@ -27,6 +27,8 @@ export default function SideBar() {
               <Link className='bg-slate-300 text-black rounded-md h-[40px] border-b-2 flex justify-center items-center hover:bg-blue-100 hover:scale-105  hover:text-blue-900' to="/sabji">सब्जी</Link>
               <Link className='bg-slate-300 text-black rounded-md h-[40px] border-b-2 flex justify-center items-center hover:bg-blue-100 hover:scale-105  hover:text-blue-900' to="/mudra">मृदा</Link>
               <Link className='bg-slate-300 text-black rounded-md h-[40px] border-b-2 flex justify-center items-center hover:bg-blue-100 hover:scale-105  hover:text-blue-900' to="/mushroom">मशरूम</Link>
+              <Link className='bg-slate-300 text-black rounded-md h-[70px] border-b-2 flex justify-center items-center pl-3 hover:bg-blue-100 hover:scale-105  hover:text-blue-900' to="/photosfile">प्रौद्योगिकी महाविद्यालय द्वारा विकसित किए गए कृषि यंत्र एवं तकनीकें
+              </Link>
 
 
 
