@@ -94,7 +94,6 @@ import Mudra4 from './pages/mudra/Mudra4.jsx';
 import Mudra3 from './pages/mudra/Mudra3.jsx';
 import Mudra from './components/Mudra.jsx';
 
-import meriyojna from './assets/files/Meri_Yojna.pdf'
 import MeriYojna from './meriYojna.jsx';
 import Mushroom from './components/Mushroom.jsx';
 
